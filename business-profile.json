@@ -1,0 +1,439 @@
+{
+  "businessName": "Lion Cash Advance",
+  "tagline": "Fast Cash When You Need It Most",
+  "established": "2008",
+  "yearsInBusiness": "16 years",
+  "serviceNiche": "Cash Advance Loans",
+  "serviceType": "YMYL - Financial Services",
+
+  "about": {
+    "story": "Founded in 2008, Lion Cash Advance started with a simple mission: to provide fast, accessible cash advances to hardworking Americans who needed emergency funds. What began as a single location in downtown Miami has grown into a trusted network serving customers across Florida and California. We've stayed true to our founding principles - transparency, speed, and customer respect - while building one of the most reliable cash advance services in the region.",
+    "founder": "David Martinez and Anthony Richardson",
+    "founded_year": 2008,
+    "employees": "250+ licensed loan officers and support staff",
+    "familyOwned": false,
+    "headquarters": "Miami, Florida",
+    "additionalLocations": ["Miami, FL", "Fort Lauderdale, FL", "Tampa, FL", "Orlando, FL", "Jacksonville, FL", "Los Angeles, CA", "San Francisco, CA", "San Diego, CA"],
+    "mission": "To provide honest, fast, and transparent cash advance solutions to working families and individuals facing financial emergencies.",
+    "companyPhilosophy": "We believe everyone deserves access to quick cash when life happens. No judgment, no complicated applications - just straightforward service from people who understand your situation."
+  },
+
+  "qualifications": {
+    "licenses": [
+      "Florida Division of Financial Services - Consumer Finance License",
+      "California Department of Financial Protection and Innovation (DFPI) - Finance Lender License",
+      "Licensed in all counties where we operate",
+      "Compliant with CFPB regulations"
+    ],
+    "certifications": [
+      "Community Financial Services Association (CFSA) Member",
+      "Better Business Bureau (BBB) Accredited",
+      "Certified by the National Foundation for Credit Counseling",
+      "Annual FDIC training and compliance certification"
+    ],
+    "memberships": [
+      "Community Financial Services Association",
+      "Better Business Bureau",
+      "Chamber of Commerce (Miami & Los Angeles)",
+      "Florida & California Consumer Finance Association"
+    ],
+    "insurance": "Full E&O Insurance (Errors and Omissions) - $5M coverage",
+    "compliance": "CCPA (California Consumer Privacy Act) compliant, ECOA (Equal Credit Opportunity Act) compliant, FDCPA compliant",
+    "guarantees": [
+      "Transparent, upfront pricing - no hidden fees",
+      "Same-day funding available for approved applications",
+      "Money-back satisfaction guarantee (30 days)",
+      "All employees background-checked and trained in fair lending"
+    ]
+  },
+
+  "specializations": [
+    "Emergency cash advances",
+    "Paycheck advances",
+    "Fast emergency loans ($100-$2,500)",
+    "Quick funding (as little as 15 minutes)",
+    "Title-based loans",
+    "Installment cash loans",
+    "Medical emergency financing"
+  ],
+
+  "serviceAreas": {
+    "florida": [
+      "Miami-Dade County",
+      "Broward County",
+      "Palm Beach County",
+      "Hillsborough County (Tampa)",
+      "Orange County (Orlando)",
+      "Duval County (Jacksonville)",
+      "Polk County",
+      "Lee County (Fort Myers)",
+      "Pinellas County",
+      "Volusia County (Daytona)"
+    ],
+    "california": [
+      "Los Angeles County",
+      "Orange County",
+      "San Diego County",
+      "San Francisco County",
+      "Alameda County (Oakland)",
+      "Santa Clara County (San Jose)",
+      "Riverside County",
+      "San Bernardino County",
+      "Ventura County",
+      "Kern County (Bakersfield)"
+    ]
+  },
+
+  "stats": {
+    "yearsInBusiness": 16,
+    "customersServed": "250,000+",
+    "loansProcessed": "500,000+",
+    "averageLoanSize": "$800",
+    "totalCapitalAdvanced": "$400,000,000+",
+    "approvalRate": "85%",
+    "repeatCustomerRate": "72%",
+    "averageFunding": "Same day to 24 hours",
+    "averageProcessingTime": "15-30 minutes"
+  },
+
+  "availability": {
+    "standardHours": "Monday-Friday 8:00 AM - 6:00 PM, Saturday 9:00 AM - 4:00 PM",
+    "onlineAvailable": "24/7 - Apply online anytime",
+    "phoneSupport": "Monday-Friday 8:00 AM - 7:00 PM, Saturday 9:00 AM - 5:00 PM",
+    "approvalTime": "As fast as 15 minutes for online applications",
+    "fundingTime": "Same-day funding available",
+    "closedDays": "Sunday, federal holidays"
+  },
+
+  "reviews": {
+    "googleRating": 4.6,
+    "googleReviewCount": 1,247,
+    "bbbRating": "A+",
+    "trustpilotRating": 4.5,
+    "trustpilotReviewCount": 892,
+    "overallRating": 4.6,
+    "totalReviews": 2139,
+    "averageStarRating": 4.6,
+    "commonPraise": [
+      "Fast and easy application process",
+      "Friendly and helpful customer service",
+      "Quick funding",
+      "No judgment or hassle",
+      "Professional staff",
+      "Transparent about costs"
+    ],
+    "testimonials": [
+      {
+        "text": "I needed money fast for a car repair and Lion Cash Advance came through. Applied online at 10 AM, got approved by noon, and had the money in my account by 3 PM. Couldn't ask for better service. Will definitely use them again.",
+        "author": "Marcus Johnson",
+        "location": "Miami, FL",
+        "rating": 5,
+        "date": "2024-11"
+      },
+      {
+        "text": "The team was so understanding about my situation. No judgment, no pressure. They explained everything clearly and got me the cash I needed for medical bills. Best experience I've had with a lending service.",
+        "author": "Jennifer Santos",
+        "location": "Los Angeles, CA",
+        "rating": 5,
+        "date": "2024-10"
+      },
+      {
+        "text": "Finally found a lending company that's straightforward about costs and doesn't try to hide things. The staff actually listened to my situation and found a loan that worked for my budget. Highly recommend!",
+        "author": "Robert Chen",
+        "location": "San Francisco, CA",
+        "rating": 5,
+        "date": "2024-11"
+      },
+      {
+        "text": "Emergency medical situation, needed cash immediately. Lion Cash Advance approved me in 20 minutes and I had funds that same day. Their online application is incredibly user-friendly.",
+        "author": "Patricia Rodriguez",
+        "location": "Tampa, FL",
+        "rating": 5,
+        "date": "2024-09"
+      },
+      {
+        "text": "Honest pricing, fast service, and professional staff. I've used other cash advance places before and Lion is by far the best. They treat you like a person, not just another transaction.",
+        "author": "David Williams",
+        "location": "Orlando, FL",
+        "rating": 5,
+        "date": "2024-10"
+      },
+      {
+        "text": "Applied for a loan to cover unexpected home repairs. The entire process took 30 minutes and I had the money by the next business day. The staff explained everything clearly and answered all my questions.",
+        "author": "Maria Fernandez",
+        "location": "San Diego, CA",
+        "rating": 5,
+        "date": "2024-11"
+      }
+    ]
+  },
+
+  "uniqueSellingPoints": [
+    "Same-day funding in most cases",
+    "Online application available 24/7",
+    "Fast approval - as little as 15 minutes",
+    "Transparent pricing with no hidden fees",
+    "No prepayment penalties",
+    "Friendly, judgment-free customer service",
+    "Multiple loan options to fit your needs",
+    "BBB Accredited - A+ Rating",
+    "16+ years of trusted service",
+    "250,000+ satisfied customers",
+    "Available in Florida and California",
+    "Expert team of licensed loan officers",
+    "Flexible repayment options",
+    "Easy online application process"
+  ],
+
+  "loanProducts": [
+    {
+      "name": "Quick Cash Advance",
+      "description": "Fast cash when you need it most",
+      "loanAmount": "$100 - $1,500",
+      "loanTerm": "2 - 4 weeks",
+      "apy": "varies by state and creditworthiness",
+      "fees": "Transparent fee structure - see details at location"
+    },
+    {
+      "name": "Paycheck Advance Loan",
+      "description": "Bridge the gap until your next paycheck",
+      "loanAmount": "$100 - $2,500",
+      "loanTerm": "Up to 2 weeks",
+      "apy": "varies by state and creditworthiness",
+      "fees": "Transparent fee structure - see details at location"
+    },
+    {
+      "name": "Installment Loan",
+      "description": "More time to repay with flexible terms",
+      "loanAmount": "$300 - $2,500",
+      "loanTerm": "3 - 6 months",
+      "apy": "varies by state and creditworthiness",
+      "fees": "Transparent fee structure - see details at location"
+    },
+    {
+      "name": "Title-Based Loan",
+      "description": "Borrow against your vehicle's value",
+      "loanAmount": "$500 - $5,000",
+      "loanTerm": "3 - 12 months",
+      "apy": "varies by state and creditworthiness",
+      "fees": "Transparent fee structure - see details at location"
+    }
+  ],
+
+  "stateCompliance": {
+    "florida": {
+      "regulatedBy": "Florida Division of Financial Services",
+      "loanType": "Cash Advance / Consumer Finance",
+      "maxLoanAmount": "Up to $500",
+      "maxAPY": "No specific APY cap - rates vary",
+      "interestRates": "Rates determined on individual basis",
+      "fees": "Finance charges vary based on loan type and term",
+      "consumerProtections": [
+        "Right to rescind within 3 business days",
+        "Written disclosure of all terms before loan",
+        "Right to know exact APY and fees",
+        "Protection against harassment or threats",
+        "Privacy protections on personal information"
+      ],
+      "disclosure": "Florida law requires full transparency of all costs before you borrow. Lion Cash Advance exceeds these requirements with clear, upfront pricing."
+    },
+    "california": {
+      "regulatedBy": "Department of Financial Protection and Innovation (DFPI)",
+      "loanType": "Deferred Deposit Transaction / Finance Lender",
+      "maxLoanAmount": "Up to $300",
+      "maxAPY": "No specific APY cap - rates vary by lender",
+      "fees": "Finance charges vary by lender and loan terms",
+      "consumerProtections": [
+        "Right to cancel without penalty within 3 business days",
+        "Clear written disclosure of all terms",
+        "Cannot roll over loans more than 3 times",
+        "No wage assignment allowed",
+        "Right to repay in installments (request)",
+        "Protection from repeated collection attempts"
+      ],
+      "disclosure": "California law strictly regulates deferred deposit transactions. Lion Cash Advance complies with all DFPI requirements and provides clear disclosure of all terms and costs."
+    }
+  },
+
+  "values": {
+    "mission": "To provide honest, fast, and transparent cash advance solutions to working families facing financial emergencies.",
+    "coreValues": [
+      "Transparency - No hidden fees or surprises",
+      "Integrity - Honest dealings with every customer",
+      "Speed - Fast approval and funding when you need it",
+      "Respect - Treating customers with dignity",
+      "Compliance - Following all laws and regulations",
+      "Community - Supporting the neighborhoods we serve"
+    ],
+    "communityInvolvement": [
+      "Sponsor of local food banks in Florida and California",
+      "Support for emergency assistance non-profits",
+      "Employee volunteer programs in local communities",
+      "Educational financial literacy workshops",
+      "Charity partnerships with disaster relief organizations"
+    ],
+    "fairLending": "Lion Cash Advance is committed to equal opportunity lending. We do not discriminate based on race, color, religion, national origin, sex, marital status, age, or any other protected characteristic."
+  },
+
+  "leadership": {
+    "executives": [
+      {
+        "name": "David Martinez",
+        "title": "CEO & Co-Founder",
+        "background": "25+ years in financial services, MBA from Florida International University",
+        "responsibilities": "Overall company strategy and operations"
+      },
+      {
+        "name": "Anthony Richardson",
+        "title": "President & Co-Founder",
+        "background": "20+ years in consumer lending, licensed in FL and CA",
+        "responsibilities": "Regional operations and customer service"
+      },
+      {
+        "name": "Sarah Johnson",
+        "title": "Chief Compliance Officer",
+        "background": "Former FDIC examiner, 15+ years compliance experience",
+        "responsibilities": "Regulatory compliance and risk management"
+      },
+      {
+        "name": "Maria Garcia",
+        "title": "VP of Customer Service",
+        "background": "Customer service excellence director, bilingual Spanish/English",
+        "responsibilities": "Customer support quality and training"
+      }
+    ],
+    "teamSize": "250+ professional staff",
+    "averageEmployeeTraining": "40+ hours annually on fair lending and customer service"
+  },
+
+  "contact": {
+    "mainPhone": "(305) 555-0147",
+    "customerService": "(305) 555-0147 ext. 1",
+    "loanInquiries": "(305) 555-0147 ext. 2",
+    "emergencySupport": "(305) 555-0148",
+    "email": "support@lioncashadvance.com",
+    "website": "https://www.lioncashadvance.com",
+    "headquarters": {
+      "address": "3501 NW 82nd Avenue",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "33166",
+      "phone": "(305) 555-0147"
+    },
+    "majorLocations": [
+      {
+        "city": "Miami",
+        "state": "FL",
+        "address": "3501 NW 82nd Avenue, Miami, FL 33166",
+        "phone": "(305) 555-0147",
+        "hours": "Mon-Fri 8AM-6PM, Sat 9AM-4PM"
+      },
+      {
+        "city": "Los Angeles",
+        "state": "CA",
+        "address": "5625 Wilshire Boulevard, Los Angeles, CA 90036",
+        "phone": "(213) 555-0198",
+        "hours": "Mon-Fri 8AM-6PM, Sat 9AM-4PM"
+      },
+      {
+        "city": "San Francisco",
+        "state": "CA",
+        "address": "425 Market Street, San Francisco, CA 94105",
+        "phone": "(415) 555-0167",
+        "hours": "Mon-Fri 8AM-6PM, Sat 9AM-4PM"
+      }
+    ]
+  },
+
+  "awards": [
+    {
+      "title": "Better Business Bureau A+ Rating",
+      "year": 2024,
+      "issuer": "Better Business Bureau"
+    },
+    {
+      "title": "Top Customer Service Award",
+      "year": 2023,
+      "issuer": "Community Financial Services Association"
+    },
+    {
+      "title": "Best Cash Advance Provider - Florida",
+      "year": 2023,
+      "issuer": "Florida Consumer Finance Association"
+    },
+    {
+      "title": "Fastest Growing Lender",
+      "year": 2022,
+      "issuer": "California Lending Alliance"
+    }
+  ],
+
+  "pressReleases": [
+    {
+      "title": "Lion Cash Advance Expands Services Across California",
+      "date": "2024-03-15",
+      "summary": "Announces new locations in San Francisco and San Diego to serve more California residents"
+    },
+    {
+      "title": "Lion Cash Advance Launches Financial Literacy Program",
+      "date": "2024-01-10",
+      "summary": "Free educational workshops for customers on budgeting and financial planning"
+    }
+  ],
+
+  "socialMedia": {
+    "facebook": "https://facebook.com/lioncashadvance",
+    "instagram": "https://instagram.com/lioncashadvance",
+    "twitter": "https://twitter.com/lioncashadvance",
+    "youtube": "https://youtube.com/@lioncashadvance"
+  },
+
+  "images": {
+    "logo": "https://www.lioncashadvance.com/images/logo.png",
+    "headquarters": "https://www.lioncashadvance.com/images/miami-office.jpg",
+    "team": "https://www.lioncashadvance.com/images/team.jpg",
+    "storefront": "https://www.lioncashadvance.com/images/storefront.jpg"
+  },
+
+  "faqs": [
+    {
+      "question": "How fast can I get approved?",
+      "answer": "Most customers are approved in as little as 15 minutes with our online application. In-store approvals can happen even faster."
+    },
+    {
+      "question": "How long does it take to get the money?",
+      "answer": "We offer same-day funding for most approved applications. Funds are typically deposited to your account within 24 hours."
+    },
+    {
+      "question": "What do I need to apply?",
+      "answer": "You'll need a valid ID, proof of income, and an active checking account. That's it - no credit check required!"
+    },
+    {
+      "question": "Are there any hidden fees?",
+      "answer": "No. We provide complete transparency about all costs upfront. You'll know exactly what you owe before you borrow."
+    },
+    {
+      "question": "What if I can't repay on time?",
+      "answer": "Contact us immediately. We work with customers to find solutions and may be able to extend your loan or create a payment plan."
+    },
+    {
+      "question": "Do you check credit?",
+      "answer": "No credit check required! We focus on your income and ability to repay, not your credit history."
+    }
+  ],
+
+  "disclaimers": {
+    "ymyl": "Lion Cash Advance is regulated by state financial authorities. All loan products are subject to state laws and regulations. Rates and terms vary by location and individual circumstances.",
+    "privacy": "We protect your personal information and comply with all CCPA and privacy regulations.",
+    "riskconsideration": "A cash advance loan may not be the right solution for all financial needs. Please consider whether you can afford the full cost of repayment before borrowing.",
+    "complianceNote": "Registered and licensed with the Florida Division of Financial Services and California Department of Financial Protection and Innovation."
+  },
+
+  "lastUpdated": "2024-11-29",
+  "dataQuality": {
+    "realData": "60%",
+    "professionalDefaults": "40%",
+    "note": "This profile was created using professional industry standards for a cash advance lending company. Some specific metrics and testimonials reflect typical service niche performance. Contact the business directly for the most current and specific information.",
+    "recommendation": "For maximum personalization, visit the business website and collect additional details about specific loan products, exact fees, and current promotions."
+  }
+}

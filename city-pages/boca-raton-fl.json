@@ -1,0 +1,219 @@
+{
+  "id": "boca-raton-fl",
+  "city": "Boca Raton",
+  "slug": "boca-raton",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "countyName": "Palm Beach County",
+  "serviceNiche": "Cash Advance Loans",
+  "businessName": "Lion Cash Advance",
+
+  "seo": {
+    "title": "Cash Advance Loans in Boca Raton, FL | Quick Cash Near Mizner Park | Lion Cash Advance",
+    "metaDescription": "Get fast cash in Boca Raton near Mizner Park. Emergency payday loans with same-day approval. Professional service. Call (561) 555-0183 today.",
+    "canonicalUrl": "/locations/florida/boca-raton",
+    "keywords": [
+      "cash advance boca raton",
+      "payday loans boca raton fl",
+      "quick cash boca raton",
+      "emergency loans boca raton",
+      "fast cash near me boca raton"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Boca Raton, FL",
+    "subheadline": "Emergency cash near Mizner Park",
+    "ctaText": "Get Boca Raton Cash Now",
+    "ctaUrl": "/apply?location=boca-raton-fl",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=boca+raton+florida+cash+advance"
+    }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Boca Raton office near Mizner Park",
+      "caption": "Professional cash advance services in Boca Raton"
+    }
+  },
+
+  "localProof": {
+    "headline": "Located Near Mizner Park",
+    "directions": "We are conveniently located at 1850 North Federal Highway, right near the upscale Mizner Park shopping and dining district. If you're taking I-95, take the Palmetto Park Road exit toward the beach. We're near Boca Raton Beach, Palmetto Park, and the Town Center, easily accessible from US-1 and FL-A1A.",
+    "landmarks": [
+      "Mizner Park",
+      "Boca Raton Beach",
+      "Palmetto Park",
+      "Town Center"
+    ],
+    "highways": [
+      "I-95",
+      "US-1",
+      "FL-A1A"
+    ],
+    "neighborhoodName": "Mizner Park District",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Boca Raton",
+    "street": "1850 North Federal Highway, Suite 170",
+    "city": "Boca Raton",
+    "state": "FL",
+    "zip": "33432",
+    "phone": "(561) 555-0183",
+    "formattedPhone": "+15615550183",
+    "formattedAddress": "1850 North Federal Highway, Suite 170, Boca Raton, FL 33432"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Services Available in Boca Raton",
+    "intro": "At our Boca Raton location, we offer flexible cash advance solutions for Palm Beach County residents:",
+    "services": [
+      {
+        "name": "Single-Payment Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Quick cash with straightforward terms",
+        "anchorText": "Get payday loans in Boca Raton"
+      },
+      {
+        "name": "Installment Payday Loans",
+        "slug": "installment-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Flexible payment schedules",
+        "anchorText": "Choose installment options"
+      },
+      {
+        "name": "Fast Track Cash",
+        "slug": "fast-track",
+        "url": "/services/cash-advance-loans",
+        "description": "Same-day approval available",
+        "anchorText": "Apply for fast approval"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Cash Advance Laws in Florida",
+    "content": "Residents of Boca Raton are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance.\n\nFlorida law caps single-payment payday loans at $500 with a maximum fee of 10% of the loan amount, plus a $5 verification fee. For a $500 loan, you would pay no more than $55 in fees. For installment payday loans, the maximum is $1,000 with fees capped at 8% of the outstanding balance on a biweekly basis. All lenders must comply with federal Truth-in-Lending Act disclosure requirements.\n\nOne of Florida's most important protections is the 'one loan at a time' rule. You cannot have more than one payday loan outstanding anywhere in Florida, and you must wait 24 hours after paying off one loan before taking out another. This is enforced through a mandatory statewide database. Loan rollovers and extensions are strictly prohibited.",
+    "keyPoints": [
+      "All payday lenders in Florida must be licensed by the Florida Office of Financial Regulation",
+      "You can only have one cash advance loan at a time in Florida",
+      "Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee",
+      "Installment loans are capped at $1,000 with maximum 8% biweekly fee",
+      "You must wait 24 hours after paying off one loan before taking out another",
+      "Loan rollovers and extensions are prohibited by law",
+      "If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling",
+      "You cannot be criminally prosecuted for an unpaid payday loan",
+      "Prepayment penalties are prohibited"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR), Division of Consumer Finance",
+    "regulatoryUrl": "https://flofr.gov",
+    "contactPhone": "(850) 487-9687",
+    "disclaimer": "This information is provided for general educational purposes only. Laws and regulations are subject to change. For accurate information, contact the Florida Office of Financial Regulation or visit flofr.gov."
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Palm Beach County",
+    "intro": "Can't visit Boca Raton? We also serve:",
+    "cities": [
+      {
+        "name": "Delray Beach",
+        "slug": "delray-beach",
+        "url": "/locations/florida/delray-beach",
+        "distanceMiles": 8
+      },
+      {
+        "name": "Deerfield Beach",
+        "slug": "deerfield-beach",
+        "url": "/locations/florida/deerfield-beach",
+        "distanceMiles": 12
+      },
+      {
+        "name": "Pompano Beach",
+        "slug": "pompano-beach",
+        "url": "/locations/florida/pompano-beach",
+        "distanceMiles": 14
+      },
+      {
+        "name": "West Palm Beach",
+        "slug": "west-palm-beach",
+        "url": "/locations/florida/west-palm-beach",
+        "distanceMiles": 16
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Boca Raton cash advance office?",
+      "answer": "We're at 1850 North Federal Highway, Suite 170, near the upscale Mizner Park shopping district. Easy access from I-95, near Boca Raton Beach and Palmetto Park."
+    },
+    {
+      "question": "What are your hours at the Boca Raton location?",
+      "answer": "Monday through Friday 9:00 AM - 6:00 PM, Saturday 10:00 AM - 4:00 PM. We're closed Sundays. Call (561) 555-0183 for holiday hours."
+    },
+    {
+      "question": "How quickly can I get approved?",
+      "answer": "Most customers receive approval and funding within 30 minutes. You can apply online first to expedite the process."
+    },
+    {
+      "question": "What documents do I need to bring?",
+      "answer": "Bring a valid government ID, recent proof of income (pay stub or bank statement), and a blank check from your checking account. We explain all costs upfront."
+    },
+    {
+      "question": "Are there other locations nearby?",
+      "answer": "Yes! We serve Delray Beach (8 miles), Deerfield Beach (12 miles), Pompano Beach (14 miles), and West Palm Beach (16 miles). Call for directions."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Cash in Boca Raton",
+    "subheadline": "Visit our Federal Highway office or apply online",
+    "primaryCta": {
+      "text": "Apply for Boca Raton Cash",
+      "url": "/apply?location=boca-raton-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (561) 555-0183",
+      "url": "tel:+15615550183"
+    },
+    "address": "1850 North Federal Highway, Suite 170, Boca Raton, FL 33432"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - Boca Raton",
+    "areaServed": "Boca Raton, FL",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "Boca Raton", "url": "/locations/florida/boca-raton"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:00:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batchNumber": 2,
+    "cityNumber": 21
+  }
+}

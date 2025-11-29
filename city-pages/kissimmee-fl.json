@@ -1,0 +1,219 @@
+{
+  "id": "kissimmee-fl",
+  "city": "Kissimmee",
+  "slug": "kissimmee",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "countyName": "Osceola County",
+  "serviceNiche": "Cash Advance Loans",
+  "businessName": "Lion Cash Advance",
+
+  "seo": {
+    "title": "Cash Advance Loans in Kissimmee, FL | Quick Cash Near Downtown | Lion Cash Advance",
+    "metaDescription": "Get fast payday loans in Kissimmee near Shingle Creek. Same-day approval available. Professional cash advance service. Call (407) 555-0209.",
+    "canonicalUrl": "/locations/florida/kissimmee",
+    "keywords": [
+      "cash advance kissimmee",
+      "payday loans kissimmee fl",
+      "quick cash kissimmee florida",
+      "emergency loans kissimmee",
+      "fast cash near me kissimmee"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Kissimmee, FL",
+    "subheadline": "Emergency cash for Kissimmee residents",
+    "ctaText": "Apply for Kissimmee Cash Now",
+    "ctaUrl": "/apply?location=kissimmee-fl",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=kissimmee+florida+cash+advance"
+    }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1573548387169-ec6f5e8ad8a9?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Kissimmee downtown office",
+      "caption": "Professional cash advance services in Kissimmee"
+    }
+  },
+
+  "localProof": {
+    "headline": "Located Downtown Kissimmee",
+    "directions": "We are conveniently located at 123 Broadway Street, right in the heart of downtown Kissimmee near historic Shingle Creek and Lakefront Park. If you're taking US-17, head toward downtown. We're near the Osceola County Courthouse and easily accessible from US-92 and FL-17.",
+    "landmarks": [
+      "Shingle Creek",
+      "Lakefront Park",
+      "Broadway Street",
+      "Osceola County Courthouse"
+    ],
+    "highways": [
+      "US-17",
+      "US-92",
+      "FL-17"
+    ],
+    "neighborhoodName": "Downtown Kissimmee",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Kissimmee",
+    "street": "123 Broadway Street, Suite 200",
+    "city": "Kissimmee",
+    "state": "FL",
+    "zip": "34741",
+    "phone": "(407) 555-0209",
+    "formattedPhone": "+14075550209",
+    "formattedAddress": "123 Broadway Street, Suite 200, Kissimmee, FL 34741"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Loans Available in Kissimmee",
+    "intro": "At our Kissimmee location, we offer quick cash solutions for Osceola County residents:",
+    "services": [
+      {
+        "name": "Single-Payment Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Quick cash with straightforward terms",
+        "anchorText": "Get payday loans in Kissimmee"
+      },
+      {
+        "name": "Installment Payday Loans",
+        "slug": "installment-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Flexible payment options",
+        "anchorText": "Explore installment loans"
+      },
+      {
+        "name": "Tourist Season Cash",
+        "slug": "seasonal-cash",
+        "url": "/services/cash-advance-loans",
+        "description": "Perfect for seasonal needs",
+        "anchorText": "Get seasonal emergency cash"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Cash Advance Laws in Florida",
+    "content": "Residents of Kissimmee are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance.\n\nFlorida law caps single-payment payday loans at $500 with a maximum fee of 10% of the loan amount, plus a $5 verification fee. For a $500 loan, you would pay no more than $55 in fees. For installment payday loans, the maximum is $1,000 with fees capped at 8% of the outstanding balance on a biweekly basis. All lenders must comply with federal Truth-in-Lending Act disclosure requirements.\n\nOne of Florida's most important protections is the 'one loan at a time' rule. You cannot have more than one payday loan outstanding anywhere in Florida, and you must wait 24 hours after paying off one loan before taking out another. This is enforced through a mandatory statewide database. Loan rollovers and extensions are strictly prohibited.",
+    "keyPoints": [
+      "All payday lenders in Florida must be licensed by the Florida Office of Financial Regulation",
+      "You can only have one cash advance loan at a time in Florida",
+      "Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee",
+      "Installment loans are capped at $1,000 with maximum 8% biweekly fee",
+      "You must wait 24 hours after paying off one loan before taking out another",
+      "Loan rollovers and extensions are prohibited by law",
+      "If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling",
+      "You cannot be criminally prosecuted for an unpaid payday loan",
+      "Prepayment penalties are prohibited"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR), Division of Consumer Finance",
+    "regulatoryUrl": "https://flofr.gov",
+    "contactPhone": "(850) 487-9687",
+    "disclaimer": "This information is provided for general educational purposes only. Laws and regulations are subject to change. For current information, contact the Florida Office of Financial Regulation at (850) 487-9687."
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Osceola County",
+    "intro": "Can't visit Kissimmee? We also serve:",
+    "cities": [
+      {
+        "name": "St. Cloud",
+        "slug": "st-cloud",
+        "url": "/locations/florida/st-cloud",
+        "distanceMiles": 12
+      },
+      {
+        "name": "Poinciana",
+        "slug": "poinciana",
+        "url": "/locations/florida/poinciana",
+        "distanceMiles": 18
+      },
+      {
+        "name": "Intercession City",
+        "slug": "intercession-city",
+        "url": "/locations/florida/intercession-city",
+        "distanceMiles": 15
+      },
+      {
+        "name": "Orlando",
+        "slug": "orlando",
+        "url": "/locations/florida/orlando",
+        "distanceMiles": 22
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Kissimmee office?",
+      "answer": "We're at 123 Broadway Street, Suite 200, in downtown Kissimmee near historic Shingle Creek and Lakefront Park. Easy access from US-17, US-92, and FL-17."
+    },
+    {
+      "question": "What are your hours?",
+      "answer": "Monday through Friday 9:00 AM - 6:00 PM, Saturday 10:00 AM - 4:00 PM. Closed Sundays. Call (407) 555-0209 for holiday hours."
+    },
+    {
+      "question": "How quickly can I get approved?",
+      "answer": "Most customers are approved and funded within 30 minutes. You can apply online first to speed up the process."
+    },
+    {
+      "question": "What documents do I need to bring?",
+      "answer": "Bring a valid government ID, recent proof of income (pay stub or bank statement), and a blank check from your checking account. We explain all costs upfront."
+    },
+    {
+      "question": "Do you serve nearby areas?",
+      "answer": "Yes! We serve Osceola County including St. Cloud (12 miles), Poinciana (18 miles), Intercession City (15 miles), and Orlando (22 miles)."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Cash in Kissimmee",
+    "subheadline": "Visit our Broadway Street office or apply online",
+    "primaryCta": {
+      "text": "Apply for Kissimmee Cash",
+      "url": "/apply?location=kissimmee-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (407) 555-0209",
+      "url": "tel:+14075550209"
+    },
+    "address": "123 Broadway Street, Suite 200, Kissimmee, FL 34741"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - Kissimmee",
+    "areaServed": "Kissimmee, FL",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "Kissimmee", "url": "/locations/florida/kissimmee"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:00:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batchNumber": 2,
+    "cityNumber": 24
+  }
+}

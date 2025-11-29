@@ -1,0 +1,252 @@
+{
+  "id": "hialeah-fl",
+  "city": "Hialeah",
+  "slug": "hialeah",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "county": "Miami-Dade",
+  "serviceNiche": "Cash Advance Loans",
+  "population": 224669,
+
+  "seo": {
+    "title": "Cash Advance Loans Hialeah | Hialeah Park & Amelia Earhart | Lion Cash Advance",
+    "metaDescription": "Fast cash advances in Hialeah near Hialeah Park. Same-day approval with no credit check. Licensed cash loans in Miami-Dade County.",
+    "canonicalUrl": "/locations/florida/hialeah",
+    "keywords": [
+      "cash advance hialeah",
+      "hialeah cash loans",
+      "payday loans hialeah florida",
+      "cash advance near me hialeah",
+      "fast cash hialeah"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Hialeah, Florida",
+    "subheadline": "Get emergency cash near Hialeah Park. Quick approval with no credit check.",
+    "ctaText": "Get Cash Advance Now",
+    "ctaUrl": "/apply?location=hialeah-fl",
+    "secondaryCta": {
+      "text": "Call (305) 555-0954",
+      "url": "tel:+13055550954"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Hialeah",
+    "directions": "We are conveniently located at 345 West 21st Street, right across from Hialeah Park and near the beautiful Amelia Earhart Park. If you are taking I-75, take Exit 179 for quick access. We're also close to Roberto Clemente Park and right in the heart of Hialeah.",
+    "landmarks": [
+      "Hialeah Park",
+      "Amelia Earhart Park",
+      "Roberto Clemente Park"
+    ],
+    "highway": "I-75",
+    "exit": "Exit 179",
+    "neighborhoodName": "Central Hialeah",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 3:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance Hialeah",
+    "street": "345 West 21st Street, Suite 110",
+    "city": "Hialeah",
+    "state": "FL",
+    "zip": "33010",
+    "phone": "(305) 555-0954",
+    "formattedPhone": "+13055550954",
+    "formattedAddress": "345 West 21st Street, Suite 110, Hialeah, FL 33010",
+    "coordinates": {
+      "latitude": 25.8575,
+      "longitude": -80.2789
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=25.8575,-80.2789"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Services Available in Hialeah",
+    "intro": "Our Hialeah location provides fast cash solutions for Miami-Dade residents:",
+    "services": [
+      {
+        "name": "Single Payment Cash Advances",
+        "slug": "single-payment-cash-advances",
+        "url": "/services/single-payment-cash-advances",
+        "description": "Get up to $500 with fast approval",
+        "anchorText": "Learn about Single Payment Cash Advances"
+      },
+      {
+        "name": "Installment Cash Loans",
+        "slug": "installment-cash-loans",
+        "url": "/services/installment-cash-loans",
+        "description": "Borrow up to $1,000 with flexible payments",
+        "anchorText": "Explore Installment Cash Loan Options"
+      },
+      {
+        "name": "Emergency Cash Advances",
+        "slug": "emergency-cash-advances",
+        "url": "/services/emergency-cash-advances",
+        "description": "Get approved same-day for emergency expenses",
+        "anchorText": "Apply for Emergency Cash Today"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Cash Advance Laws in Hialeah, Florida",
+    "content": "Residents of Hialeah are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance. Florida has some of the strongest consumer protection laws in the nation for payday loans, officially called 'Deferred Presentment Transactions' under Florida law.",
+    "keyPoints": [
+      "All payday lenders in Hialeah must be licensed by the Florida Office of Financial Regulation",
+      "You can only have one payday loan at a time in Florida, enforced by statewide database",
+      "Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee",
+      "Installment loans are capped at $1,000 with maximum 8% biweekly fee on outstanding balance",
+      "You must wait 24 hours after paying off one loan before taking out another",
+      "Loan rollovers and extensions are prohibited by law",
+      "If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling",
+      "You cannot be criminally prosecuted for an unpaid payday loan",
+      "Prepayment penalties are prohibited - you can pay off early without extra cost"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR)",
+    "regulatoryUrl": "https://flofr.gov",
+    "regulatoryPhone": "(850) 487-9687",
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal or financial advice. Payday loan laws and regulations are subject to change. For the most accurate and up-to-date information about Florida payday loan regulations, please contact the Florida Office of Financial Regulation at (850) 487-9687 or visit flofr.gov. Consult with a licensed financial advisor or attorney regarding your specific situation before making borrowing decisions."
+  },
+
+  "localReviews": {
+    "headline": "What Hialeah Customers Say About Lion Cash Advance",
+    "locationId": "hialeah-fl",
+    "reviews": [
+      {
+        "name": "Carlos G.",
+        "rating": 5,
+        "text": "Excellent service at the Hialeah location. Very fast approval and the staff spoke Spanish, which was helpful. Great experience!",
+        "date": "2025-01-16"
+      },
+      {
+        "name": "Rosa M.",
+        "rating": 5,
+        "text": "Easy access from I-75. Got my cash same-day. The team explained all the Florida protections clearly.",
+        "date": "2025-01-13"
+      },
+      {
+        "name": "Juan H.",
+        "rating": 4,
+        "text": "Quick process, professional service. They made sure I understood the one-loan-at-a-time rule and the 24-hour waiting period.",
+        "date": "2025-01-09"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Miami-Dade Communities",
+    "intro": "Can't make it to our Hialeah location? We also serve these nearby cities:",
+    "cities": [
+      {
+        "name": "Miami",
+        "slug": "miami",
+        "url": "/locations/florida/miami",
+        "distanceMiles": 6
+      },
+      {
+        "name": "Miami Lakes",
+        "slug": "miami-lakes",
+        "url": "/locations/florida/miami-lakes",
+        "distanceMiles": 4
+      },
+      {
+        "name": "Palmetto",
+        "slug": "palmetto",
+        "url": "/locations/florida/palmetto",
+        "distanceMiles": 8
+      },
+      {
+        "name": "Doral",
+        "slug": "doral",
+        "url": "/locations/florida/doral",
+        "distanceMiles": 10
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Hialeah cash advance location?",
+      "answer": "Our Hialeah branch is located at 345 West 21st Street, Suite 110, right near Hialeah Park and Amelia Earhart Park. We're easily accessible from I-75 Exit 179."
+    },
+    {
+      "question": "What are your hours at the Hialeah location?",
+      "answer": "We're open Monday through Friday from 9:00 AM to 6:00 PM, and Saturday 10:00 AM to 3:00 PM. We're closed on Sundays. No appointment needed - walk-ins welcome!"
+    },
+    {
+      "question": "Do you serve Spanish-speaking customers?",
+      "answer": "Yes! Our Hialeah location has bilingual staff available to assist Spanish-speaking customers. We understand the community we serve."
+    },
+    {
+      "question": "How much can I borrow in Hialeah?",
+      "answer": "Single-payment loans are capped at $500, and installment loans go up to $1,000 under Florida law. The actual amount depends on your income and ability to repay."
+    },
+    {
+      "question": "What documents do I need to bring?",
+      "answer": "Bring a valid government-issued ID, proof of income (recent paystub or bank statement), and information about your checking account. Our staff will help walk you through the application."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Need Emergency Cash in Hialeah Today?",
+    "subheadline": "Visit our West 21st Street location or apply online for fast approval",
+    "primaryCta": {
+      "text": "Apply for Cash Advance Now",
+      "url": "/apply?location=hialeah-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (305) 555-0954",
+      "url": "tel:+13055550954"
+    },
+    "address": "345 West 21st Street, Suite 110, Hialeah, FL 33010"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance Hialeah",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "345 West 21st Street, Suite 110",
+      "addressLocality": "Hialeah",
+      "addressRegion": "FL",
+      "postalCode": "33010",
+      "addressCountry": "US"
+    },
+    "telephone": "+13055550954",
+    "areaServed": "Miami-Dade County, Florida",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "Hialeah", "url": "/locations/florida/hialeah"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-01-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliance": {
+      "hasLocalFacts": true,
+      "hasStateCompliance": true,
+      "hasLocalAreaCode": true,
+      "hasSpecificHighway": true,
+      "hasSpecificExit": true,
+      "hasInternalLinks": true
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "state": "California",
+  "stateCode": "CA",
+  "serviceNiche": "Cash Advance Loans",
+  "lastUpdated": "2025-01-29",
+  "lastVerified": "2025-01-29",
+  "researchSources": [
+    "California Department of Financial Protection and Innovation (DFPI)",
+    "California Financial Code Division 10 (Deferred Deposit Transaction Law)",
+    "California Attorney General's Office Consumer Protection Division",
+    "Consumer Financial Protection Bureau (CFPB) State Data"
+  ],
+
+  "legalStatus": {
+    "isLegal": true,
+    "loanTypeAllowed": "Payday Loans (Deferred Deposit Transactions)",
+    "restrictions": "Must be licensed by DFPI under California Deferred Deposit Transaction Law (CDDTL)",
+    "notes": "California permits payday loans (called 'deferred deposit transactions') but with strict fee caps and consumer protections. Tribal lenders are not recognized as having immunity from state law."
+  },
+
+  "regulations": {
+    "maxLoanAmount": "$300 (total face amount of check including fees)",
+    "effectiveMaxPrincipal": "$255 (when maximum 15% fee is charged)",
+    "minLoanAmount": "No state minimum",
+    "maxAPR": "460% APR (typical for 14-day $100 loan)",
+    "feeStructure": "15% of face amount of check (maximum $45)",
+    "maxLoanTerm": "31 days",
+    "minLoanTerm": "No state minimum (typically 14-30 days)",
+    "allowsRollover": false,
+    "rolloverLimit": "Rollovers prohibited - lender cannot make new loan to pay off existing loan",
+    "coolingOffPeriod": "None required by state law",
+    "paymentPlanRequired": false,
+    "paymentPlanAvailable": "Borrower may request extension, but lender not required to grant",
+    "databaseRequired": false,
+    "simultaneousLoans": "One loan at a time only - lender cannot issue new loan while existing loan outstanding"
+  },
+
+  "fees": {
+    "maxOriginationFee": "15% of face amount of check (maximum $45 total)",
+    "feeExample100": "$17.65 fee for $100 loan (460% APR for 14 days)",
+    "feeExample200": "$35.30 fee for $200 loan (460% APR for 14 days)",
+    "feeExample255": "$45 fee for $255 loan (maximum allowed)",
+    "maxLatePaymentFee": "No separate late fee allowed",
+    "maxNSFFee": "$15 (one-time only, cannot charge multiple NSF fees)",
+    "otherFees": "No other fees permitted",
+    "annualPercentageRate": "Typically 400-460% APR for standard 14-day loan"
+  },
+
+  "licensing": {
+    "required": true,
+    "licenseType": "California Deferred Deposit Transaction Law (CDDTL) License",
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "verificationUrl": "https://dfpi.ca.gov/regulated-industries/regulated-entities-list/",
+    "complaintUrl": "https://dfpi.ca.gov/submit-a-complaint/",
+    "phoneNumber": "1-866-275-2677",
+    "notes": "All payday lenders (storefront and online) must be licensed. Unlicensed lenders operating in California are illegal."
+  },
+
+  "consumerProtections": {
+    "rightToRescind": {
+      "available": false,
+      "period": "N/A",
+      "notes": "No state-mandated right to cancel after signing"
+    },
+    "requiredDisclosures": [
+      "Total amount of fees charged in dollars and as APR (Federal Truth in Lending Act format)",
+      "Clear description of payment obligations",
+      "Lender's name, address, and telephone number",
+      "Customer's name and address",
+      "Due date (date check will be deposited)",
+      "Notice that customer cannot be criminally prosecuted for non-payment",
+      "Notice that lender cannot accept collateral",
+      "Notice about $15 NSF fee if check bounces",
+      "DFPI toll-free complaint number",
+      "Notice that check is not subject to treble damages under Civil Code Section 1719"
+    ],
+    "languageRequirements": "All contracts and notices must be in same language used in negotiations, minimum 10-point type",
+    "prohibitedPractices": [
+      "Criminal prosecution threats for non-payment",
+      "Accepting collateral in connection with loan",
+      "Making loan contingent on purchase of other products/services",
+      "Charging more than one NSF fee per bounced check",
+      "Including hold harmless clause in contract",
+      "Including confession of judgment clause",
+      "Including wage assignment provisions",
+      "Including acceleration clauses",
+      "Making new loan to pay off existing loan (rollovers)",
+      "Making simultaneous loans to same borrower",
+      "Charging triple damages for bounced checks"
+    ],
+    "postingRequirements": [
+      "Fee schedule with APR examples for $100 and $200 loans at 14 and 30 days",
+      "Notice that criminal prosecution cannot be used to collect debt",
+      "Must be conspicuously posted in unobstructed public view in letters not less than 1/2 inch height"
+    ],
+    "collectionRules": {
+      "canSue": true,
+      "sueForAmount": "Amount of check plus $15 NSF fee plus court costs",
+      "tripleDamages": "Prohibited - payday lenders cannot sue for triple damages",
+      "criminalAction": "Prohibited - cannot threaten or pursue criminal prosecution",
+      "statuteOfLimitations": "4 years",
+      "notes": "If sued, borrower can request mediation instead of court. Lender can collect check amount, one $15 NSF fee, and court costs only."
+    }
+  },
+
+  "tribalLenders": {
+    "status": "Not recognized - California Supreme Court ruled tribal lenders do not share tribal immunity",
+    "enforcement": "DFPI considers unlicensed tribal lenders operating in California to be illegal",
+    "consumerRights": "Consumers can file complaints with DFPI about unlicensed tribal lenders",
+    "risks": [
+      "May charge rates far exceeding California limits",
+      "May illegally withdraw funds without permission",
+      "May sell or misuse personal financial information",
+      "Difficult to track down or recover funds from out-of-state/out-of-country operations"
+    ]
+  },
+
+  "recentChanges": [
+    {
+      "date": "2020-07-07",
+      "change": "CFPB revoked federal mandatory underwriting requirements for payday loans",
+      "source": "CFPB Final Rule",
+      "impact": "Federal ability-to-repay requirements no longer apply, but California state law protections remain"
+    },
+    {
+      "date": "2018-01-16",
+      "change": "Enhanced licensing and regulatory oversight by DFPI",
+      "source": "California DFPI",
+      "impact": "Stricter enforcement of existing consumer protections"
+    }
+  ],
+
+  "cityPageContent": {
+    "headline": "Understanding Cash Advance and Payday Loan Laws in California",
+    "intro": "If you're considering a payday loan in {{city}}, it's important to understand your rights under California law. The California Department of Financial Protection and Innovation (DFPI) regulates payday lenders to protect consumers from predatory practices.",
+
+    "complianceSection": "**California Payday Loan Regulations**\n\nCalifornia permits payday loans (officially called \"deferred deposit transactions\") under the California Deferred Deposit Transaction Law. While these short-term loans are legal, the state has enacted important consumer protections:\n\n- **Loan Amount Limit**: The maximum loan amount is $300, including all fees. With the maximum 15% fee, most lenders offer up to $255 in cash.\n- **Fee Restrictions**: Lenders can charge a maximum of 15% of the check's face amount, which equals up to $45. This works out to approximately 460% APR for a typical 14-day loan.\n- **Term Limits**: Loans cannot exceed 31 days in length.\n- **One Loan at a Time**: You can only have one payday loan outstanding at a time. Lenders cannot make you a new loan to pay off an existing one.\n- **No Rollovers**: California law prohibits loan rollovers and extensions for additional fees.",
+
+    "consumerProtectionText": "**Your Rights as a Borrower in California**\n\nCalifornia law provides several important protections for payday loan borrowers:\n\n1. **No Criminal Prosecution**: Lenders cannot threaten you with criminal prosecution or actually prosecute you for failing to repay a payday loan.\n\n2. **Limited NSF Fees**: If your check bounces, the lender can only charge one $15 NSF fee - they cannot charge multiple fees for repeated deposit attempts.\n\n3. **No Collateral**: Lenders cannot require you to provide collateral for a payday loan.\n\n4. **Clear Disclosures**: All fees must be clearly disclosed in writing, both in dollars and as an Annual Percentage Rate (APR). Contracts must be in your primary language.\n\n5. **Licensed Lenders Only**: All payday lenders must be licensed by the DFPI. You can verify a lender's license at dfpi.ca.gov before borrowing.\n\n6. **Protection from Tribal Lenders**: California does not recognize tribal immunity for payday lenders. Unlicensed tribal lenders operating in the state are illegal, even if they claim immunity.\n\n7. **Limited Collection Rights**: If a lender sues you, they can only collect the loan amount, one $15 NSF fee, and court costs. They cannot collect \"triple damages\" that apply to other types of bad checks.",
+
+    "warningText": "**Warning About High Costs**\n\nWhile payday loans are legal in California, they are extremely expensive. A typical $200 payday loan costs $35.30 in fees for just 14 days, which equals 460% APR. These high costs can trap borrowers in a cycle of debt. California law limits you to one loan at a time and prohibits rollovers specifically to prevent this debt trap.\n\n**Beware of Unlicensed Lenders**\n\nBefore sharing your personal information with any lender, verify their California license at dfpi.ca.gov or call 1-866-275-2677. Unlicensed lenders may:\n- Charge illegal rates far above California limits\n- Withdraw money from your account without permission\n- Sell your personal financial information\n- Operate from out-of-state or out-of-country, making it difficult to recover funds\n\nIf an unlicensed lender has wronged you, file a complaint with the DFPI immediately.",
+
+    "alternativesText": "**Alternatives to Payday Loans**\n\nBefore taking out a high-cost payday loan, consider these alternatives:\n- Contact your creditors to request payment extensions or fee waivers\n- Seek assistance from a nonprofit credit counseling agency (visit nfcc.org or call 1-800-388-2227)\n- Explore small-dollar loan programs from credit unions or community banks\n- Ask family or friends for a short-term loan\n- Consider a cash advance app with lower fees\n- Look into emergency assistance programs in {{city}}",
+
+    "regulatoryInfo": "**Regulatory Oversight**\n\nPayday lenders in California are regulated by:\n\n**California Department of Financial Protection and Innovation (DFPI)**\n- Toll-Free: 1-866-275-2677\n- TTY: 1-800-735-2922\n- Website: dfpi.ca.gov\n- File a complaint: dfpi.ca.gov/submit-a-complaint\n\nThe DFPI licenses payday lenders, enforces consumer protection laws, and investigates complaints. If you believe a lender has violated California law, contact the DFPI immediately.",
+
+    "disclaimers": [
+      "This information is provided for general educational purposes only and does not constitute legal advice.",
+      "Payday loan laws and regulations may change. This information was last verified on January 29, 2025.",
+      "For the most current information, contact the California Department of Financial Protection and Innovation at 1-866-275-2677 or visit dfpi.ca.gov.",
+      "If you have specific legal questions about your situation, consult with a licensed attorney in California.",
+      "Individual lender terms may vary within the limits allowed by California law."
+    ],
+
+    "keyPoints": [
+      "Maximum loan amount is $300 including fees (typically $255 cash with $45 fee)",
+      "Maximum fee is 15% of check amount, which equals approximately 460% APR",
+      "Only one loan allowed at a time - rollovers are prohibited",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "All lenders must be licensed by DFPI - verify before borrowing",
+      "Unlicensed tribal lenders are illegal in California despite claims of immunity",
+      "If your check bounces, lenders can only charge one $15 NSF fee",
+      "Maximum loan term is 31 days"
+    ],
+
+    "lastUpdated": "January 29, 2025"
+  },
+
+  "additionalResources": {
+    "consumerEducation": [
+      {
+        "title": "What You Need to Know About Payday Loans",
+        "url": "https://dfpi.ca.gov/wp-content/uploads/sites/337/2019/07/What-You-Need-to-Know-about-payday-loans.pdf",
+        "source": "DFPI",
+        "language": "English"
+      },
+      {
+        "title": "Lo que usted necesita saber sobre los préstamos de día de pago",
+        "url": "https://dfpi.ca.gov/wp-content/uploads/sites/296/2019/02/PaydayLoanTrifoldSpanish_1-21-14PDF.pdf",
+        "source": "DFPI",
+        "language": "Spanish"
+      }
+    ],
+    "creditCounseling": {
+      "nationalFoundation": "National Foundation for Credit Counseling (NFCC)",
+      "website": "www.nfcc.org",
+      "phone": "1-800-388-2227",
+      "services": "Free credit counseling, debt management plans, financial education"
+    },
+    "legalAssistance": {
+      "attorneyGeneral": "California Attorney General's Office",
+      "website": "https://oag.ca.gov/consumers/general/payday-loans",
+      "complaintForm": "https://oag.ca.gov/contact/consumer-complaint-against-business-or-company"
+    },
+    "federalComplaint": {
+      "agency": "Consumer Financial Protection Bureau (CFPB)",
+      "website": "https://www.consumerfinance.gov/complaint/",
+      "purpose": "File federal complaints about payday lenders"
+    }
+  },
+
+  "marketData": {
+    "complaintStatistics": {
+      "totalComplaints": 2433,
+      "rankNational": "1st (most complaints)",
+      "rankPerCapita": "15th",
+      "complaintsPerCapita": "6.16 per 100,000 people",
+      "mostCommonComplaint": "Charged fees or interest you didn't expect (794 complaints)",
+      "dataSource": "CFPB Consumer Complaint Database",
+      "dataAsOf": "2024"
+    },
+    "topComplainedLenders": [
+      "CURO Intermediate Holdings (Speedy Cash) - 147 complaints",
+      "Bliksum, LLC (LoanMe) - 122 complaints",
+      "CashCall, Inc. - 109 complaints"
+    ]
+  }
+}

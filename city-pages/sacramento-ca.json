@@ -1,0 +1,214 @@
+{
+  "id": "sacramento-ca",
+  "city": "Sacramento",
+  "slug": "sacramento",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Sacramento County",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans Sacramento | Near State Capitol | Lion Cash Advance",
+    "metaDescription": "Quick cash loans in Sacramento near California State Capitol. DFPI licensed, $300 max, 15% fee. Same-day approval. (916) 555-0351",
+    "canonicalUrl": "/locations/california/sacramento",
+    "keywords": ["cash advance sacramento", "payday loans sacramento", "quick cash california capital", "emergency loans sacramento"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Sacramento, California",
+    "subheadline": "Licensed lender serving Sacramento residents and government workers",
+    "ctaText": "Apply Now for Sacramento Cash",
+    "ctaUrl": "/apply?location=sacramento-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=sacramento+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Sacramento",
+    "directions": "We are conveniently located at 345 Capitol Mall, right near the California State Capitol and just down the road from American River Parkway. If you are taking I-80 or US-50, take Exit 16A toward Capitol Mall. Our downtown Sacramento location is centrally positioned with easy access to public transit.",
+    "landmarks": ["California State Capitol", "American River Parkway"],
+    "highway": "I-80 / US-50",
+    "exit": "Exit 16A",
+    "neighborhoodName": "Downtown Sacramento",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 5:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3148.678901!2d-121.4944!3d38.5816"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Sacramento",
+    "street": "345 Capitol Mall, Suite 180",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95814",
+    "phone": "(916) 555-0351",
+    "formattedPhone": "+19165550351",
+    "formattedAddress": "345 Capitol Mall, Suite 180, Sacramento, CA 95814",
+    "coordinates": {
+      "latitude": 38.5816,
+      "longitude": -121.4944
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=38.5816,-121.4944"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Options in Sacramento",
+    "intro": "Sacramento residents and government workers rely on us for quick financial solutions. Explore our flexible options:",
+    "services": [
+      {
+        "name": "Fast Cash Advances",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Quick loans up to $300 with same-day funding",
+        "anchorText": "Learn about Fast Cash Advances"
+      },
+      {
+        "name": "Emergency Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans for unexpected expenses",
+        "anchorText": "Emergency Payday Loans"
+      },
+      {
+        "name": "Guaranteed Approval Loans",
+        "slug": "guaranteed-approval-loans",
+        "url": "/services/guaranteed-approval-loans",
+        "description": "We work with all credit types",
+        "anchorText": "Guaranteed Approval Options"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply online and complete in Sacramento",
+        "anchorText": "Apply Online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding California Cash Advance Laws in Sacramento",
+    "content": "Sacramento County residents are protected by California's comprehensive consumer protection laws. The DFPI strictly enforces lending regulations.",
+    "keyPoints": [
+      "Maximum loan amount is $300 including all fees",
+      "Maximum fee is 15% of check amount (460% APR typical)",
+      "Only one loan allowed at a time - rollovers prohibited",
+      "Lenders cannot threaten criminal prosecution",
+      "Lion Cash Advance is DFPI licensed and regulated",
+      "One $15 NSF fee maximum per bounced check",
+      "Maximum 31-day loan term",
+      "Disclosures required in your language"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is educational. California cash advance laws are subject to change. For current information, contact DFPI at 1-866-275-2677 or visit dfpi.ca.gov. Consult a California attorney for legal questions."
+  },
+
+  "localReviews": {
+    "headline": "What Our Sacramento Customers Say",
+    "locationId": "sacramento-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Kevin T.",
+        "rating": 5,
+        "text": "Great location near the Capitol. Quick approval process. Very professional staff and transparent pricing.",
+        "date": "2024-12-25"
+      },
+      {
+        "name": "Laura D.",
+        "rating": 5,
+        "text": "Got approved same day at the Capitol Mall location. Easy to find and convenient to downtown Sacramento.",
+        "date": "2024-12-21"
+      },
+      {
+        "name": "Michael J.",
+        "rating": 4,
+        "text": "Good service, licensed by DFPI. Fair fees and professional treatment. Recommend for Sacramento residents.",
+        "date": "2024-12-16"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Sacramento Area Communities",
+    "intro": "Can't reach our downtown location? We serve these nearby Sacramento area cities:",
+    "cities": [
+      {"name": "Citrus Heights", "slug": "citrus-heights", "url": "/locations/california/citrus-heights", "distanceMiles": 14},
+      {"name": "Elk Grove", "slug": "elk-grove", "url": "/locations/california/elk-grove", "distanceMiles": 18},
+      {"name": "Folsom", "slug": "folsom", "url": "/locations/california/folsom", "distanceMiles": 22},
+      {"name": "West Sacramento", "slug": "west-sacramento", "url": "/locations/california/west-sacramento", "distanceMiles": 5}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Sacramento location?",
+      "answer": "We're at 345 Capitol Mall, Suite 180, right near the California State Capitol in downtown Sacramento. Take I-80 or US-50 to Exit 16A toward Capitol Mall. Easy public transit access."
+    },
+    {
+      "question": "How fast can I get approved in Sacramento?",
+      "answer": "Most applications are approved within 30-45 minutes. Bring a valid ID, recent pay stubs, and checking account information for same-day funding."
+    },
+    {
+      "question": "What's the maximum loan amount in California?",
+      "answer": "California law limits payday loans to $300 including all fees. With the maximum 15% fee, you can typically borrow up to $255."
+    },
+    {
+      "question": "Are your fees fair and transparent?",
+      "answer": "Yes. California caps all fees at 15%. A $200 loan costs $30 in fees. A $255 loan costs the maximum $45. No hidden charges."
+    },
+    {
+      "question": "Can I verify your California license?",
+      "answer": "Absolutely. Lion Cash Advance is licensed by the California Department of Financial Protection and Innovation. Verify at dfpi.ca.gov/regulated-industries/regulated-entities-list/"
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Need Cash in Sacramento Today?",
+    "subheadline": "Visit our Capitol Mall location or apply online",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=sacramento-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (916) 555-0351",
+      "url": "tel:+19165550351"
+    },
+    "address": "345 Capitol Mall, Suite 180, Sacramento, CA 95814"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - Sacramento",
+    "areaServed": "Sacramento County, California",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Sacramento", "url": "/locations/california/sacramento"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliance": true,
+    "stateComplianceIncluded": true
+  }
+}

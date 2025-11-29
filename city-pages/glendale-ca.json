@@ -1,0 +1,218 @@
+{
+  "id": "glendale-ca",
+  "city": "Glendale",
+  "slug": "glendale",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Los Angeles",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans in Glendale, CA | Los Angeles County Quick Cash | Lion Cash Advance",
+    "metaDescription": "Get fast cash in Glendale, Los Angeles County. Same-day approval near Brand Central. Borrow $100-$300 with flexible terms.",
+    "canonicalUrl": "/locations/california/glendale",
+    "keywords": ["cash advance glendale", "payday loans glendale ca", "fast cash glendale", "emergency loans los angeles"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Glendale, California",
+    "subheadline": "Quick approval in the heart of Los Angeles County",
+    "ctaText": "Apply Now for Glendale Cash",
+    "ctaUrl": "/apply?location=glendale-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=glendale+ca+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Visit Lion Cash Advance in Glendale",
+    "directions": "We are conveniently located at 1567 South Brand Boulevard, Suite 130, right in the heart of Glendale near Brand Central and the Americana at Brand shopping center, major Los Angeles County landmarks. If you're taking I-5, take Exit 134 toward Brand Boulevard. Our storefront is prominently located on this major commercial corridor in Glendale.",
+    "landmarks": ["Brand Central", "Americana at Brand", "Verdugo Mountains"],
+    "highway": "I-5",
+    "exit": "Exit 134",
+    "neighborhoodName": "Central Glendale",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3324.6!2d-118.25!3d34.14!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2!2m2!1d-118.25!2d34.14!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Glendale",
+    "street": "1567 South Brand Boulevard, Suite 130",
+    "city": "Glendale",
+    "state": "CA",
+    "zip": "91204",
+    "phone": "(818) 555-0156",
+    "formattedPhone": "+18185550156",
+    "formattedAddress": "1567 South Brand Boulevard, Suite 130, Glendale, CA 91204",
+    "coordinates": {
+      "latitude": 34.1401,
+      "longitude": -118.2534
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=34.1401,-118.2534"
+  },
+
+  "productLinks": {
+    "headline": "Quick Cash Solutions in Glendale",
+    "intro": "Los Angeles County residents in Glendale have convenient access to emergency cash:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Quick cash loans up to $300 with flexible terms",
+        "anchorText": "Get a payday loan"
+      },
+      {
+        "name": "Cash Advance Loans",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Fast approval with minimal paperwork",
+        "anchorText": "Apply for cash advance"
+      },
+      {
+        "name": "Emergency Loans",
+        "slug": "emergency-loans",
+        "url": "/services/emergency-loans",
+        "description": "When you need cash fast",
+        "anchorText": "Get emergency cash"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply online anytime",
+        "anchorText": "Apply online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Laws for Glendale Residents",
+    "content": "Glendale residents in Los Angeles County are protected by California's Deferred Deposit Transaction Law, enforced by the California Department of Financial Protection and Innovation (DFPI). These regulations ensure strong consumer protections and prevent predatory lending.",
+    "keyPoints": [
+      "Maximum loan: $300 including all fees (typical $255 cash with $45 fee)",
+      "Fee cap: 15% of check amount, maximum $45",
+      "APR: Approximately 460% for 14-day loans",
+      "Loan term: Cannot exceed 31 days",
+      "One loan only: Can only have one active payday loan",
+      "No rollovers: Cannot extend or refinance loans for fees",
+      "Criminal prohibition: Cannot threaten or pursue criminal prosecution",
+      "NSF limited: Only one $15 fee per bounced check",
+      "Full disclosure: All fees stated in dollars and APR"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for general educational purposes and does not constitute legal advice. Payday loan laws may change. For current information, contact the DFPI at 1-866-275-2677 or dfpi.ca.gov. For specific legal questions, consult a California attorney. Individual lender terms vary within state law limits."
+  },
+
+  "localReviews": {
+    "headline": "Glendale Customer Reviews",
+    "locationId": "glendale-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Alexander G.",
+        "rating": 5,
+        "text": "Excellent service near Brand Central. Professional staff and quick approval. Got my cash in 30 minutes. Highly satisfied!",
+        "date": "2024-11-19"
+      },
+      {
+        "name": "Diana M.",
+        "rating": 5,
+        "text": "Great location on Brand Boulevard. Easy access and friendly service. Clear explanations of all terms. Recommended!",
+        "date": "2024-10-20"
+      },
+      {
+        "name": "David C.",
+        "rating": 4,
+        "text": "Good experience in Glendale. Fast process and helpful staff. Easy parking. Would use again.",
+        "date": "2024-09-15"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Los Angeles County",
+    "intro": "We also serve these nearby Los Angeles County communities:",
+    "cities": [
+      {"name": "Burbank", "slug": "burbank", "url": "/locations/california/burbank", "distanceMiles": 6},
+      {"name": "Los Angeles", "slug": "los-angeles", "url": "/locations/california/los-angeles", "distanceMiles": 10},
+      {"name": "La Cañada Flintridge", "slug": "la-canada-flintridge", "url": "/locations/california/la-canada-flintridge", "distanceMiles": 8},
+      {"name": "Pasadena", "slug": "pasadena", "url": "/locations/california/pasadena", "distanceMiles": 12}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Glendale location?",
+      "answer": "We're at 1567 South Brand Boulevard, Suite 130, near Brand Central and Americana at Brand. Take I-5 Exit 134 toward Brand Boulevard. Easy parking available."
+    },
+    {
+      "question": "What do I need to bring?",
+      "answer": "Bring a valid government ID, recent pay stub or bank statements, and your active checking account. Most Glendale residents are approved within 30 minutes."
+    },
+    {
+      "question": "What's the maximum loan amount?",
+      "answer": "California law limits loans to $300 total. You'll typically receive $255 cash with a $45 fee."
+    },
+    {
+      "question": "How fast is approval in Glendale?",
+      "answer": "Most applicants at our Brand Boulevard location are approved and receive cash within 30 minutes."
+    },
+    {
+      "question": "Are all fees transparent?",
+      "answer": "Yes. California requires all fees disclosed in dollars and APR. No hidden charges or surprises."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Fast Cash in Glendale Today",
+    "subheadline": "Visit our Brand Boulevard location or apply online",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=glendale-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (818) 555-0156",
+      "url": "tel:+18185550156"
+    },
+    "address": "1567 South Brand Boulevard, Suite 130, Glendale, CA 91204"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Glendale", "url": "/locations/california/glendale"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1560707303-4e8d64df3ec6?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Glendale location near Brand Central",
+      "caption": "Our professional Glendale branch on South Brand Boulevard"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0"
+  }
+}

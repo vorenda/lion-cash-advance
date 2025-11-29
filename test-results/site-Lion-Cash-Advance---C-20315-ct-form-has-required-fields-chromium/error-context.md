@@ -1,0 +1,200 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: Fast Cash When You Need It Most
+      - 'link "Call Now: 1-800-555-CASH" [ref=e6] [cursor=pointer]':
+        - /url: tel:1800555
+        - img [ref=e7]
+        - text: "Call Now: 1-800-555-CASH"
+    - navigation [ref=e9]:
+      - generic [ref=e10]:
+        - link "L Lion Cash Advance" [ref=e11] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e13]: L
+          - generic [ref=e14]: Lion Cash Advance
+        - generic [ref=e15]:
+          - link "Home" [ref=e16] [cursor=pointer]:
+            - /url: /
+          - link "Services" [ref=e18] [cursor=pointer]:
+            - /url: /services
+            - text: Services
+            - img [ref=e19]
+          - link "Locations" [ref=e22] [cursor=pointer]:
+            - /url: /locations
+            - text: Locations
+            - img [ref=e23]
+          - link "About Us" [ref=e25] [cursor=pointer]:
+            - /url: /about
+          - link "Contact" [ref=e26] [cursor=pointer]:
+            - /url: /contact
+          - link "Apply Now" [ref=e27] [cursor=pointer]:
+            - /url: /apply
+  - main [ref=e28]:
+    - navigation "Breadcrumb" [ref=e29]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - link "Home" [ref=e33] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e34]:
+          - img [ref=e35]
+          - generic [ref=e37]: Contact
+    - generic [ref=e40]:
+      - heading "Contact Us" [level=1] [ref=e41]
+      - paragraph [ref=e42]: Have questions about our cash advance services? We are here to help.
+    - generic [ref=e44]:
+      - generic [ref=e45]:
+        - link "Call Us 1-800-555-CASH Mon-Fri 8am-8pm, Sat 9am-5pm" [ref=e46] [cursor=pointer]:
+          - /url: tel:1-800-555-CASH
+          - img [ref=e48]
+          - heading "Call Us" [level=3] [ref=e50]
+          - paragraph [ref=e51]: 1-800-555-CASH
+          - paragraph [ref=e52]: Mon-Fri 8am-8pm, Sat 9am-5pm
+        - link "Email Us support@lioncashadvance.com We respond within 24 hours" [ref=e53] [cursor=pointer]:
+          - /url: mailto:support@lioncashadvance.com
+          - img [ref=e55]
+          - heading "Email Us" [level=3] [ref=e57]
+          - paragraph [ref=e58]: support@lioncashadvance.com
+          - paragraph [ref=e59]: We respond within 24 hours
+        - link "Visit Us 50+ Locations Find a branch near you" [ref=e60] [cursor=pointer]:
+          - /url: /locations
+          - img [ref=e62]
+          - heading "Visit Us" [level=3] [ref=e65]
+          - paragraph [ref=e66]: 50+ Locations
+          - paragraph [ref=e67]: Find a branch near you
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - heading "Send Us a Message" [level=2] [ref=e70]
+          - paragraph [ref=e71]: Have a question about our services, your application, or your existing loan? Fill out the form and our team will get back to you as soon as possible.
+          - generic [ref=e72]:
+            - generic [ref=e73]:
+              - img [ref=e74]
+              - generic [ref=e76]:
+                - heading "Quick Response" [level=3] [ref=e77]
+                - paragraph [ref=e78]: We respond to all inquiries within 24 hours during business days.
+            - generic [ref=e79]:
+              - img [ref=e80]
+              - generic [ref=e82]:
+                - heading "Secure & Confidential" [level=3] [ref=e83]
+                - paragraph [ref=e84]: Your information is protected and never shared without your consent.
+            - generic [ref=e85]:
+              - img [ref=e86]
+              - generic [ref=e88]:
+                - heading "Expert Support" [level=3] [ref=e89]
+                - paragraph [ref=e90]: Our trained team can answer all your questions about cash advances.
+        - generic [ref=e92]:
+          - generic [ref=e93]:
+            - generic [ref=e94]:
+              - generic [ref=e95]: Full Name *
+              - textbox "Full Name *" [ref=e96]:
+                - /placeholder: John Doe
+            - generic [ref=e97]:
+              - generic [ref=e98]: Phone Number *
+              - textbox "Phone Number *" [ref=e99]:
+                - /placeholder: (555) 123-4567
+          - generic [ref=e100]:
+            - generic [ref=e101]: Email Address *
+            - textbox "Email Address *" [ref=e102]:
+              - /placeholder: john@example.com
+          - generic [ref=e103]:
+            - generic [ref=e104]: Message
+            - textbox "Message" [ref=e105]:
+              - /placeholder: How can we help you?
+          - button "Send Message" [ref=e106] [cursor=pointer]
+          - paragraph [ref=e107]:
+            - text: By submitting this form, you agree to our
+            - link "Privacy Policy" [ref=e108] [cursor=pointer]:
+              - /url: /privacy
+            - text: .
+    - generic [ref=e110]:
+      - heading "Looking for Answers?" [level=2] [ref=e111]
+      - paragraph [ref=e112]: Check out our FAQ section for quick answers to common questions about our cash advance services.
+      - link "View FAQ" [ref=e113] [cursor=pointer]:
+        - /url: /services/cash-advance-loans#faq
+  - contentinfo [ref=e114]:
+    - generic [ref=e116]:
+      - generic [ref=e117]:
+        - generic [ref=e118]:
+          - generic [ref=e120]: L
+          - generic [ref=e121]: Lion Cash Advance
+        - paragraph [ref=e122]: Fast cash advance loans when you need them most. Serving Florida and California with same-day approval and no credit check required.
+        - generic [ref=e123]:
+          - link "1-800-555-CASH" [ref=e124] [cursor=pointer]:
+            - /url: tel:1800555
+            - img [ref=e125]
+            - text: 1-800-555-CASH
+          - link "support@lioncashadvance.com" [ref=e127] [cursor=pointer]:
+            - /url: mailto:support@lioncashadvance.com
+            - img [ref=e128]
+            - text: support@lioncashadvance.com
+      - generic [ref=e130]:
+        - heading "Our Services" [level=4] [ref=e131]
+        - list [ref=e132]:
+          - listitem [ref=e133]:
+            - link "Cash Advance Loans" [ref=e134] [cursor=pointer]:
+              - /url: /services/cash-advance-loans
+          - listitem [ref=e135]:
+            - link "Payday Loans" [ref=e136] [cursor=pointer]:
+              - /url: /services/payday-loans
+          - listitem [ref=e137]:
+            - link "Installment Loans" [ref=e138] [cursor=pointer]:
+              - /url: /services/installment-loans
+          - listitem [ref=e139]:
+            - link "Same-Day Loans" [ref=e140] [cursor=pointer]:
+              - /url: /services/same-day-loans
+          - listitem [ref=e141]:
+            - link "Bad Credit Loans" [ref=e142] [cursor=pointer]:
+              - /url: /services/bad-credit-loans
+          - listitem [ref=e143]:
+            - link "View All Services" [ref=e144] [cursor=pointer]:
+              - /url: /services
+      - generic [ref=e145]:
+        - heading "Locations" [level=4] [ref=e146]
+        - list [ref=e147]:
+          - listitem [ref=e148]:
+            - link "Florida" [ref=e149] [cursor=pointer]:
+              - /url: /locations/florida
+          - listitem [ref=e150]:
+            - link "California" [ref=e151] [cursor=pointer]:
+              - /url: /locations/california
+          - listitem [ref=e152]:
+            - link "View All Locations" [ref=e153] [cursor=pointer]:
+              - /url: /locations
+      - generic [ref=e154]:
+        - heading "Quick Links" [level=4] [ref=e155]
+        - list [ref=e156]:
+          - listitem [ref=e157]:
+            - link "About Us" [ref=e158] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e159]:
+            - link "Contact" [ref=e160] [cursor=pointer]:
+              - /url: /contact
+          - listitem [ref=e161]:
+            - link "Apply Now" [ref=e162] [cursor=pointer]:
+              - /url: /apply
+          - listitem [ref=e163]:
+            - link "FAQ" [ref=e164] [cursor=pointer]:
+              - /url: /services/cash-advance-loans#faq
+    - generic [ref=e167]:
+      - paragraph [ref=e168]:
+        - strong [ref=e169]: "Important Disclosure:"
+        - text: Lion Cash Advance is a licensed lender operating in compliance with all applicable federal and state lending laws. Loan availability, terms, and rates vary by state. California loans are made pursuant to the California Deferred Deposit Transaction Law (CDDTL). Florida loans are made pursuant to Florida Statutes Chapter 560.
+      - paragraph [ref=e170]:
+        - strong [ref=e171]: "APR Disclosure:"
+        - text: The Annual Percentage Rate (APR) is the cost of your loan expressed as a yearly rate. The APR for cash advance loans may range from 200% to 460% depending on loan amount, term, and state regulations. This is a short-term loan and should be used for short-term financial needs only, not as a long-term financial solution.
+      - paragraph [ref=e172]:
+        - strong [ref=e173]: "Collection Practices:"
+        - text: If you cannot repay your loan on time, contact us immediately to discuss options. We comply with all federal and state debt collection laws. We will not threaten you with criminal prosecution for non-payment.
+    - generic [ref=e176]:
+      - paragraph [ref=e177]: "Copyright 2025 Lion Cash Advance LLC. All rights reserved. NMLS #1234567"
+      - generic [ref=e178]:
+        - link "Privacy Policy" [ref=e179] [cursor=pointer]:
+          - /url: /privacy
+        - link "Terms of Service" [ref=e180] [cursor=pointer]:
+          - /url: /terms
+        - link "Sitemap" [ref=e181] [cursor=pointer]:
+          - /url: /sitemap.xml
+  - alert [ref=e182]
+```

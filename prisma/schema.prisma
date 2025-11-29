@@ -1,0 +1,174 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+// Contact form submissions
+model ContactForm {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+
+  // Contact information
+  name      String
+  email     String
+  phone     String?
+
+  // Message
+  message   String   @db.Text
+
+  // Metadata
+  sourceUrl String?  // Which page they submitted from
+  ipAddress String?
+  userAgent String?
+
+  // Status tracking
+  status    String   @default("new") // new, contacted, quoted, won, lost
+  notes     String?  @db.Text
+
+  @@index([createdAt])
+  @@index([status])
+}
+
+// Quote requests for loans
+model QuoteRequest {
+  id               String   @id @default(cuid())
+  createdAt        DateTime @default(now())
+
+  // Contact information
+  name             String
+  email            String
+  phone            String
+
+  // Loan details
+  loanAmount       Int?     // Requested loan amount
+  loanPurpose      String?  // Why they need the loan
+  employmentStatus String?  // employed, self-employed, unemployed, retired
+  income           Int?     // Monthly income
+
+  // Location
+  city             String?
+  state            String?
+  zipCode          String?
+
+  // Metadata
+  sourceUrl        String?
+  ipAddress        String?
+  userAgent        String?
+
+  // Status
+  status           String   @default("pending") // pending, approved, denied, contacted
+
+  @@index([createdAt])
+  @@index([status])
+  @@index([state])
+  @@index([city])
+}
+
+// Callback requests
+model CallbackRequest {
+  id             String   @id @default(cuid())
+  createdAt      DateTime @default(now())
+
+  name           String
+  phone          String
+  preferredTime  String?  // morning, afternoon, evening, anytime
+
+  // Optional fields
+  loanAmount     Int?
+  urgency        String?  // immediate, this-week, flexible
+
+  // Status
+  status         String   @default("pending") // pending, called, completed
+  calledAt       DateTime?
+
+  @@index([createdAt])
+  @@index([status])
+}
+
+// Lead tracking (unified from all sources)
+model Lead {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Contact information
+  name      String
+  email     String?
+  phone     String
+
+  // Lead source
+  source    String   // contact-form, quote-request, callback-request, manual
+  sourceId  String?  // ID from the source table
+
+  // Lead data
+  loanAmount Int?
+  city       String?
+  state      String?
+
+  // CRM status
+  status    String   @default("new") // new, contacted, qualified, quoted, approved, denied, lost
+  notes     String?  @db.Text
+  assignedTo String? // User who's handling this lead
+
+  // Follow-up
+  nextFollowUp DateTime?
+  lastContactedAt DateTime?
+
+  @@index([createdAt])
+  @@index([status])
+  @@index([state])
+  @@index([city])
+  @@index([assignedTo])
+}
+
+// Page analytics
+model PageView {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+
+  // Page information
+  page      String   // /locations/texas/dallas, etc.
+  pageType  String?  // home, city, state, service, pillar
+  city      String?
+  state     String?
+
+  // Visitor information
+  ipAddress String?
+  userAgent String?
+  referrer  String?
+
+  // Session tracking
+  sessionId String?
+
+  @@index([createdAt])
+  @@index([pageType])
+  @@index([city])
+  @@index([state])
+  @@index([page])
+}
+
+// Email subscribers
+model EmailSubscriber {
+  id             String    @id @default(cuid())
+  createdAt      DateTime  @default(now())
+
+  email          String    @unique
+  name           String?
+
+  // Location context
+  city           String?
+  state          String?
+
+  // Subscription status
+  subscribed     Boolean   @default(true)
+  unsubscribedAt DateTime?
+
+  @@index([subscribed])
+  @@index([state])
+}

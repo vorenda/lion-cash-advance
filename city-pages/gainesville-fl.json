@@ -1,0 +1,219 @@
+{
+  "id": "gainesville-fl",
+  "city": "Gainesville",
+  "slug": "gainesville",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "countyName": "Alachua County",
+  "serviceNiche": "Cash Advance Loans",
+  "businessName": "Lion Cash Advance",
+
+  "seo": {
+    "title": "Cash Advance Loans in Gainesville, FL | Fast Cash Near UF Campus | Lion Cash Advance",
+    "metaDescription": "Need emergency cash in Gainesville? Lion Cash Advance offers quick payday loans near the University of Florida. Easy approval process. Get cash today at (352) 555-0189.",
+    "canonicalUrl": "/locations/florida/gainesville",
+    "keywords": [
+      "cash advance gainesville",
+      "payday loans gainesville fl",
+      "student cash advance gainesville",
+      "quick cash loans gainesville",
+      "emergency cash gainesville"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Gainesville, FL",
+    "subheadline": "Quick emergency cash for Gainesville residents",
+    "ctaText": "Apply for Gainesville Cash Now",
+    "ctaUrl": "/apply?location=gainesville-fl",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=gainesville+florida+cash+advance"
+    }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Gainesville office near University of Florida",
+      "caption": "Fast and professional cash advance service in Gainesville"
+    }
+  },
+
+  "localProof": {
+    "headline": "Located Near the University of Florida Campus",
+    "directions": "We are conveniently located at 1205 West University Avenue, right across from the University of Florida campus and just a short distance from Paynes Prairie Preserve State Park. If you're taking I-75, take the Gainesville exit (Exit 375) and head toward University Avenue. We're near the Florida Museum of Natural History and easy to reach from both US-441 and US-27.",
+    "landmarks": [
+      "University of Florida",
+      "Paynes Prairie Preserve State Park",
+      "Florida Museum of Natural History",
+      "Devil's Den State Park"
+    ],
+    "highways": [
+      "I-75",
+      "US-441",
+      "US-27"
+    ],
+    "neighborhoodName": "University District",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Gainesville",
+    "street": "1205 West University Avenue, Suite 110",
+    "city": "Gainesville",
+    "state": "FL",
+    "zip": "32601",
+    "phone": "(352) 555-0189",
+    "formattedPhone": "+13525550189",
+    "formattedAddress": "1205 West University Avenue, Suite 110, Gainesville, FL 32601"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Loan Options in Gainesville",
+    "intro": "At our Gainesville location, we provide flexible cash advance solutions for Alachua County residents and students:",
+    "services": [
+      {
+        "name": "Single-Payment Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Simple, quick cash advance",
+        "anchorText": "Discover our payday loan options"
+      },
+      {
+        "name": "Installment Payday Loans",
+        "slug": "installment-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Split payments into manageable installments",
+        "anchorText": "Explore installment loans"
+      },
+      {
+        "name": "Student Emergency Loans",
+        "slug": "student-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Designed for UF students needing quick cash",
+        "anchorText": "Apply for student emergency cash"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Cash Advance Laws in Florida",
+    "content": "Residents of Gainesville are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance.\n\nFlorida law caps single-payment payday loans at $500 with a maximum fee of 10% of the loan amount, plus a $5 verification fee. On a $500 loan, you would pay no more than $55 in fees. For installment payday loans, the maximum is $1,000 with fees capped at 8% of the outstanding balance on a biweekly basis. All lenders must comply with federal Truth-in-Lending Act disclosure requirements.\n\nOne of Florida's most important protections is the 'one loan at a time' rule. You cannot have more than one payday loan outstanding anywhere in Florida, and you must wait 24 hours after paying off one loan before taking out another. This is enforced through a mandatory statewide database that all licensed lenders must check. Additionally, loan rollovers and extensions are strictly prohibited.",
+    "keyPoints": [
+      "All payday lenders in Florida must be licensed by the Florida Office of Financial Regulation",
+      "You can only have one cash advance loan at a time in Florida",
+      "Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee",
+      "Installment loans are capped at $1,000 with maximum 8% biweekly fee",
+      "You must wait 24 hours after paying off one loan before taking out another",
+      "Loan rollovers and extensions are prohibited by law",
+      "If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling",
+      "You cannot be criminally prosecuted for an unpaid payday loan",
+      "Prepayment penalties are prohibited"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR), Division of Consumer Finance",
+    "regulatoryUrl": "https://flofr.gov",
+    "contactPhone": "(850) 487-9687",
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal or financial advice. Payday loan laws and regulations are subject to change. This information was last verified on January 15, 2025. For the most accurate and up-to-date information, please contact the Florida Office of Financial Regulation."
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Alachua County",
+    "intro": "Can't make it to our Gainesville office? We also serve:",
+    "cities": [
+      {
+        "name": "Newberry",
+        "slug": "newberry",
+        "url": "/locations/florida/newberry",
+        "distanceMiles": 22
+      },
+      {
+        "name": "High Springs",
+        "slug": "high-springs",
+        "url": "/locations/florida/high-springs",
+        "distanceMiles": 16
+      },
+      {
+        "name": "Alachua",
+        "slug": "alachua",
+        "url": "/locations/florida/alachua",
+        "distanceMiles": 14
+      },
+      {
+        "name": "Waldo",
+        "slug": "waldo",
+        "url": "/locations/florida/waldo",
+        "distanceMiles": 19
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Gainesville cash advance office located?",
+      "answer": "We're at 1205 West University Avenue, Suite 110, right near the University of Florida campus. We're easy to reach from I-75, US-441, and US-27. Parking is available for our customers."
+    },
+    {
+      "question": "What are your hours at the Gainesville location?",
+      "answer": "Monday through Friday 9:00 AM - 6:00 PM, Saturday 10:00 AM - 4:00 PM. We're closed on Sundays. Call (352) 555-0189 for holiday hours or more information."
+    },
+    {
+      "question": "Do you offer special options for UF students?",
+      "answer": "Yes! We understand the unique financial situations students face. We can work with student IDs and other documentation. Call us at (352) 555-0189 to discuss your specific situation."
+    },
+    {
+      "question": "How fast can I get cash in Gainesville?",
+      "answer": "Most customers receive approval and funding within 30 minutes of visiting our office. You can also apply online first and then visit us to speed up the process."
+    },
+    {
+      "question": "What documents do I need to bring?",
+      "answer": "Bring a valid government ID (driver's license or passport), proof of income (pay stub or bank statements), and a blank check from your checking account. We'll explain all fees upfront before you sign."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Need Cash in Gainesville?",
+    "subheadline": "Visit our University Avenue office or apply online today",
+    "primaryCta": {
+      "text": "Apply Now for Gainesville Cash",
+      "url": "/apply?location=gainesville-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (352) 555-0189",
+      "url": "tel:+13525550189"
+    },
+    "address": "1205 West University Avenue, Suite 110, Gainesville, FL 32601"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - Gainesville",
+    "areaServed": "Gainesville, FL",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "Gainesville", "url": "/locations/florida/gainesville"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:00:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batchNumber": 2,
+    "cityNumber": 15
+  }
+}

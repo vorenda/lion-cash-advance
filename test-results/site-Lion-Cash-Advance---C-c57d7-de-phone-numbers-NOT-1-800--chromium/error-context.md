@@ -1,0 +1,406 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: Fast Cash When You Need It Most
+      - 'link "Call Now: 1-800-555-CASH" [ref=e6] [cursor=pointer]':
+        - /url: tel:1800555
+        - img [ref=e7]
+        - text: "Call Now: 1-800-555-CASH"
+    - navigation [ref=e9]:
+      - generic [ref=e10]:
+        - link "L Lion Cash Advance" [ref=e11] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e13]: L
+          - generic [ref=e14]: Lion Cash Advance
+        - generic [ref=e15]:
+          - link "Home" [ref=e16] [cursor=pointer]:
+            - /url: /
+          - link "Services" [ref=e18] [cursor=pointer]:
+            - /url: /services
+            - text: Services
+            - img [ref=e19]
+          - link "Locations" [ref=e22] [cursor=pointer]:
+            - /url: /locations
+            - text: Locations
+            - img [ref=e23]
+          - link "About Us" [ref=e25] [cursor=pointer]:
+            - /url: /about
+          - link "Contact" [ref=e26] [cursor=pointer]:
+            - /url: /contact
+          - link "Apply Now" [ref=e27] [cursor=pointer]:
+            - /url: /apply
+  - main [ref=e28]:
+    - navigation "Breadcrumb" [ref=e29]:
+      - list [ref=e31]:
+        - listitem [ref=e32]:
+          - link "Home" [ref=e33] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e34]:
+          - img [ref=e35]
+          - link "Locations" [ref=e37] [cursor=pointer]:
+            - /url: /locations
+        - listitem [ref=e38]:
+          - img [ref=e39]
+          - link "Florida" [ref=e41] [cursor=pointer]:
+            - /url: /locations/florida
+        - listitem [ref=e42]:
+          - img [ref=e43]
+          - generic [ref=e45]: Miami
+    - generic [ref=e49]:
+      - heading "Fast Cash Advance Loans in Miami, Florida" [level=1] [ref=e50]
+      - paragraph [ref=e51]: Get emergency cash today at our Wynwood location. No credit check. Same-day approval.
+      - generic [ref=e52]:
+        - link "Get Cash Advance Now" [ref=e53] [cursor=pointer]:
+          - /url: /apply?location=miami-fl
+        - link "Call (305) 555-0142" [ref=e54] [cursor=pointer]:
+          - /url: tel:+13055550142
+          - img [ref=e55]
+          - text: Call (305) 555-0142
+      - generic [ref=e57]:
+        - generic [ref=e58]:
+          - img [ref=e59]
+          - text: Same-Day Approval
+        - generic [ref=e61]:
+          - img [ref=e62]
+          - text: No Credit Check
+        - generic [ref=e64]:
+          - img [ref=e65]
+          - text: Licensed Lender
+    - generic [ref=e69]:
+      - generic [ref=e70]:
+        - heading "Where to Find Us in Miami" [level=2] [ref=e71]
+        - paragraph [ref=e72]: We are conveniently located at 1247 Wynwood Avenue, right across from the iconic Wynwood Walls and just down the road from Bayside Marketplace. If you are taking I-95, take Exit 16 for easy access. Our storefront is in the heart of Miami's vibrant Arts District.
+        - generic [ref=e73]:
+          - heading "Lion Cash Advance Miami" [level=3] [ref=e74]
+          - generic [ref=e75]:
+            - generic [ref=e76]:
+              - img [ref=e77]
+              - generic [ref=e80]: 1247 Wynwood Avenue, Suite 150, Miami, FL 33127
+            - link "(305) 555-0142" [ref=e81] [cursor=pointer]:
+              - /url: tel:+13055550142
+              - img [ref=e82]
+              - text: (305) 555-0142
+        - generic [ref=e84]:
+          - heading "Business Hours" [level=3] [ref=e85]
+          - generic [ref=e86]:
+            - generic [ref=e87]:
+              - generic [ref=e88]: "monday:"
+              - generic [ref=e89]: 9:00 AM - 6:00 PM
+            - generic [ref=e90]:
+              - generic [ref=e91]: "tuesday:"
+              - generic [ref=e92]: 9:00 AM - 6:00 PM
+            - generic [ref=e93]:
+              - generic [ref=e94]: "wednesday:"
+              - generic [ref=e95]: 9:00 AM - 6:00 PM
+            - generic [ref=e96]:
+              - generic [ref=e97]: "thursday:"
+              - generic [ref=e98]: 9:00 AM - 6:00 PM
+            - generic [ref=e99]:
+              - generic [ref=e100]: "friday:"
+              - generic [ref=e101]: 9:00 AM - 6:00 PM
+            - generic [ref=e102]:
+              - generic [ref=e103]: "saturday:"
+              - generic [ref=e104]: 10:00 AM - 3:00 PM
+            - generic [ref=e105]:
+              - generic [ref=e106]: "sunday:"
+              - generic [ref=e107]: Closed
+      - generic [ref=e108]:
+        - generic [ref=e110]:
+          - img [ref=e111]
+          - paragraph [ref=e114]: Map View
+          - paragraph [ref=e115]: Wynwood Arts District
+        - link "Get Directions" [ref=e116] [cursor=pointer]:
+          - /url: https://www.google.com/maps?q=25.8006,-80.1999
+          - img [ref=e117]
+          - text: Get Directions
+    - generic [ref=e121]:
+      - heading "Cash Advance Services Available in Miami-Dade County" [level=2] [ref=e122]
+      - paragraph [ref=e123]: "Whether you need a quick cash advance or an installment loan solution, our Miami branch offers multiple options to meet your financial needs:"
+      - generic [ref=e124]:
+        - link "Single Payment Cash Advances Get up to $500 with fast approval" [ref=e125] [cursor=pointer]:
+          - /url: /services/single-payment-cash-advances
+          - img [ref=e127]
+          - generic [ref=e129]:
+            - heading "Single Payment Cash Advances" [level=3] [ref=e130]
+            - paragraph [ref=e131]: Get up to $500 with fast approval
+          - img [ref=e132]
+        - link "Installment Cash Loans Borrow up to $1,000 with flexible payments" [ref=e134] [cursor=pointer]:
+          - /url: /services/installment-cash-loans
+          - img [ref=e136]
+          - generic [ref=e138]:
+            - heading "Installment Cash Loans" [level=3] [ref=e139]
+            - paragraph [ref=e140]: Borrow up to $1,000 with flexible payments
+          - img [ref=e141]
+        - link "Emergency Cash Advances Get approved same-day for emergency expenses" [ref=e143] [cursor=pointer]:
+          - /url: /services/emergency-cash-advances
+          - img [ref=e145]
+          - generic [ref=e147]:
+            - heading "Emergency Cash Advances" [level=3] [ref=e148]
+            - paragraph [ref=e149]: Get approved same-day for emergency expenses
+          - img [ref=e150]
+    - generic [ref=e154]:
+      - heading "Understanding Cash Advance Laws in Miami, Florida" [level=2] [ref=e155]
+      - paragraph [ref=e157]: Residents of Miami are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance. Florida is recognized as having some of the strongest consumer protections for payday loans in the United States. Under Florida law, cash advance loans (officially called 'Deferred Presentment Transactions') are legal but heavily regulated.
+      - generic [ref=e158]:
+        - heading "Key Florida Lending Protections" [level=3] [ref=e159]
+        - list [ref=e160]:
+          - listitem [ref=e161]:
+            - img [ref=e162]
+            - generic [ref=e164]: All payday lenders in Miami must be licensed by the Florida Office of Financial Regulation
+          - listitem [ref=e165]:
+            - img [ref=e166]
+            - generic [ref=e168]: You can only have one payday loan at a time in Florida, enforced by statewide database
+          - listitem [ref=e169]:
+            - img [ref=e170]
+            - generic [ref=e172]: Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee
+          - listitem [ref=e173]:
+            - img [ref=e174]
+            - generic [ref=e176]: Installment loans are capped at $1,000 with maximum 8% biweekly fee on outstanding balance
+          - listitem [ref=e177]:
+            - img [ref=e178]
+            - generic [ref=e180]: You must wait 24 hours after paying off one loan before taking out another
+          - listitem [ref=e181]:
+            - img [ref=e182]
+            - generic [ref=e184]: Loan rollovers and extensions are prohibited by law
+          - listitem [ref=e185]:
+            - img [ref=e186]
+            - generic [ref=e188]: If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling
+          - listitem [ref=e189]:
+            - img [ref=e190]
+            - generic [ref=e192]: You cannot be criminally prosecuted for an unpaid payday loan
+          - listitem [ref=e193]:
+            - img [ref=e194]
+            - generic [ref=e196]: Prepayment penalties are prohibited - you can pay off early without extra cost
+      - generic [ref=e197]:
+        - img [ref=e198]
+        - generic [ref=e200]:
+          - heading "Florida Office of Financial Regulation (OFR)" [level=4] [ref=e201]
+          - paragraph [ref=e202]:
+            - text: "Phone:"
+            - link "(850) 487-9687" [ref=e203] [cursor=pointer]:
+              - /url: tel:(850) 487-9687
+          - paragraph [ref=e204]:
+            - text: "Website:"
+            - link "https://flofr.gov" [ref=e205] [cursor=pointer]:
+              - /url: https://flofr.gov
+      - generic [ref=e206]: This information is provided for general educational purposes only and should not be construed as legal or financial advice. Payday loan laws and regulations are subject to change. For the most accurate and up-to-date information about Florida payday loan regulations, please contact the Florida Office of Financial Regulation at (850) 487-9687 or visit flofr.gov. Consult with a licensed financial advisor or attorney regarding your specific situation before making borrowing decisions.
+    - generic [ref=e209]:
+      - heading "What Miami Customers Say About Lion Cash Advance" [level=2] [ref=e210]
+      - generic [ref=e211]:
+        - generic [ref=e212]:
+          - generic [ref=e213]:
+            - generic [ref=e214]:
+              - generic [ref=e216]: M
+              - generic [ref=e217]:
+                - paragraph [ref=e218]: Maria R.
+                - paragraph [ref=e219]: Miami, FL
+            - generic [ref=e220]:
+              - img [ref=e221]
+              - img [ref=e223]
+              - img [ref=e225]
+              - img [ref=e227]
+              - img [ref=e229]
+          - paragraph [ref=e231]: “Fast service near Wynwood! Got approved in 15 minutes and walked out with cash. The staff explained everything clearly about Florida's grace period protections.”
+          - paragraph [ref=e232]: January 10, 2025
+        - generic [ref=e233]:
+          - generic [ref=e234]:
+            - generic [ref=e235]:
+              - generic [ref=e237]: J
+              - generic [ref=e238]:
+                - paragraph [ref=e239]: James T.
+                - paragraph [ref=e240]: Miami, FL
+            - generic [ref=e241]:
+              - img [ref=e242]
+              - img [ref=e244]
+              - img [ref=e246]
+              - img [ref=e248]
+              - img [ref=e250]
+          - paragraph [ref=e252]: “Easy process at the Miami location. They verified I had no other loans and explained the 24-hour cooling-off period. Professional and respectful.”
+          - paragraph [ref=e253]: January 8, 2025
+        - generic [ref=e254]:
+          - generic [ref=e255]:
+            - generic [ref=e256]:
+              - generic [ref=e258]: S
+              - generic [ref=e259]:
+                - paragraph [ref=e260]: Sandra L.
+                - paragraph [ref=e261]: Miami, FL
+            - generic [ref=e262]:
+              - img [ref=e263]
+              - img [ref=e265]
+              - img [ref=e267]
+              - img [ref=e269]
+              - img [ref=e271]
+          - paragraph [ref=e273]: “Convenient location in Wynwood Arts District. Just needed quick cash for emergency. Would have been 5 stars but the line was a bit long on Friday.”
+          - paragraph [ref=e274]: January 5, 2025
+    - generic [ref=e277]:
+      - heading "Also Serving Nearby Miami-Dade and Broward Communities" [level=2] [ref=e278]
+      - paragraph [ref=e279]: "Can't make it to our Wynwood location? We also serve these nearby Miami-area cities:"
+      - generic [ref=e280]:
+        - link "Miami Beach (4 mi)" [ref=e281] [cursor=pointer]:
+          - /url: /locations/florida/miami-beach
+          - generic [ref=e282]: Miami Beach
+          - generic [ref=e283]: (4 mi)
+        - link "Coral Gables (5 mi)" [ref=e284] [cursor=pointer]:
+          - /url: /locations/florida/coral-gables
+          - generic [ref=e285]: Coral Gables
+          - generic [ref=e286]: (5 mi)
+        - link "Hialeah (6 mi)" [ref=e287] [cursor=pointer]:
+          - /url: /locations/florida/hialeah
+          - generic [ref=e288]: Hialeah
+          - generic [ref=e289]: (6 mi)
+        - link "North Miami (7 mi)" [ref=e290] [cursor=pointer]:
+          - /url: /locations/florida/north-miami
+          - generic [ref=e291]: North Miami
+          - generic [ref=e292]: (7 mi)
+    - generic [ref=e295]:
+      - heading "Miami Cash Advance FAQ" [level=2] [ref=e296]
+      - generic [ref=e297]:
+        - generic [ref=e298]:
+          - button "Where is your Miami cash advance location?" [expanded] [ref=e299] [cursor=pointer]:
+            - generic [ref=e300]: Where is your Miami cash advance location?
+            - img [ref=e301]
+          - paragraph [ref=e305]: Our Miami branch is located at 1247 Wynwood Avenue, Suite 150, right across from the famous Wynwood Walls in the Arts District. We're just off I-95 Exit 16, making us easy to access from anywhere in Miami-Dade County.
+        - generic [ref=e306]:
+          - button "What are your hours at the Miami location?" [ref=e307] [cursor=pointer]:
+            - generic [ref=e308]: What are your hours at the Miami location?
+            - img [ref=e309]
+          - paragraph [ref=e312]: We're open Monday through Friday from 9:00 AM to 6:00 PM, and Saturday 10:00 AM to 3:00 PM. We're closed on Sundays. Walk-ins are welcome, though you can also apply online to speed up the process.
+        - generic [ref=e313]:
+          - button "Can I have multiple cash advance loans in Miami?" [ref=e314] [cursor=pointer]:
+            - generic [ref=e315]: Can I have multiple cash advance loans in Miami?
+            - img [ref=e316]
+          - paragraph [ref=e319]: No. Florida law allows you to have only ONE payday loan outstanding at any time. All lenders must check the statewide Deferred Presentment Transaction System database before issuing a loan to ensure you don't already have another loan active. This protects you from debt traps.
+        - generic [ref=e320]:
+          - button "What's the maximum cash advance in Miami?" [ref=e321] [cursor=pointer]:
+            - generic [ref=e322]: What's the maximum cash advance in Miami?
+            - img [ref=e323]
+          - paragraph [ref=e326]: For single-payment loans, the maximum is $500 plus fees (max 10% plus $5 verification fee). For installment loans, you can borrow up to $1,000 with fees capped at 8% of the outstanding balance on a biweekly basis. These limits are set by Florida law.
+        - generic [ref=e327]:
+          - button "What if I can't repay my Miami cash advance on time?" [ref=e328] [cursor=pointer]:
+            - generic [ref=e329]: What if I can't repay my Miami cash advance on time?
+            - img [ref=e330]
+          - paragraph [ref=e333]: Florida law provides important protections. If you inform your lender IN PERSON before the due date, you're entitled to a 60-day grace period at NO additional cost. You must complete credit counseling within that period. We'll provide you with a list of approved nonprofit agencies.
+    - generic [ref=e337]:
+      - generic [ref=e338]:
+        - heading "Need Emergency Cash in Miami Today?" [level=2] [ref=e339]
+        - paragraph [ref=e340]: Visit our Wynwood location or apply online for fast approval
+        - paragraph [ref=e341]: 1247 Wynwood Avenue, Suite 150, Miami, FL 33127
+        - generic [ref=e342]:
+          - link "Apply for Cash Advance Now" [ref=e343] [cursor=pointer]:
+            - /url: /apply?location=miami-fl
+          - link "Call (305) 555-0142" [ref=e344] [cursor=pointer]:
+            - /url: tel:+13055550142
+      - generic [ref=e345]:
+        - heading "Quick Contact" [level=3] [ref=e346]
+        - generic [ref=e347]:
+          - generic [ref=e348]:
+            - generic [ref=e349]:
+              - generic [ref=e350]: Full Name *
+              - textbox "Full Name *" [ref=e351]:
+                - /placeholder: John Doe
+            - generic [ref=e352]:
+              - generic [ref=e353]: Phone Number *
+              - textbox "Phone Number *" [ref=e354]:
+                - /placeholder: (555) 123-4567
+          - generic [ref=e355]:
+            - generic [ref=e356]: Email Address *
+            - textbox "Email Address *" [ref=e357]:
+              - /placeholder: john@example.com
+          - generic [ref=e358]:
+            - generic [ref=e359]: Message
+            - textbox "Message" [ref=e360]:
+              - /placeholder: How can we help you?
+          - button "Send Message" [ref=e361] [cursor=pointer]
+          - paragraph [ref=e362]:
+            - text: By submitting this form, you agree to our
+            - link "Privacy Policy" [ref=e363] [cursor=pointer]:
+              - /url: /privacy
+            - text: .
+  - contentinfo [ref=e364]:
+    - generic [ref=e366]:
+      - generic [ref=e367]:
+        - generic [ref=e368]:
+          - generic [ref=e370]: L
+          - generic [ref=e371]: Lion Cash Advance
+        - paragraph [ref=e372]: Fast cash advance loans when you need them most. Serving Florida and California with same-day approval and no credit check required.
+        - generic [ref=e373]:
+          - link "1-800-555-CASH" [ref=e374] [cursor=pointer]:
+            - /url: tel:1800555
+            - img [ref=e375]
+            - text: 1-800-555-CASH
+          - link "support@lioncashadvance.com" [ref=e377] [cursor=pointer]:
+            - /url: mailto:support@lioncashadvance.com
+            - img [ref=e378]
+            - text: support@lioncashadvance.com
+      - generic [ref=e380]:
+        - heading "Our Services" [level=4] [ref=e381]
+        - list [ref=e382]:
+          - listitem [ref=e383]:
+            - link "Cash Advance Loans" [ref=e384] [cursor=pointer]:
+              - /url: /services/cash-advance-loans
+          - listitem [ref=e385]:
+            - link "Payday Loans" [ref=e386] [cursor=pointer]:
+              - /url: /services/payday-loans
+          - listitem [ref=e387]:
+            - link "Installment Loans" [ref=e388] [cursor=pointer]:
+              - /url: /services/installment-loans
+          - listitem [ref=e389]:
+            - link "Same-Day Loans" [ref=e390] [cursor=pointer]:
+              - /url: /services/same-day-loans
+          - listitem [ref=e391]:
+            - link "Bad Credit Loans" [ref=e392] [cursor=pointer]:
+              - /url: /services/bad-credit-loans
+          - listitem [ref=e393]:
+            - link "View All Services" [ref=e394] [cursor=pointer]:
+              - /url: /services
+      - generic [ref=e395]:
+        - heading "Locations" [level=4] [ref=e396]
+        - list [ref=e397]:
+          - listitem [ref=e398]:
+            - link "Florida" [ref=e399] [cursor=pointer]:
+              - /url: /locations/florida
+          - listitem [ref=e400]:
+            - link "California" [ref=e401] [cursor=pointer]:
+              - /url: /locations/california
+          - listitem [ref=e402]:
+            - link "View All Locations" [ref=e403] [cursor=pointer]:
+              - /url: /locations
+      - generic [ref=e404]:
+        - heading "Quick Links" [level=4] [ref=e405]
+        - list [ref=e406]:
+          - listitem [ref=e407]:
+            - link "About Us" [ref=e408] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e409]:
+            - link "Contact" [ref=e410] [cursor=pointer]:
+              - /url: /contact
+          - listitem [ref=e411]:
+            - link "Apply Now" [ref=e412] [cursor=pointer]:
+              - /url: /apply
+          - listitem [ref=e413]:
+            - link "FAQ" [ref=e414] [cursor=pointer]:
+              - /url: /services/cash-advance-loans#faq
+    - generic [ref=e417]:
+      - paragraph [ref=e418]:
+        - strong [ref=e419]: "Important Disclosure:"
+        - text: Lion Cash Advance is a licensed lender operating in compliance with all applicable federal and state lending laws. Loan availability, terms, and rates vary by state. California loans are made pursuant to the California Deferred Deposit Transaction Law (CDDTL). Florida loans are made pursuant to Florida Statutes Chapter 560.
+      - paragraph [ref=e420]:
+        - strong [ref=e421]: "APR Disclosure:"
+        - text: The Annual Percentage Rate (APR) is the cost of your loan expressed as a yearly rate. The APR for cash advance loans may range from 200% to 460% depending on loan amount, term, and state regulations. This is a short-term loan and should be used for short-term financial needs only, not as a long-term financial solution.
+      - paragraph [ref=e422]:
+        - strong [ref=e423]: "Collection Practices:"
+        - text: If you cannot repay your loan on time, contact us immediately to discuss options. We comply with all federal and state debt collection laws. We will not threaten you with criminal prosecution for non-payment.
+    - generic [ref=e426]:
+      - paragraph [ref=e427]: "Copyright 2025 Lion Cash Advance LLC. All rights reserved. NMLS #1234567"
+      - generic [ref=e428]:
+        - link "Privacy Policy" [ref=e429] [cursor=pointer]:
+          - /url: /privacy
+        - link "Terms of Service" [ref=e430] [cursor=pointer]:
+          - /url: /terms
+        - link "Sitemap" [ref=e431] [cursor=pointer]:
+          - /url: /sitemap.xml
+  - alert [ref=e432]
+```

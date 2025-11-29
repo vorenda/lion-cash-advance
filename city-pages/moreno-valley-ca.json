@@ -1,0 +1,218 @@
+{
+  "id": "moreno-valley-ca",
+  "city": "Moreno Valley",
+  "slug": "moreno-valley",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Riverside",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans in Moreno Valley, CA | Riverside County Fast Cash | Lion Cash Advance",
+    "metaDescription": "Need quick cash in Moreno Valley? Our Riverside County location offers same-day approval. Get $100-$300 fast with flexible payment terms.",
+    "canonicalUrl": "/locations/california/moreno-valley",
+    "keywords": ["cash advance moreno valley", "payday loans moreno valley ca", "fast cash moreno valley", "emergency loans riverside county"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Moreno Valley, California",
+    "subheadline": "Quick approval serving Riverside County residents",
+    "ctaText": "Apply Now for Moreno Valley Cash",
+    "ctaUrl": "/apply?location=moreno-valley-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=moreno+valley+ca+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Visit Lion Cash Advance in Moreno Valley",
+    "directions": "We are conveniently located at 14567 Perris Boulevard, Suite 200, right near Sycamore Creek Park and Moreno Valley College, two major Riverside County landmarks. If you're taking I-215, take Exit 32 toward Perris Boulevard. Our storefront is in a busy commercial district with excellent visibility and convenient parking.",
+    "landmarks": ["Sycamore Creek Park", "Moreno Valley College", "Ironwood Country Club"],
+    "highway": "I-215",
+    "exit": "Exit 32",
+    "neighborhoodName": "Central Moreno Valley",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3344.1!2d-117.24!3d33.94!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcf!2m2!1d-117.24!2d33.94!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Moreno Valley",
+    "street": "14567 Perris Boulevard, Suite 200",
+    "city": "Moreno Valley",
+    "state": "CA",
+    "zip": "92553",
+    "phone": "(951) 555-0213",
+    "formattedPhone": "+19515550213",
+    "formattedAddress": "14567 Perris Boulevard, Suite 200, Moreno Valley, CA 92553",
+    "coordinates": {
+      "latitude": 33.9401,
+      "longitude": -117.2401
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=33.9401,-117.2401"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Solutions in Moreno Valley",
+    "intro": "Riverside County residents in Moreno Valley have convenient access to quick cash:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Quick cash loans up to $300 with flexible terms",
+        "anchorText": "Get a payday loan"
+      },
+      {
+        "name": "Cash Advance Loans",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Fast approval with minimal documentation",
+        "anchorText": "Apply for cash advance"
+      },
+      {
+        "name": "Personal Loans",
+        "slug": "personal-loans",
+        "url": "/services/personal-loans",
+        "description": "Unsecured personal loans for any need",
+        "anchorText": "Explore personal loans"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Start your application online",
+        "anchorText": "Apply online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Laws for Moreno Valley Residents",
+    "content": "Moreno Valley residents in Riverside County are protected by California's comprehensive Deferred Deposit Transaction Law, regulated by the California Department of Financial Protection and Innovation (DFPI). These regulations ensure strong consumer protections and ethical lending practices.",
+    "keyPoints": [
+      "Maximum loan: $300 including all fees (typical $255 cash with $45 fee)",
+      "Maximum fee: 15% of check amount, maximum $45",
+      "APR: Approximately 460% for standard 14-day loans",
+      "Loan term: Cannot exceed 31 days",
+      "One loan limit: Can only have one payday loan at a time",
+      "No rollovers: Cannot extend loans with additional fees",
+      "No criminal prosecution: Cannot threaten or pursue criminal action",
+      "NSF limited: Only one $15 fee per bounced check",
+      "Full transparency: All fees disclosed in dollars and APR"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for general educational purposes and does not constitute legal advice. Payday loan laws may change. For current information, contact the DFPI at 1-866-275-2677 or dfpi.ca.gov. For legal questions, consult a California attorney. Individual lender terms vary within state law limits."
+  },
+
+  "localReviews": {
+    "headline": "Moreno Valley Customer Reviews",
+    "locationId": "moreno-valley-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Kenneth D.",
+        "rating": 5,
+        "text": "Excellent service at the Perris Boulevard location. Quick process and friendly staff. Got approved in 30 minutes. Very professional.",
+        "date": "2024-11-18"
+      },
+      {
+        "name": "Michelle P.",
+        "rating": 5,
+        "text": "Great location near the College. Easy to access from I-215. Professional team that explained everything clearly. Highly recommended!",
+        "date": "2024-10-17"
+      },
+      {
+        "name": "Rafael T.",
+        "rating": 4,
+        "text": "Good service in Moreno Valley. Quick and efficient. Convenient location with good parking. Would use again.",
+        "date": "2024-09-13"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Riverside County",
+    "intro": "We also serve these neighboring Riverside County communities:",
+    "cities": [
+      {"name": "Riverside", "slug": "riverside", "url": "/locations/california/riverside", "distanceMiles": 18},
+      {"name": "Hemet", "slug": "hemet", "url": "/locations/california/hemet", "distanceMiles": 28},
+      {"name": "Perris", "slug": "perris", "url": "/locations/california/perris", "distanceMiles": 8},
+      {"name": "San Jacinto", "slug": "san-jacinto", "url": "/locations/california/san-jacinto", "distanceMiles": 24}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Moreno Valley location?",
+      "answer": "We're at 14567 Perris Boulevard, Suite 200, near Sycamore Creek Park and the College. Take I-215 Exit 32 toward Perris Boulevard. Excellent parking available."
+    },
+    {
+      "question": "What documents do I need?",
+      "answer": "Bring a valid government ID, recent pay stub or bank statements, and your active checking account information. Most Moreno Valley residents are approved in 30 minutes."
+    },
+    {
+      "question": "What's the maximum loan amount?",
+      "answer": "California law limits loans to $300 total including fees. You'll typically receive $255 cash with a $45 fee under the 15% fee cap."
+    },
+    {
+      "question": "How long does approval take?",
+      "answer": "Most applicants at our Perris Boulevard location are approved and receive cash within 30 minutes. We have a quick verification process."
+    },
+    {
+      "question": "Are there any hidden fees?",
+      "answer": "No hidden fees. California requires all fees to be disclosed clearly in dollars and APR before you sign."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Fast Cash in Moreno Valley Today",
+    "subheadline": "Visit our Perris Boulevard location or apply online",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=moreno-valley-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (951) 555-0213",
+      "url": "tel:+19515550213"
+    },
+    "address": "14567 Perris Boulevard, Suite 200, Moreno Valley, CA 92553"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Moreno Valley", "url": "/locations/california/moreno-valley"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1560707303-4e8d64df3ec6?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Moreno Valley location near Sycamore Creek Park",
+      "caption": "Our professional Moreno Valley branch on Perris Boulevard"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0"
+  }
+}

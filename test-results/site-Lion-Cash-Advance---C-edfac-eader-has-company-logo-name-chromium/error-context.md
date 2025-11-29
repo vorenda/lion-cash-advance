@@ -1,0 +1,451 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: Fast Cash When You Need It Most
+      - 'link "Call Now: 1-800-555-CASH" [ref=e6] [cursor=pointer]':
+        - /url: tel:1800555
+        - img [ref=e7]
+        - text: "Call Now: 1-800-555-CASH"
+    - navigation [ref=e9]:
+      - generic [ref=e10]:
+        - link "L Lion Cash Advance" [ref=e11] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e13]: L
+          - generic [ref=e14]: Lion Cash Advance
+        - generic [ref=e15]:
+          - link "Home" [ref=e16] [cursor=pointer]:
+            - /url: /
+          - link "Services" [ref=e18] [cursor=pointer]:
+            - /url: /services
+            - text: Services
+            - img [ref=e19]
+          - link "Locations" [ref=e22] [cursor=pointer]:
+            - /url: /locations
+            - text: Locations
+            - img [ref=e23]
+          - link "About Us" [ref=e25] [cursor=pointer]:
+            - /url: /about
+          - link "Contact" [ref=e26] [cursor=pointer]:
+            - /url: /contact
+          - link "Apply Now" [ref=e27] [cursor=pointer]:
+            - /url: /apply
+  - main [ref=e28]:
+    - generic [ref=e29]:
+      - generic [ref=e32]:
+        - heading "Fast Cash Advance Loans When You Need Them Most" [level=1] [ref=e33]:
+          - text: Fast Cash Advance Loans
+          - generic [ref=e34]: When You Need Them Most
+        - paragraph [ref=e35]: Same-day approval. No credit check required. Get up to $1,000 in Florida or $300 in California.
+        - generic [ref=e36]:
+          - link "Apply Now - Get Cash Today" [ref=e37] [cursor=pointer]:
+            - /url: /apply
+            - text: Apply Now - Get Cash Today
+            - img [ref=e38]
+          - link "Find a Location Near You" [ref=e40] [cursor=pointer]:
+            - /url: /locations
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - img [ref=e43]
+            - text: Licensed & Insured
+          - generic [ref=e45]:
+            - img [ref=e46]
+            - text: 15-Minute Approval
+          - generic [ref=e48]:
+            - img [ref=e49]
+            - text: No Credit Check
+          - generic [ref=e51]:
+            - img [ref=e52]
+            - text: 4.9 Star Rating
+      - img [ref=e55]
+    - generic [ref=e59]:
+      - generic [ref=e60]:
+        - img [ref=e62]
+        - heading "Licensed & Insured" [level=3] [ref=e64]
+        - paragraph [ref=e65]: State licensed lender
+      - generic [ref=e66]:
+        - img [ref=e68]
+        - heading "Same-Day Approval" [level=3] [ref=e70]
+        - paragraph [ref=e71]: Fast 15-minute decisions
+      - generic [ref=e72]:
+        - img [ref=e74]
+        - heading "Secure & Private" [level=3] [ref=e76]
+        - paragraph [ref=e77]: Your data is protected
+      - generic [ref=e78]:
+        - img [ref=e80]
+        - heading "4.9 Star Rating" [level=3] [ref=e82]
+        - paragraph [ref=e83]: 3,500+ happy customers
+    - generic [ref=e85]:
+      - generic [ref=e86]:
+        - heading "How It Works" [level=2] [ref=e87]
+        - paragraph [ref=e88]: Get cash in your hands in as little as 30 minutes with our simple 3-step process
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - generic [ref=e92]: "1"
+          - heading "Apply Online or In-Store" [level=3] [ref=e94]
+          - paragraph [ref=e95]: Fill out our quick 5-minute application online or visit any of our locations. Just bring your ID and proof of income.
+        - generic [ref=e96]:
+          - generic [ref=e98]: "2"
+          - heading "Get Approved Fast" [level=3] [ref=e100]
+          - paragraph [ref=e101]: Our team reviews your application and verifies your income. Most borrowers are approved within 15-30 minutes.
+        - generic [ref=e102]:
+          - generic [ref=e104]: "3"
+          - heading "Receive Your Cash" [level=3] [ref=e105]
+          - paragraph [ref=e106]: Once approved, funds are deposited directly to your bank account. Most customers receive their money the same day.
+      - link "Start Your Application" [ref=e108] [cursor=pointer]:
+        - /url: /apply
+        - text: Start Your Application
+        - img [ref=e109]
+    - generic [ref=e112]:
+      - generic [ref=e113]:
+        - heading "Our Loan Services" [level=2] [ref=e114]
+        - paragraph [ref=e115]: Choose the cash advance option that best fits your needs
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - img [ref=e119]
+          - heading "Cash Advance Loans" [level=3] [ref=e121]
+          - paragraph [ref=e122]: A cash advance loan is a short-term borrowing option designed to help you cover unexpected financial emergencies. At Lion Cash Advance, we understand ...
+          - link "Learn More" [ref=e123] [cursor=pointer]:
+            - /url: /services/cash-advance-loans
+            - text: Learn More
+            - img [ref=e124]
+        - generic [ref=e126]:
+          - img [ref=e128]
+          - heading "Payday Loans" [level=3] [ref=e130]
+          - paragraph [ref=e131]: A payday loan is a short-term cash advance designed to bridge the gap between unexpected expenses and your next paycheck. At Lion Cash Advance, payday...
+          - link "Learn More" [ref=e132] [cursor=pointer]:
+            - /url: /services/payday-loans
+            - text: Learn More
+            - img [ref=e133]
+        - generic [ref=e135]:
+          - img [ref=e137]
+          - heading "Installment Loans" [level=3] [ref=e139]
+          - paragraph [ref=e140]: An installment loan allows you to borrow a larger amount and repay it in equal monthly installments over 3-12 months. Instead of needing to repay ever...
+          - link "Learn More" [ref=e141] [cursor=pointer]:
+            - /url: /services/installment-loans
+            - text: Learn More
+            - img [ref=e142]
+        - generic [ref=e144]:
+          - img [ref=e146]
+          - heading "Same-Day Loans" [level=3] [ref=e148]
+          - paragraph [ref=e149]: When you need cash immediately, Lion Cash Advance's same-day loans deliver. Same-day loans are designed for financial emergencies where you need funds...
+          - link "Learn More" [ref=e150] [cursor=pointer]:
+            - /url: /services/same-day-loans
+            - text: Learn More
+            - img [ref=e151]
+        - generic [ref=e153]:
+          - img [ref=e155]
+          - heading "Bad Credit Loans" [level=3] [ref=e157]
+          - paragraph [ref=e158]: Have bad credit? Don't let that stop you from getting the emergency cash you need. Lion Cash Advance specializes in bad credit loans - cash advances d...
+          - link "Learn More" [ref=e159] [cursor=pointer]:
+            - /url: /services/bad-credit-loans
+            - text: Learn More
+            - img [ref=e160]
+      - link "View All Services" [ref=e163] [cursor=pointer]:
+        - /url: /services
+        - text: View All Services
+        - img [ref=e164]
+    - generic [ref=e167]:
+      - generic [ref=e168]:
+        - heading "Serving 51+ Cities Across 2 States" [level=2] [ref=e169]
+        - paragraph [ref=e170]: Find a Lion Cash Advance location near you for same-day service
+      - generic [ref=e171]:
+        - link "FL 24 cities Florida Cash advance loans available across 24 cities in Florida. Same-day approval with no credit check. View Locations" [ref=e172] [cursor=pointer]:
+          - /url: /locations/florida
+          - generic [ref=e173]:
+            - generic [ref=e175]: FL
+            - generic [ref=e176]: 24 cities
+          - heading "Florida" [level=3] [ref=e177]
+          - paragraph [ref=e178]: Cash advance loans available across 24 cities in Florida. Same-day approval with no credit check.
+          - generic [ref=e179]:
+            - text: View Locations
+            - img [ref=e180]
+        - link "CA 27 cities California Cash advance loans available across 27 cities in California. Same-day approval with no credit check. View Locations" [ref=e182] [cursor=pointer]:
+          - /url: /locations/california
+          - generic [ref=e183]:
+            - generic [ref=e185]: CA
+            - generic [ref=e186]: 27 cities
+          - heading "California" [level=3] [ref=e187]
+          - paragraph [ref=e188]: Cash advance loans available across 27 cities in California. Same-day approval with no credit check.
+          - generic [ref=e189]:
+            - text: View Locations
+            - img [ref=e190]
+      - link "Find Your Nearest Location" [ref=e193] [cursor=pointer]:
+        - /url: /locations
+        - text: Find Your Nearest Location
+        - img [ref=e194]
+    - generic [ref=e199]:
+      - generic [ref=e200]:
+        - heading "Why Choose Lion Cash Advance?" [level=2] [ref=e201]
+        - paragraph [ref=e202]: We are committed to helping you through financial emergencies with fast, fair, and transparent service
+      - generic [ref=e203]:
+        - generic [ref=e204]:
+          - img [ref=e206]
+          - heading "10+ Years Experience" [level=3] [ref=e208]
+          - paragraph [ref=e209]: Helping customers since 2014 with reliable cash advance services
+        - generic [ref=e210]:
+          - img [ref=e212]
+          - heading "Same-Day Funding" [level=3] [ref=e214]
+          - paragraph [ref=e215]: Get your cash the same day you apply - no waiting around
+        - generic [ref=e216]:
+          - img [ref=e218]
+          - heading "Transparent Pricing" [level=3] [ref=e220]
+          - paragraph [ref=e221]: No hidden fees - all costs are disclosed upfront before you borrow
+        - generic [ref=e222]:
+          - img [ref=e224]
+          - heading "Professional Service" [level=3] [ref=e226]
+          - paragraph [ref=e227]: Respectful, discreet service that treats you like family
+    - generic [ref=e230]:
+      - heading "What Our Customers Say" [level=2] [ref=e231]
+      - generic [ref=e232]:
+        - generic [ref=e233]:
+          - generic [ref=e234]:
+            - generic [ref=e235]:
+              - generic [ref=e237]: M
+              - generic [ref=e238]:
+                - paragraph [ref=e239]: Maria R.
+                - paragraph [ref=e240]: Miami, FL
+            - generic [ref=e241]:
+              - img [ref=e242]
+              - img [ref=e244]
+              - img [ref=e246]
+              - img [ref=e248]
+              - img [ref=e250]
+          - paragraph [ref=e252]: “Fast service! Got approved in 15 minutes and had cash in my account the same day. The staff was professional and explained everything clearly.”
+        - generic [ref=e253]:
+          - generic [ref=e254]:
+            - generic [ref=e255]:
+              - generic [ref=e257]: J
+              - generic [ref=e258]:
+                - paragraph [ref=e259]: James T.
+                - paragraph [ref=e260]: Los Angeles, CA
+            - generic [ref=e261]:
+              - img [ref=e262]
+              - img [ref=e264]
+              - img [ref=e266]
+              - img [ref=e268]
+              - img [ref=e270]
+          - paragraph [ref=e272]: “When my car broke down unexpectedly, Lion Cash Advance saved the day. Easy process and no judgment about my credit history.”
+        - generic [ref=e273]:
+          - generic [ref=e274]:
+            - generic [ref=e275]:
+              - generic [ref=e277]: S
+              - generic [ref=e278]:
+                - paragraph [ref=e279]: Sandra L.
+                - paragraph [ref=e280]: Tampa, FL
+            - generic [ref=e281]:
+              - img [ref=e282]
+              - img [ref=e284]
+              - img [ref=e286]
+              - img [ref=e288]
+              - img [ref=e290]
+          - paragraph [ref=e292]: “I appreciated the transparent fees - no surprises. The online application was simple and I had my money within hours.”
+        - generic [ref=e293]:
+          - generic [ref=e294]:
+            - generic [ref=e295]:
+              - generic [ref=e297]: R
+              - generic [ref=e298]:
+                - paragraph [ref=e299]: Robert M.
+                - paragraph [ref=e300]: San Diego, CA
+            - generic [ref=e301]:
+              - img [ref=e302]
+              - img [ref=e304]
+              - img [ref=e306]
+              - img [ref=e308]
+              - img [ref=e310]
+          - paragraph [ref=e312]: “Great customer service. They worked with me when I needed an extension and never made me feel bad about my situation.”
+        - generic [ref=e313]:
+          - generic [ref=e314]:
+            - generic [ref=e315]:
+              - generic [ref=e317]: P
+              - generic [ref=e318]:
+                - paragraph [ref=e319]: Patricia H.
+                - paragraph [ref=e320]: Orlando, FL
+            - generic [ref=e321]:
+              - img [ref=e322]
+              - img [ref=e324]
+              - img [ref=e326]
+              - img [ref=e328]
+              - img [ref=e330]
+          - paragraph [ref=e332]: “Convenient location near me and the process was quick. Would recommend for anyone needing emergency cash.”
+        - generic [ref=e333]:
+          - generic [ref=e334]:
+            - generic [ref=e335]:
+              - generic [ref=e337]: D
+              - generic [ref=e338]:
+                - paragraph [ref=e339]: David K.
+                - paragraph [ref=e340]: Sacramento, CA
+            - generic [ref=e341]:
+              - img [ref=e342]
+              - img [ref=e344]
+              - img [ref=e346]
+              - img [ref=e348]
+              - img [ref=e350]
+          - paragraph [ref=e352]: “This was my first time getting a cash advance and they made it stress-free. Clear explanations and fast approval.”
+    - generic [ref=e354]:
+      - generic [ref=e355]:
+        - heading "Frequently Asked Questions" [level=2] [ref=e356]
+        - paragraph [ref=e357]: Get answers to common questions about our cash advance services
+      - generic [ref=e358]:
+        - heading [level=2]
+        - generic [ref=e359]:
+          - generic [ref=e360]:
+            - button "How fast can I get cash from Lion Cash Advance?" [expanded] [ref=e361] [cursor=pointer]:
+              - generic [ref=e362]: How fast can I get cash from Lion Cash Advance?
+              - img [ref=e363]
+            - paragraph [ref=e367]: Most borrowers complete the application in 5 minutes, receive approval within 15-30 minutes, and get funds in their account the same day. Some borrowers receive cash within just a few hours of applying.
+          - generic [ref=e368]:
+            - button "Can I get a cash advance with bad credit?" [ref=e369] [cursor=pointer]:
+              - generic [ref=e370]: Can I get a cash advance with bad credit?
+              - img [ref=e371]
+            - paragraph [ref=e374]: Yes! We work with borrowers of all credit types - including those with bad credit, no credit history, previous bankruptcies, or other credit challenges. Your income is what matters most to us, not your credit score.
+          - generic [ref=e375]:
+            - button "What do I need to apply for a cash advance?" [ref=e376] [cursor=pointer]:
+              - generic [ref=e377]: What do I need to apply for a cash advance?
+              - img [ref=e378]
+            - paragraph [ref=e381]: You need a valid government-issued ID, proof of income (recent pay stub or bank statement), and an active checking account. The application takes just 5 minutes to complete.
+          - generic [ref=e382]:
+            - button "How much can I borrow?" [ref=e383] [cursor=pointer]:
+              - generic [ref=e384]: How much can I borrow?
+              - img [ref=e385]
+            - paragraph [ref=e388]: Loan amounts vary by state and loan type. In Florida, single-payment loans go up to $500 and installment loans up to $1,000. In California, the maximum is $300. Your specific amount depends on your income and state regulations.
+          - generic [ref=e389]:
+            - button "What states do you serve?" [ref=e390] [cursor=pointer]:
+              - generic [ref=e391]: What states do you serve?
+              - img [ref=e392]
+            - paragraph [ref=e395]: Lion Cash Advance currently serves Florida and California, with locations across major cities in both states. Visit our Locations page to find a branch near you.
+          - generic [ref=e396]:
+            - button "Are your loans safe and legal?" [ref=e397] [cursor=pointer]:
+              - generic [ref=e398]: Are your loans safe and legal?
+              - img [ref=e399]
+            - paragraph [ref=e402]: Yes, Lion Cash Advance is a licensed lender operating in compliance with all applicable federal and state lending laws. We are regulated by the Florida Office of Financial Regulation and the California Department of Financial Protection and Innovation.
+    - generic [ref=e405]:
+      - generic [ref=e406]:
+        - heading "Ready to Get Started?" [level=2] [ref=e407]
+        - paragraph [ref=e408]: Apply now for fast cash or contact us with any questions. Our friendly team is here to help you through your financial emergency.
+        - generic [ref=e409]:
+          - link "Call Us Now 1-800-555-CASH" [ref=e410] [cursor=pointer]:
+            - /url: tel:1-800-555-CASH
+            - img [ref=e412]
+            - generic [ref=e414]:
+              - paragraph [ref=e415]: Call Us Now
+              - paragraph [ref=e416]: 1-800-555-CASH
+          - link "Find a Location 51+ Cities Across 2 States" [ref=e417] [cursor=pointer]:
+            - /url: /locations
+            - img [ref=e419]
+            - generic [ref=e422]:
+              - paragraph [ref=e423]: Find a Location
+              - paragraph [ref=e424]: 51+ Cities Across 2 States
+      - generic [ref=e425]:
+        - heading "Send Us a Message" [level=3] [ref=e426]
+        - generic [ref=e427]:
+          - generic [ref=e428]:
+            - generic [ref=e429]:
+              - generic [ref=e430]: Full Name *
+              - textbox "Full Name *" [ref=e431]:
+                - /placeholder: John Doe
+            - generic [ref=e432]:
+              - generic [ref=e433]: Phone Number *
+              - textbox "Phone Number *" [ref=e434]:
+                - /placeholder: (555) 123-4567
+          - generic [ref=e435]:
+            - generic [ref=e436]: Email Address *
+            - textbox "Email Address *" [ref=e437]:
+              - /placeholder: john@example.com
+          - generic [ref=e438]:
+            - generic [ref=e439]: Message
+            - textbox "Message" [ref=e440]:
+              - /placeholder: How can we help you?
+          - button "Send Message" [ref=e441] [cursor=pointer]
+          - paragraph [ref=e442]:
+            - text: By submitting this form, you agree to our
+            - link "Privacy Policy" [ref=e443] [cursor=pointer]:
+              - /url: /privacy
+            - text: .
+  - contentinfo [ref=e444]:
+    - generic [ref=e446]:
+      - generic [ref=e447]:
+        - generic [ref=e448]:
+          - generic [ref=e450]: L
+          - generic [ref=e451]: Lion Cash Advance
+        - paragraph [ref=e452]: Fast cash advance loans when you need them most. Serving Florida and California with same-day approval and no credit check required.
+        - generic [ref=e453]:
+          - link "1-800-555-CASH" [ref=e454] [cursor=pointer]:
+            - /url: tel:1800555
+            - img [ref=e455]
+            - text: 1-800-555-CASH
+          - link "support@lioncashadvance.com" [ref=e457] [cursor=pointer]:
+            - /url: mailto:support@lioncashadvance.com
+            - img [ref=e458]
+            - text: support@lioncashadvance.com
+      - generic [ref=e460]:
+        - heading "Our Services" [level=4] [ref=e461]
+        - list [ref=e462]:
+          - listitem [ref=e463]:
+            - link "Cash Advance Loans" [ref=e464] [cursor=pointer]:
+              - /url: /services/cash-advance-loans
+          - listitem [ref=e465]:
+            - link "Payday Loans" [ref=e466] [cursor=pointer]:
+              - /url: /services/payday-loans
+          - listitem [ref=e467]:
+            - link "Installment Loans" [ref=e468] [cursor=pointer]:
+              - /url: /services/installment-loans
+          - listitem [ref=e469]:
+            - link "Same-Day Loans" [ref=e470] [cursor=pointer]:
+              - /url: /services/same-day-loans
+          - listitem [ref=e471]:
+            - link "Bad Credit Loans" [ref=e472] [cursor=pointer]:
+              - /url: /services/bad-credit-loans
+          - listitem [ref=e473]:
+            - link "View All Services" [ref=e474] [cursor=pointer]:
+              - /url: /services
+      - generic [ref=e475]:
+        - heading "Locations" [level=4] [ref=e476]
+        - list [ref=e477]:
+          - listitem [ref=e478]:
+            - link "Florida" [ref=e479] [cursor=pointer]:
+              - /url: /locations/florida
+          - listitem [ref=e480]:
+            - link "California" [ref=e481] [cursor=pointer]:
+              - /url: /locations/california
+          - listitem [ref=e482]:
+            - link "View All Locations" [ref=e483] [cursor=pointer]:
+              - /url: /locations
+      - generic [ref=e484]:
+        - heading "Quick Links" [level=4] [ref=e485]
+        - list [ref=e486]:
+          - listitem [ref=e487]:
+            - link "About Us" [ref=e488] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e489]:
+            - link "Contact" [ref=e490] [cursor=pointer]:
+              - /url: /contact
+          - listitem [ref=e491]:
+            - link "Apply Now" [ref=e492] [cursor=pointer]:
+              - /url: /apply
+          - listitem [ref=e493]:
+            - link "FAQ" [ref=e494] [cursor=pointer]:
+              - /url: /services/cash-advance-loans#faq
+    - generic [ref=e497]:
+      - paragraph [ref=e498]:
+        - strong [ref=e499]: "Important Disclosure:"
+        - text: Lion Cash Advance is a licensed lender operating in compliance with all applicable federal and state lending laws. Loan availability, terms, and rates vary by state. California loans are made pursuant to the California Deferred Deposit Transaction Law (CDDTL). Florida loans are made pursuant to Florida Statutes Chapter 560.
+      - paragraph [ref=e500]:
+        - strong [ref=e501]: "APR Disclosure:"
+        - text: The Annual Percentage Rate (APR) is the cost of your loan expressed as a yearly rate. The APR for cash advance loans may range from 200% to 460% depending on loan amount, term, and state regulations. This is a short-term loan and should be used for short-term financial needs only, not as a long-term financial solution.
+      - paragraph [ref=e502]:
+        - strong [ref=e503]: "Collection Practices:"
+        - text: If you cannot repay your loan on time, contact us immediately to discuss options. We comply with all federal and state debt collection laws. We will not threaten you with criminal prosecution for non-payment.
+    - generic [ref=e506]:
+      - paragraph [ref=e507]: "Copyright 2025 Lion Cash Advance LLC. All rights reserved. NMLS #1234567"
+      - generic [ref=e508]:
+        - link "Privacy Policy" [ref=e509] [cursor=pointer]:
+          - /url: /privacy
+        - link "Terms of Service" [ref=e510] [cursor=pointer]:
+          - /url: /terms
+        - link "Sitemap" [ref=e511] [cursor=pointer]:
+          - /url: /sitemap.xml
+  - alert [ref=e512]
+```

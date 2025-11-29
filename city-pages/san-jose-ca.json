@@ -1,0 +1,214 @@
+{
+  "id": "san-jose-ca",
+  "city": "San Jose",
+  "slug": "san-jose",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Santa Clara County",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans San Jose | Near Tech Museum | Lion Cash Advance",
+    "metaDescription": "Quick cash advances in San Jose near Tech Museum of Innovation. DFPI licensed. $300 max, 15% fee. Same-day approval. (408) 555-0239",
+    "canonicalUrl": "/locations/california/san-jose",
+    "keywords": ["cash advance san jose", "payday loans san jose", "emergency cash silicon valley", "quick loans san jose"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in San Jose, California",
+    "subheadline": "Licensed lender serving Silicon Valley residents with flexible short-term loans",
+    "ctaText": "Apply Now for San Jose Cash",
+    "ctaUrl": "/apply?location=san-jose-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=san+jose+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in San Jose",
+    "directions": "We are conveniently located at 234 Park Avenue, right near the Tech Museum of Innovation and just down the road from the San Jose Museum of Art. If you are taking I-280 or I-880, take Exit 9 toward Park Avenue. Our downtown San Jose location is easily accessible with convenient parking.",
+    "landmarks": ["Tech Museum", "San Jose Museum of Art"],
+    "highway": "I-280 / I-880",
+    "exit": "Exit 9",
+    "neighborhoodName": "Downtown San Jose",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 5:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3172.345678!2d-121.8853!3d37.3382"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - San Jose",
+    "street": "234 Park Avenue, Suite 150",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95110",
+    "phone": "(408) 555-0239",
+    "formattedPhone": "+14085550239",
+    "formattedAddress": "234 Park Avenue, Suite 150, San Jose, CA 95110",
+    "coordinates": {
+      "latitude": 37.3382,
+      "longitude": -121.8853
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=37.3382,-121.8853"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Solutions for San Jose Residents",
+    "intro": "Silicon Valley professionals and residents turn to us for flexible, quick cash solutions. Check out our available options:",
+    "services": [
+      {
+        "name": "Fast Cash Advances",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Quick loans up to $300 with same-day funding",
+        "anchorText": "Learn about Fast Cash Advances"
+      },
+      {
+        "name": "Emergency Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans for unexpected expenses",
+        "anchorText": "Emergency Payday Loans"
+      },
+      {
+        "name": "Guaranteed Approval Loans",
+        "slug": "guaranteed-approval-loans",
+        "url": "/services/guaranteed-approval-loans",
+        "description": "We work with all credit types",
+        "anchorText": "Guaranteed Approval Options"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply online and complete in San Jose",
+        "anchorText": "Apply Online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding California Cash Advance Laws in San Jose",
+    "content": "Santa Clara County residents are protected by California's strict consumer protection laws. The DFPI enforces regulations to ensure fair lending practices.",
+    "keyPoints": [
+      "Maximum loan amount is $300 including all fees",
+      "Maximum fee is 15% of check amount (460% APR typical)",
+      "Only one active loan allowed at a time",
+      "Lenders cannot pursue criminal prosecution for non-payment",
+      "Lion Cash Advance is DFPI licensed and compliant",
+      "One $15 NSF fee maximum per bounced check",
+      "Maximum 31-day loan term",
+      "Disclosures required in your preferred language"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for educational purposes only. California cash advance laws may be updated. For current regulatory information, contact DFPI at 1-866-275-2677 or visit dfpi.ca.gov. For specific legal advice, consult a licensed California attorney."
+  },
+
+  "localReviews": {
+    "headline": "What Our San Jose Customers Say",
+    "locationId": "san-jose-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Thomas K.",
+        "rating": 5,
+        "text": "Great location near the Tech Museum. Fast process and fair pricing. The staff explained everything clearly.",
+        "date": "2024-12-21"
+      },
+      {
+        "name": "Sandra M.",
+        "rating": 5,
+        "text": "Professional and efficient. Got approved in 30 minutes and received my funds same day. Highly recommend the San Jose location.",
+        "date": "2024-12-17"
+      },
+      {
+        "name": "Robert H.",
+        "rating": 4,
+        "text": "Good customer service and transparent fees. They're licensed by DFPI which gives me confidence.",
+        "date": "2024-12-13"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Silicon Valley Communities",
+    "intro": "Can't make it to our San Jose location? We serve these surrounding Silicon Valley cities:",
+    "cities": [
+      {"name": "Santa Clara", "slug": "santa-clara", "url": "/locations/california/santa-clara", "distanceMiles": 6},
+      {"name": "Sunnyvale", "slug": "sunnyvale", "url": "/locations/california/sunnyvale", "distanceMiles": 9},
+      {"name": "Mountain View", "slug": "mountain-view", "url": "/locations/california/mountain-view", "distanceMiles": 13},
+      {"name": "Fremont", "slug": "fremont", "url": "/locations/california/fremont", "distanceMiles": 35}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your San Jose location?",
+      "answer": "We're located at 234 Park Avenue, Suite 150, right near the Tech Museum in downtown San Jose. Take I-280 or I-880 to Exit 9 toward Park Avenue. Ample parking is available."
+    },
+    {
+      "question": "How quickly can I get cash in San Jose?",
+      "answer": "Most applicants receive same-day approval and funding. Bring your ID, proof of income, and checking account information. The process typically takes 30-45 minutes."
+    },
+    {
+      "question": "What's the maximum I can borrow?",
+      "answer": "California law limits payday loans to $300 including all fees. With our standard 15% fee, you can typically borrow up to $255 in cash."
+    },
+    {
+      "question": "Are your fees transparent?",
+      "answer": "Yes. California requires all fees to be clearly disclosed upfront. For a $200 loan, the fee is $30. For $255, the maximum fee is $45. No hidden charges."
+    },
+    {
+      "question": "Can I verify your DFPI license?",
+      "answer": "Absolutely. You can verify Lion Cash Advance's California license at dfpi.ca.gov/regulated-industries/regulated-entities-list/ or call 1-866-275-2677."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Need Cash Fast in San Jose?",
+    "subheadline": "Visit our downtown location or begin your application online",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=san-jose-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (408) 555-0239",
+      "url": "tel:+14085550239"
+    },
+    "address": "234 Park Avenue, Suite 150, San Jose, CA 95110"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - San Jose",
+    "areaServed": "Santa Clara County, Silicon Valley, California",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "San Jose", "url": "/locations/california/san-jose"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliance": true,
+    "stateComplianceIncluded": true
+  }
+}

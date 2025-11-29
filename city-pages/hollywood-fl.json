@@ -1,0 +1,219 @@
+{
+  "id": "hollywood-fl",
+  "city": "Hollywood",
+  "slug": "hollywood",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "countyName": "Broward County",
+  "serviceNiche": "Cash Advance Loans",
+  "businessName": "Lion Cash Advance",
+
+  "seo": {
+    "title": "Cash Advance Loans in Hollywood, FL | Quick Cash Near the Boardwalk | Lion Cash Advance",
+    "metaDescription": "Get fast payday loans in Hollywood near the famous Boardwalk. Same-day approval available. Professional cash advance service. Call (954) 555-0142 now.",
+    "canonicalUrl": "/locations/florida/hollywood",
+    "keywords": [
+      "cash advance hollywood",
+      "payday loans hollywood fl",
+      "quick cash hollywood florida",
+      "emergency loans hollywood",
+      "fast cash hollywood broward"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Hollywood, FL",
+    "subheadline": "Emergency cash when you need it",
+    "ctaText": "Get Hollywood Cash Today",
+    "ctaUrl": "/apply?location=hollywood-fl",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=hollywood+florida+cash+advance"
+    }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Hollywood office near the Boardwalk",
+      "caption": "Fast cash advance services in Hollywood, FL"
+    }
+  },
+
+  "localProof": {
+    "headline": "Located Near Hollywood Beach Boardwalk",
+    "directions": "We are conveniently located at 2345 Hollywood Boulevard, just across from the famous Hollywood Beach Boardwalk. If you're coming from I-95, take the Hollywood Boulevard exit toward the beach. We're near the Streisand Theater and Anne Kolb Nature Center, accessible from US-1 and FL-A1A.",
+    "landmarks": [
+      "Hollywood Beach Boardwalk",
+      "Streisand Theater",
+      "Anne Kolb Nature Center",
+      "Hollywood Beach"
+    ],
+    "highways": [
+      "I-95",
+      "US-1",
+      "FL-A1A"
+    ],
+    "neighborhoodName": "Hollywood Beach Area",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Hollywood",
+    "street": "2345 Hollywood Boulevard, Suite 200",
+    "city": "Hollywood",
+    "state": "FL",
+    "zip": "33020",
+    "phone": "(954) 555-0142",
+    "formattedPhone": "+19545550142",
+    "formattedAddress": "2345 Hollywood Boulevard, Suite 200, Hollywood, FL 33020"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Options in Hollywood",
+    "intro": "At our Hollywood location, we offer quick cash solutions for Broward County residents:",
+    "services": [
+      {
+        "name": "Single-Payment Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Get cash with one simple payment",
+        "anchorText": "Apply for payday loans in Hollywood"
+      },
+      {
+        "name": "Installment Payday Loans",
+        "slug": "installment-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Spread payments over time",
+        "anchorText": "Choose installment loan options"
+      },
+      {
+        "name": "Fast Online Cash",
+        "slug": "online-cash",
+        "url": "/services/cash-advance-loans",
+        "description": "Start online, pick up in Hollywood",
+        "anchorText": "Apply online for faster service"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Cash Advance Laws in Florida",
+    "content": "Residents of Hollywood are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance.\n\nFlorida law caps single-payment payday loans at $500 with a maximum fee of 10% of the loan amount, plus a $5 verification fee. For a $500 loan, you pay no more than $55 in fees. For installment payday loans, the maximum is $1,000 with fees capped at 8% of the outstanding balance on a biweekly basis. All lenders must comply with federal Truth-in-Lending Act disclosure requirements.\n\nOne of Florida's most important protections is the 'one loan at a time' rule. You cannot have more than one payday loan outstanding anywhere in Florida, and you must wait 24 hours after paying off one loan before taking out another. This is enforced through a mandatory statewide database. Loan rollovers and extensions are strictly prohibited.",
+    "keyPoints": [
+      "All payday lenders in Florida must be licensed by the Florida Office of Financial Regulation",
+      "You can only have one cash advance loan at a time in Florida",
+      "Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee",
+      "Installment loans are capped at $1,000 with maximum 8% biweekly fee",
+      "You must wait 24 hours after paying off one loan before taking out another",
+      "Loan rollovers and extensions are prohibited by law",
+      "If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling",
+      "You cannot be criminally prosecuted for an unpaid payday loan",
+      "Prepayment penalties are prohibited"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR), Division of Consumer Finance",
+    "regulatoryUrl": "https://flofr.gov",
+    "contactPhone": "(850) 487-9687",
+    "disclaimer": "This information is provided for general educational purposes only. Payday loan laws and regulations are subject to change. For the most accurate information, contact the Florida Office of Financial Regulation at (850) 487-9687 or visit flofr.gov."
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Broward County",
+    "intro": "Can't visit Hollywood? We also serve nearby communities:",
+    "cities": [
+      {
+        "name": "Fort Lauderdale",
+        "slug": "fort-lauderdale",
+        "url": "/locations/florida/fort-lauderdale",
+        "distanceMiles": 7
+      },
+      {
+        "name": "Dania Beach",
+        "slug": "dania-beach",
+        "url": "/locations/florida/dania-beach",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Pembroke Pines",
+        "slug": "pembroke-pines",
+        "url": "/locations/florida/pembroke-pines",
+        "distanceMiles": 10
+      },
+      {
+        "name": "Miramar",
+        "slug": "miramar",
+        "url": "/locations/florida/miramar",
+        "distanceMiles": 12
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Hollywood cash advance office?",
+      "answer": "We're at 2345 Hollywood Boulevard, Suite 200, right near the famous Hollywood Beach Boardwalk. Easy access from I-95, US-1, and FL-A1A with convenient parking available."
+    },
+    {
+      "question": "What are your hours in Hollywood?",
+      "answer": "Monday through Friday 9:00 AM - 6:00 PM, Saturday 10:00 AM - 4:00 PM. Closed Sundays. Call (954) 555-0142 for holiday hours."
+    },
+    {
+      "question": "How fast can I get approved in Hollywood?",
+      "answer": "Most customers receive approval and funding within 30 minutes. Apply online first and visit us to complete the process quickly."
+    },
+    {
+      "question": "What documents do I need?",
+      "answer": "Bring a valid government ID, recent proof of income (pay stub or bank statement), and a blank check from your account. We'll explain all costs before you proceed."
+    },
+    {
+      "question": "Are there other locations near Hollywood?",
+      "answer": "Yes! We serve Fort Lauderdale (7 miles), Dania Beach (5 miles), Pembroke Pines (10 miles), and Miramar (12 miles). Call for directions to your nearest location."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Quick Cash in Hollywood",
+    "subheadline": "Visit our Boulevard office or apply online",
+    "primaryCta": {
+      "text": "Apply Now for Hollywood Cash",
+      "url": "/apply?location=hollywood-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (954) 555-0142",
+      "url": "tel:+19545550142"
+    },
+    "address": "2345 Hollywood Boulevard, Suite 200, Hollywood, FL 33020"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - Hollywood",
+    "areaServed": "Hollywood, FL",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "Hollywood", "url": "/locations/florida/hollywood"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:00:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batchNumber": 2,
+    "cityNumber": 17
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "id": "san-francisco-ca",
+  "city": "San Francisco",
+  "slug": "san-francisco",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "San Francisco County",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans San Francisco | Near Golden Gate Bridge | Lion Cash Advance",
+    "metaDescription": "Quick cash loans in San Francisco near the Golden Gate Bridge. DFPI licensed. $300 max, 15% fee. Same-day funding. (415) 555-0276",
+    "canonicalUrl": "/locations/california/san-francisco",
+    "keywords": ["cash advance san francisco", "payday loans sf", "emergency loans san francisco", "quick cash near golden gate"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in San Francisco, California",
+    "subheadline": "Licensed lender serving San Francisco residents with quick, reliable short-term loans",
+    "ctaText": "Apply Now for San Francisco Cash",
+    "ctaUrl": "/apply?location=san-francisco-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=san+francisco+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in San Francisco",
+    "directions": "We are conveniently located at 567 Market Street, right across from the historic Cable Cars and just down the road from the Golden Gate Bridge viewpoint. If you are taking US-101 or I-80, take Exit 427 toward downtown. Our San Francisco location is centrally positioned with easy access to public transportation and street parking.",
+    "landmarks": ["Cable Cars", "Golden Gate Bridge"],
+    "highway": "US-101 / I-80",
+    "exit": "Exit 427",
+    "neighborhoodName": "Financial District, San Francisco",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 5:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.456789!2d-122.4194!3d37.7749"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - San Francisco",
+    "street": "567 Market Street, Suite 300",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94105",
+    "phone": "(415) 555-0276",
+    "formattedPhone": "+14155550276",
+    "formattedAddress": "567 Market Street, Suite 300, San Francisco, CA 94105",
+    "coordinates": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=37.7749,-122.4194"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Options Available in San Francisco",
+    "intro": "San Francisco residents and workers rely on us for quick, dependable cash solutions. Explore our flexible loan options:",
+    "services": [
+      {
+        "name": "Fast Cash Advances",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Quick loans up to $300 with same-day funding",
+        "anchorText": "Learn about Fast Cash Advances"
+      },
+      {
+        "name": "Emergency Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans for unexpected expenses",
+        "anchorText": "Emergency Payday Loans"
+      },
+      {
+        "name": "Guaranteed Approval Loans",
+        "slug": "guaranteed-approval-loans",
+        "url": "/services/guaranteed-approval-loans",
+        "description": "We work with all credit types",
+        "anchorText": "Guaranteed Approval Options"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply online and complete at Market Street",
+        "anchorText": "Apply Online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding California Cash Advance Laws in San Francisco",
+    "content": "San Francisco residents are protected by California's comprehensive consumer lending regulations. The DFPI oversees all cash advance lenders to ensure compliance.",
+    "keyPoints": [
+      "Maximum loan amount is $300 including all fees",
+      "Maximum fee is 15% of check amount (approximately 460% APR)",
+      "Only one loan allowed at a time - no rollovers permitted",
+      "Criminal prosecution threats are strictly prohibited",
+      "Lion Cash Advance is DFPI licensed and regulated",
+      "Maximum one $15 NSF fee per bounced check",
+      "Maximum loan term is 31 days",
+      "All disclosures must be clear and in your language"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for educational purposes. California cash advance regulations are strictly enforced and subject to change. For the most current information, contact the DFPI at 1-866-275-2677 or visit dfpi.ca.gov. Consult a California attorney for specific legal guidance."
+  },
+
+  "localReviews": {
+    "headline": "What Our San Francisco Customers Say",
+    "locationId": "san-francisco-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Emma J.",
+        "rating": 5,
+        "text": "Excellent location on Market Street. Quick approval process. Staff was professional and explained the California regulations clearly.",
+        "date": "2024-12-23"
+      },
+      {
+        "name": "Christopher W.",
+        "rating": 5,
+        "text": "Got approved same day near the Cable Cars. The process was efficient and transparent. Great service in San Francisco.",
+        "date": "2024-12-19"
+      },
+      {
+        "name": "Lisa R.",
+        "rating": 4,
+        "text": "Professional staff, fair fees, DFPI licensed. I felt confident using their service in San Francisco.",
+        "date": "2024-12-14"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Bay Area Communities",
+    "intro": "Need a location closer to you? We serve these nearby Bay Area cities:",
+    "cities": [
+      {"name": "Oakland", "slug": "oakland", "url": "/locations/california/oakland", "distanceMiles": 14},
+      {"name": "Berkeley", "slug": "berkeley", "url": "/locations/california/berkeley", "distanceMiles": 17},
+      {"name": "Daly City", "slug": "daly-city", "url": "/locations/california/daly-city", "distanceMiles": 12},
+      {"name": "South San Francisco", "slug": "south-san-francisco", "url": "/locations/california/south-san-francisco", "distanceMiles": 19}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your San Francisco location?",
+      "answer": "We're located at 567 Market Street, Suite 300, right across from the historic Cable Cars in the Financial District. Take US-101 or I-80 to Exit 427 toward downtown. Street parking and nearby parking garages available."
+    },
+    {
+      "question": "Can I get same-day cash in San Francisco?",
+      "answer": "Yes! Bring your valid ID, recent pay stubs or proof of income, and checking account details. Most customers are approved and funded same day."
+    },
+    {
+      "question": "What are your fees in California?",
+      "answer": "California caps payday loan fees at 15% of the check amount. For a $200 loan, the fee is $30. For $255, the maximum fee is $45."
+    },
+    {
+      "question": "How long does the approval process take?",
+      "answer": "Typically 30-45 minutes from application to funding. Our Market Street location is quick and efficient."
+    },
+    {
+      "question": "Are you licensed to operate in California?",
+      "answer": "Yes, Lion Cash Advance is fully licensed by the California Department of Financial Protection and Innovation. Verify our license at dfpi.ca.gov/regulated-industries/regulated-entities-list/"
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Need Cash in San Francisco Today?",
+    "subheadline": "Visit our Market Street location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=san-francisco-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (415) 555-0276",
+      "url": "tel:+14155550276"
+    },
+    "address": "567 Market Street, Suite 300, San Francisco, CA 94105"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - San Francisco",
+    "areaServed": "San Francisco County, California",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "San Francisco", "url": "/locations/california/san-francisco"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliance": true,
+    "stateComplianceIncluded": true
+  }
+}

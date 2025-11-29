@@ -1,0 +1,219 @@
+{
+  "id": "fort-myers-fl",
+  "city": "Fort Myers",
+  "slug": "fort-myers",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "countyName": "Lee County",
+  "serviceNiche": "Cash Advance Loans",
+  "businessName": "Lion Cash Advance",
+
+  "seo": {
+    "title": "Cash Advance Loans in Fort Myers, FL | Quick Cash Near Thomas Edison Home | Lion Cash Advance",
+    "metaDescription": "Get fast cash in Fort Myers with Lion Cash Advance. Located near Thomas Edison's home and River District. Same-day approval available. Call (239) 555-0128 today.",
+    "canonicalUrl": "/locations/florida/fort-myers",
+    "keywords": [
+      "cash advance fort myers",
+      "payday loans fort myers fl",
+      "cash loans near me fort myers",
+      "quick cash fort myers",
+      "emergency loans fort myers"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Fort Myers, FL",
+    "subheadline": "Emergency cash when you need it",
+    "ctaText": "Get Cash in Fort Myers Now",
+    "ctaUrl": "/apply?location=fort-myers-fl",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=fort+myers+florida+cash+advance"
+    }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1573548387169-ec6f5e8ad8a9?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Fort Myers branch near River District",
+      "caption": "Our professional Fort Myers cash advance office"
+    }
+  },
+
+  "localProof": {
+    "headline": "Located in Fort Myers' River District",
+    "directions": "We are conveniently located at 2847 Cleveland Avenue, just down the road from Thomas Edison's historic home and in the heart of the River District. If you're traveling on I-75, take the Downtown exit and head toward the River District area. We're close to J.N. Ding Darling Refuge and easy to find from US-41.",
+    "landmarks": [
+      "Thomas Edison Home",
+      "River District",
+      "J.N. Ding Darling Refuge",
+      "Fort Myers Beach"
+    ],
+    "highways": [
+      "I-75",
+      "US-41",
+      "FL-867"
+    ],
+    "neighborhoodName": "River District Arts & Commerce Area",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Fort Myers",
+    "street": "2847 Cleveland Avenue, Suite 150",
+    "city": "Fort Myers",
+    "state": "FL",
+    "zip": "33901",
+    "phone": "(239) 555-0128",
+    "formattedPhone": "+12395550128",
+    "formattedAddress": "2847 Cleveland Avenue, Suite 150, Fort Myers, FL 33901"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Solutions Available in Fort Myers",
+    "intro": "At our Fort Myers location, we offer flexible cash advance options for Lee County residents:",
+    "services": [
+      {
+        "name": "Single-Payment Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Get quick cash with one payment due",
+        "anchorText": "Explore single-payment loan options"
+      },
+      {
+        "name": "Installment Payday Loans",
+        "slug": "installment-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Spread payments over multiple cycles",
+        "anchorText": "Learn about installment loans"
+      },
+      {
+        "name": "Fast Cash Processing",
+        "slug": "fast-cash",
+        "url": "/services/cash-advance-loans",
+        "description": "Get approved and funded quickly",
+        "anchorText": "Get your cash today"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Cash Advance Laws in Florida",
+    "content": "Residents of Fort Myers are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance.\n\nFlorida law caps single-payment payday loans at $500 with a maximum fee of 10% of the loan amount, plus a $5 verification fee. On a $500 loan, you would pay no more than $55 in fees. For installment payday loans, the maximum is $1,000 with fees capped at 8% of the outstanding balance on a biweekly basis. All lenders must comply with federal Truth-in-Lending Act disclosure requirements, ensuring you understand the total cost before you borrow.\n\nOne of Florida's most important protections is the 'one loan at a time' rule. You cannot have more than one payday loan outstanding anywhere in Florida, and you must wait 24 hours after paying off one loan before taking out another. This is enforced through a mandatory statewide database that all licensed lenders must check. Additionally, loan rollovers and extensions are strictly prohibited, preventing the debt trap cycles common in states with weaker regulations.",
+    "keyPoints": [
+      "All payday lenders in Florida must be licensed by the Florida Office of Financial Regulation",
+      "You can only have one cash advance loan at a time in Florida",
+      "Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee",
+      "Installment loans are capped at $1,000 with maximum 8% biweekly fee",
+      "You must wait 24 hours after paying off one loan before taking out another",
+      "Loan rollovers and extensions are prohibited by law",
+      "If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling",
+      "You cannot be criminally prosecuted for an unpaid payday loan",
+      "Prepayment penalties are prohibited"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR), Division of Consumer Finance",
+    "regulatoryUrl": "https://flofr.gov",
+    "contactPhone": "(850) 487-9687",
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal or financial advice. Payday loan laws and regulations are subject to change. This information was last verified on January 15, 2025. For the most accurate and up-to-date information, please contact the Florida Office of Financial Regulation at (850) 487-9687 or visit flofr.gov."
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Lee County Communities",
+    "intro": "Can't make it to our Fort Myers office? We also serve:",
+    "cities": [
+      {
+        "name": "Cape Coral",
+        "slug": "cape-coral",
+        "url": "/locations/florida/cape-coral",
+        "distanceMiles": 15
+      },
+      {
+        "name": "Lehigh Acres",
+        "slug": "lehigh-acres",
+        "url": "/locations/florida/lehigh-acres",
+        "distanceMiles": 20
+      },
+      {
+        "name": "Estero",
+        "slug": "estero",
+        "url": "/locations/florida/estero",
+        "distanceMiles": 12
+      },
+      {
+        "name": "North Fort Myers",
+        "slug": "north-fort-myers",
+        "url": "/locations/florida/north-fort-myers",
+        "distanceMiles": 8
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Fort Myers cash advance office?",
+      "answer": "We're located at 2847 Cleveland Avenue, Suite 150, right in the heart of the River District near Thomas Edison's historic home. We're easily accessible from I-75 and US-41, close to beautiful Fort Myers Beach."
+    },
+    {
+      "question": "What are your hours at the Fort Myers location?",
+      "answer": "Monday through Friday 9:00 AM - 6:00 PM, Saturday 10:00 AM - 4:00 PM. We're closed Sundays. Call (239) 555-0128 for holiday hours."
+    },
+    {
+      "question": "How quickly can I get cash in Fort Myers?",
+      "answer": "Most customers are approved and funded within 30 minutes. You can apply online in advance and visit our office to complete the process and receive your cash same day."
+    },
+    {
+      "question": "What documents do I need for a cash advance in Fort Myers?",
+      "answer": "Bring a valid government ID (driver's license or passport), proof of income (recent pay stub or bank statements), and a blank check from your checking account. We'll explain all costs upfront."
+    },
+    {
+      "question": "Do you serve Cape Coral and other nearby areas?",
+      "answer": "Yes! We serve all of Lee County including Cape Coral (15 miles), Lehigh Acres (20 miles), Estero (12 miles), and North Fort Myers (8 miles). Call us for directions to your nearest location."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Cash Fast in Fort Myers",
+    "subheadline": "Visit our River District office or apply online",
+    "primaryCta": {
+      "text": "Apply Now for Fort Myers Cash",
+      "url": "/apply?location=fort-myers-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (239) 555-0128",
+      "url": "tel:+12395550128"
+    },
+    "address": "2847 Cleveland Avenue, Suite 150, Fort Myers, FL 33901"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - Fort Myers",
+    "areaServed": "Fort Myers, FL",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "Fort Myers", "url": "/locations/florida/fort-myers"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:00:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batchNumber": 2,
+    "cityNumber": 14
+  }
+}

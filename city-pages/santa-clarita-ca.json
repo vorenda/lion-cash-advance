@@ -1,0 +1,218 @@
+{
+  "id": "santa-clarita-ca",
+  "city": "Santa Clarita",
+  "slug": "santa-clarita",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Los Angeles",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans in Santa Clarita, CA | Near Six Flags Magic Mountain | Lion Cash Advance",
+    "metaDescription": "Get fast cash in Santa Clarita, Los Angeles County. Same-day approval near Six Flags Magic Mountain. Quick cash loans up to $300.",
+    "canonicalUrl": "/locations/california/santa-clarita",
+    "keywords": ["cash advance santa clarita", "payday loans santa clarita ca", "fast cash santa clarita", "emergency loans los angeles county"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Santa Clarita, California",
+    "subheadline": "Quick approval serving the Santa Clarita Valley",
+    "ctaText": "Apply Now for Santa Clarita Cash",
+    "ctaUrl": "/apply?location=santa-clarita-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=santa+clarita+ca+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Visit Lion Cash Advance in Santa Clarita",
+    "directions": "We are conveniently located at 23890 Magic Mountain Parkway, Suite 220, right in the heart of Santa Clarita near the iconic Six Flags Magic Mountain and Vasquez Castle, two major Los Angeles County landmarks. If you're taking I-5, take Exit 177 toward Magic Mountain Parkway. Our storefront is easily accessible from this major commercial corridor.",
+    "landmarks": ["Six Flags Magic Mountain", "Vasquez Castle", "Placerita Canyon"],
+    "highway": "I-5",
+    "exit": "Exit 177",
+    "neighborhoodName": "Central Santa Clarita",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3330.2!2d-118.63!3d34.39!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c94!2m2!1d-118.63!2d34.39!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Santa Clarita",
+    "street": "23890 Magic Mountain Parkway, Suite 220",
+    "city": "Santa Clarita",
+    "state": "CA",
+    "zip": "91355",
+    "phone": "(661) 555-0234",
+    "formattedPhone": "+16615550234",
+    "formattedAddress": "23890 Magic Mountain Parkway, Suite 220, Santa Clarita, CA 91355",
+    "coordinates": {
+      "latitude": 34.3889,
+      "longitude": -118.6267
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=34.3889,-118.6267"
+  },
+
+  "productLinks": {
+    "headline": "Quick Cash Options in Santa Clarita",
+    "intro": "Los Angeles County residents in Santa Clarita have convenient access to emergency cash:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Quick cash loans up to $300 with flexible terms",
+        "anchorText": "Get a payday loan"
+      },
+      {
+        "name": "Cash Advance Loans",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Fast approval with minimal paperwork",
+        "anchorText": "Apply for cash advance"
+      },
+      {
+        "name": "Emergency Loans",
+        "slug": "emergency-loans",
+        "url": "/services/emergency-loans",
+        "description": "When you need cash fast",
+        "anchorText": "Get emergency cash"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply anytime online",
+        "anchorText": "Apply online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Laws for Santa Clarita Residents",
+    "content": "Santa Clarita residents in Los Angeles County are protected by California's Deferred Deposit Transaction Law, regulated by the California Department of Financial Protection and Innovation (DFPI). These regulations ensure strong consumer protections and ethical lending.",
+    "keyPoints": [
+      "Maximum loan: $300 including all fees (typical $255 cash with $45 fee)",
+      "Fee limit: 15% of check amount, maximum $45",
+      "APR: Approximately 460% for 14-day loans",
+      "Loan term: Cannot exceed 31 days",
+      "One loan policy: Can only have one active payday loan",
+      "No rollovers: Cannot extend loans for additional fees",
+      "Criminal prohibition: Cannot threaten or pursue criminal prosecution",
+      "NSF limited: Only one $15 fee per bounced check",
+      "Full transparency: All fees disclosed in dollars and APR"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for general educational purposes and does not constitute legal advice. Payday loan laws may change. For current information, contact the DFPI at 1-866-275-2677 or dfpi.ca.gov. For specific legal questions, consult a California attorney. Individual lender terms vary within state law limits."
+  },
+
+  "localReviews": {
+    "headline": "Santa Clarita Customer Reviews",
+    "locationId": "santa-clarita-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Thomas K.",
+        "rating": 5,
+        "text": "Excellent service near Six Flags! Quick approval and professional staff. Got my cash in 30 minutes. Highly recommended!",
+        "date": "2024-11-16"
+      },
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "text": "Great location on Magic Mountain Parkway. Easy to access from I-5. Staff was friendly and efficient. Very satisfied!",
+        "date": "2024-10-24"
+      },
+      {
+        "name": "Michael R.",
+        "rating": 4,
+        "text": "Good service in Santa Clarita. Fast process and clear explanations. Easy parking and convenient location.",
+        "date": "2024-09-14"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Los Angeles County",
+    "intro": "We also serve these nearby Santa Clarita Valley communities:",
+    "cities": [
+      {"name": "Canyon Country", "slug": "canyon-country", "url": "/locations/california/canyon-country", "distanceMiles": 8},
+      {"name": "Valencia", "slug": "valencia", "url": "/locations/california/valencia", "distanceMiles": 6},
+      {"name": "Castaic", "slug": "castaic", "url": "/locations/california/castaic", "distanceMiles": 12},
+      {"name": "Palmdale", "slug": "palmdale", "url": "/locations/california/palmdale", "distanceMiles": 28}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Santa Clarita location?",
+      "answer": "We're at 23890 Magic Mountain Parkway, Suite 220, near Six Flags Magic Mountain and Vasquez Castle. Take I-5 Exit 177 toward Magic Mountain Parkway. Easy parking available."
+    },
+    {
+      "question": "What documents do I need?",
+      "answer": "Bring a valid government ID, recent pay stub or bank statements, and your active checking account. Most Santa Clarita residents are approved in 30 minutes."
+    },
+    {
+      "question": "What's the maximum I can borrow?",
+      "answer": "California law limits loans to $300 total. You'll typically receive $255 cash with a $45 fee."
+    },
+    {
+      "question": "How fast is approval?",
+      "answer": "Most applicants at our Magic Mountain Parkway location are approved and receive cash within 30 minutes."
+    },
+    {
+      "question": "Are there hidden fees?",
+      "answer": "No hidden fees. California requires all costs disclosed clearly in dollars and APR before you sign."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Fast Cash in Santa Clarita Today",
+    "subheadline": "Visit our Magic Mountain Parkway location or apply online",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=santa-clarita-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (661) 555-0234",
+      "url": "tel:+16615550234"
+    },
+    "address": "23890 Magic Mountain Parkway, Suite 220, Santa Clarita, CA 91355"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Santa Clarita", "url": "/locations/california/santa-clarita"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Santa Clarita location near Six Flags Magic Mountain",
+      "caption": "Our professional Santa Clarita branch near Six Flags"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0"
+  }
+}

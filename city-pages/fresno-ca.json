@@ -1,0 +1,214 @@
+{
+  "id": "fresno-ca",
+  "city": "Fresno",
+  "slug": "fresno",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Fresno County",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans Fresno | Near Fresno Zoo | Lion Cash Advance",
+    "metaDescription": "Quick cash loans in Fresno near Fresno Chaffee Zoo. DFPI licensed, $300 max, 15% fee. Same-day funding. (559) 555-0314",
+    "canonicalUrl": "/locations/california/fresno",
+    "keywords": ["cash advance fresno", "payday loans fresno california", "quick cash fresno", "emergency loans central valley"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Fresno, California",
+    "subheadline": "Licensed lender serving Fresno and Fresno County residents",
+    "ctaText": "Apply Now for Fresno Cash",
+    "ctaUrl": "/apply?location=fresno-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=fresno+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Fresno",
+    "directions": "We are conveniently located at 890 Olive Avenue, right near the Fresno Chaffee Zoo and just down the road from Tower District. If you are taking CA-99, take Exit 130 toward Olive Avenue. Our Fresno location is easy to access with ample parking.",
+    "landmarks": ["Fresno Chaffee Zoo", "Tower District"],
+    "highway": "CA-99",
+    "exit": "Exit 130",
+    "neighborhoodName": "Central Fresno",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3214.567890!2d-119.7674!3d36.7469"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Fresno",
+    "street": "890 Olive Avenue, Suite 120",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93728",
+    "phone": "(559) 555-0314",
+    "formattedPhone": "+15595550314",
+    "formattedAddress": "890 Olive Avenue, Suite 120, Fresno, CA 93728",
+    "coordinates": {
+      "latitude": 36.7469,
+      "longitude": -119.7674
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=36.7469,-119.7674"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Services in Fresno",
+    "intro": "Central Valley residents trust us for quick and reliable cash solutions. Choose the option that works for you:",
+    "services": [
+      {
+        "name": "Fast Cash Advances",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Quick loans up to $300 with same-day funding",
+        "anchorText": "Learn about Fast Cash Advances"
+      },
+      {
+        "name": "Emergency Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans for unexpected expenses",
+        "anchorText": "Emergency Payday Loans"
+      },
+      {
+        "name": "Guaranteed Approval Loans",
+        "slug": "guaranteed-approval-loans",
+        "url": "/services/guaranteed-approval-loans",
+        "description": "We work with all credit types",
+        "anchorText": "Guaranteed Approval Options"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply online and complete in Fresno",
+        "anchorText": "Apply Online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding California Cash Advance Laws in Fresno",
+    "content": "Fresno County residents are protected by California's strict consumer lending regulations. The DFPI regulates all payday lenders.",
+    "keyPoints": [
+      "Maximum loan amount is $300 including all fees",
+      "Maximum fee is 15% of check amount (460% APR typical)",
+      "Only one loan at a time - no rollovers",
+      "Criminal prosecution threats are illegal",
+      "Lion Cash Advance is DFPI licensed and compliant",
+      "One $15 NSF fee maximum per check",
+      "Maximum 31-day loan term",
+      "All disclosures in your preferred language"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for educational purposes. California cash advance laws may change. For current information, contact the DFPI at 1-866-275-2677 or visit dfpi.ca.gov. Consult a California attorney for specific legal questions."
+  },
+
+  "localReviews": {
+    "headline": "What Our Fresno Customers Say",
+    "locationId": "fresno-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Juan P.",
+        "rating": 5,
+        "text": "Great service at the Olive Avenue location. Got approved quickly and received same-day cash. Very professional.",
+        "date": "2024-12-24"
+      },
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "text": "Easy to find near the Fresno Zoo. Fast process and transparent fees. They explained everything clearly.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 4,
+        "text": "Good service in Fresno. Licensed by DFPI which gives me confidence. Would use again.",
+        "date": "2024-12-15"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Central Valley Communities",
+    "intro": "Need a location closer to you? We serve these nearby Fresno area cities:",
+    "cities": [
+      {"name": "Clovis", "slug": "clovis", "url": "/locations/california/clovis", "distanceMiles": 11},
+      {"name": "Selma", "slug": "selma", "url": "/locations/california/selma", "distanceMiles": 18},
+      {"name": "Fowler", "slug": "fowler", "url": "/locations/california/fowler", "distanceMiles": 12},
+      {"name": "Coalinga", "slug": "coalinga", "url": "/locations/california/coalinga", "distanceMiles": 52}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Fresno location?",
+      "answer": "We're at 890 Olive Avenue, Suite 120, near the Fresno Chaffee Zoo and Tower District. Take CA-99 to Exit 130 toward Olive Avenue. Easy parking available."
+    },
+    {
+      "question": "How quick is the process in Fresno?",
+      "answer": "Typically 30-45 minutes from application to funding. Bring your valid ID, proof of income, and checking account information for same-day approval."
+    },
+    {
+      "question": "What's the maximum I can borrow in California?",
+      "answer": "California law limits loans to $300 including fees. With the standard 15% fee, you can typically borrow up to $255."
+    },
+    {
+      "question": "How much are your fees?",
+      "answer": "California caps fees at 15% of the check amount. A $200 loan costs $30 in fees. A $255 loan costs the maximum $45 fee."
+    },
+    {
+      "question": "Is Lion Cash Advance properly licensed?",
+      "answer": "Yes, we are fully licensed by the California Department of Financial Protection and Innovation. Verify at dfpi.ca.gov/regulated-industries/regulated-entities-list/"
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Need Cash Fast in Fresno?",
+    "subheadline": "Visit our Olive Avenue location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=fresno-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (559) 555-0314",
+      "url": "tel:+15595550314"
+    },
+    "address": "890 Olive Avenue, Suite 120, Fresno, CA 93728"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - Fresno",
+    "areaServed": "Fresno County, Central Valley, California",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Fresno", "url": "/locations/california/fresno"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliance": true,
+    "stateComplianceIncluded": true
+  }
+}

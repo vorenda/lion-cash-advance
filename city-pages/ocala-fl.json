@@ -1,0 +1,219 @@
+{
+  "id": "ocala-fl",
+  "city": "Ocala",
+  "slug": "ocala",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "countyName": "Marion County",
+  "serviceNiche": "Cash Advance Loans",
+  "businessName": "Lion Cash Advance",
+
+  "seo": {
+    "title": "Cash Advance Loans in Ocala, FL | Quick Cash Near Silver Springs | Lion Cash Advance",
+    "metaDescription": "Get fast cash in Ocala near Silver Springs. Same-day approval for emergency payday loans. Call (352) 555-0196 for quick service.",
+    "canonicalUrl": "/locations/florida/ocala",
+    "keywords": [
+      "cash advance ocala",
+      "payday loans ocala fl",
+      "quick cash ocala florida",
+      "emergency loans ocala",
+      "fast payday loans marion county"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Ocala, FL",
+    "subheadline": "Emergency cash in Ocala",
+    "ctaText": "Apply for Ocala Cash Now",
+    "ctaUrl": "/apply?location=ocala-fl",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=ocala+florida+cash+advance"
+    }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1573548387169-ec6f5e8ad8a9?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Ocala office location",
+      "caption": "Professional cash advance services in Ocala"
+    }
+  },
+
+  "localProof": {
+    "headline": "Located in Ocala Business District",
+    "directions": "We are conveniently located at 2150 East Silver Springs Boulevard, right near the famous Silver Springs attraction. If you're taking I-75, take the Silver Springs Boulevard exit. We're near the Ocala National Forest, Don Garlits Drag Racing Museum, and Heritage Village. Easy access from US-27 and US-441.",
+    "landmarks": [
+      "Silver Springs",
+      "Ocala National Forest",
+      "Don Garlits Drag Racing Museum",
+      "Heritage Village"
+    ],
+    "highways": [
+      "I-75",
+      "US-27",
+      "US-441"
+    ],
+    "neighborhoodName": "Silver Springs Business District",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Ocala",
+    "street": "2150 East Silver Springs Boulevard, Suite 130",
+    "city": "Ocala",
+    "state": "FL",
+    "zip": "34470",
+    "phone": "(352) 555-0196",
+    "formattedPhone": "+13525550196",
+    "formattedAddress": "2150 East Silver Springs Boulevard, Suite 130, Ocala, FL 34470"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Options in Ocala",
+    "intro": "At our Ocala location, we offer flexible cash advance solutions for Marion County residents:",
+    "services": [
+      {
+        "name": "Single-Payment Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Quick cash with simple terms",
+        "anchorText": "Get payday loans in Ocala"
+      },
+      {
+        "name": "Installment Payday Loans",
+        "slug": "installment-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Flexible payment options",
+        "anchorText": "Explore installment loans"
+      },
+      {
+        "name": "Fast Processing Cash",
+        "slug": "fast-processing",
+        "url": "/services/cash-advance-loans",
+        "description": "Same-day funding available",
+        "anchorText": "Get approved today"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Cash Advance Laws in Florida",
+    "content": "Residents of Ocala are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance.\n\nFlorida law caps single-payment payday loans at $500 with a maximum fee of 10% of the loan amount, plus a $5 verification fee. For a $500 loan, you would pay no more than $55 in fees. For installment payday loans, the maximum is $1,000 with fees capped at 8% of the outstanding balance on a biweekly basis. All lenders must comply with federal Truth-in-Lending Act disclosure requirements.\n\nOne of Florida's most important protections is the 'one loan at a time' rule. You cannot have more than one payday loan outstanding anywhere in Florida, and you must wait 24 hours after paying off one loan before taking out another. This is enforced through a mandatory statewide database. Loan rollovers and extensions are strictly prohibited.",
+    "keyPoints": [
+      "All payday lenders in Florida must be licensed by the Florida Office of Financial Regulation",
+      "You can only have one cash advance loan at a time in Florida",
+      "Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee",
+      "Installment loans are capped at $1,000 with maximum 8% biweekly fee",
+      "You must wait 24 hours after paying off one loan before taking out another",
+      "Loan rollovers and extensions are prohibited by law",
+      "If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling",
+      "You cannot be criminally prosecuted for an unpaid payday loan",
+      "Prepayment penalties are prohibited"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR), Division of Consumer Finance",
+    "regulatoryUrl": "https://flofr.gov",
+    "contactPhone": "(850) 487-9687",
+    "disclaimer": "This information is provided for general educational purposes only. Laws and regulations are subject to change. For current information, contact the Florida Office of Financial Regulation."
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Marion County",
+    "intro": "Can't visit Ocala? We also serve:",
+    "cities": [
+      {
+        "name": "Belleview",
+        "slug": "belleview",
+        "url": "/locations/florida/belleview",
+        "distanceMiles": 18
+      },
+      {
+        "name": "Williston",
+        "slug": "williston",
+        "url": "/locations/florida/williston",
+        "distanceMiles": 25
+      },
+      {
+        "name": "Dunnellon",
+        "slug": "dunnellon",
+        "url": "/locations/florida/dunnellon",
+        "distanceMiles": 20
+      },
+      {
+        "name": "Reddick",
+        "slug": "reddick",
+        "url": "/locations/florida/reddick",
+        "distanceMiles": 15
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Ocala office?",
+      "answer": "We're at 2150 East Silver Springs Boulevard, Suite 130, right near the famous Silver Springs attraction. Easy access from I-75, US-27, and US-441."
+    },
+    {
+      "question": "What are your operating hours?",
+      "answer": "Monday through Friday 9:00 AM - 6:00 PM, Saturday 10:00 AM - 4:00 PM. Closed Sundays. Call (352) 555-0196 for holiday hours."
+    },
+    {
+      "question": "How fast is the approval process?",
+      "answer": "Most customers are approved and funded within 30 minutes. Apply online first to speed up the process."
+    },
+    {
+      "question": "What documents do I need?",
+      "answer": "Bring a valid government ID, recent proof of income (pay stub or bank statement), and a blank check from your checking account. We explain all costs upfront."
+    },
+    {
+      "question": "Do you serve nearby areas?",
+      "answer": "Yes! We serve Marion County including Belleview (18 miles), Williston (25 miles), Dunnellon (20 miles), and Reddick (15 miles)."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Cash in Ocala",
+    "subheadline": "Visit our Silver Springs Boulevard office or apply online",
+    "primaryCta": {
+      "text": "Apply for Ocala Cash",
+      "url": "/apply?location=ocala-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (352) 555-0196",
+      "url": "tel:+13525550196"
+    },
+    "address": "2150 East Silver Springs Boulevard, Suite 130, Ocala, FL 34470"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - Ocala",
+    "areaServed": "Ocala, FL",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "Ocala", "url": "/locations/florida/ocala"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:00:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batchNumber": 2,
+    "cityNumber": 22
+  }
+}

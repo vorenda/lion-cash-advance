@@ -1,0 +1,218 @@
+{
+  "id": "modesto-ca",
+  "city": "Modesto",
+  "slug": "modesto",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Stanislaus",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans in Modesto, CA | Near McHenry Mansion | Lion Cash Advance",
+    "metaDescription": "Get fast cash in Modesto, Stanislaus County. Same-day approval near McHenry Mansion. Borrow $100-$300 with flexible terms.",
+    "canonicalUrl": "/locations/california/modesto",
+    "keywords": ["cash advance modesto", "payday loans modesto ca", "fast cash modesto", "emergency loans stanislaus county"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Modesto, California",
+    "subheadline": "Quick approval in Stanislaus County",
+    "ctaText": "Apply Now for Modesto Cash",
+    "ctaUrl": "/apply?location=modesto-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=modesto+ca+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Visit Lion Cash Advance in Modesto",
+    "directions": "We are conveniently located at 3456 McHenry Avenue, Suite 105, right in downtown Modesto near the historic McHenry Mansion and the Stanislaus County Museum, iconic landmarks in the region. If you're taking I-5, take Exit 199 toward McHenry Avenue. Our storefront is prominently located on this major commercial corridor.",
+    "landmarks": ["McHenry Mansion", "Stanislaus County Museum", "Agricultural Heritage Park"],
+    "highway": "I-5",
+    "exit": "Exit 199",
+    "neighborhoodName": "Downtown Modesto",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3318.4!2d-120.99!3d37.64!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809!2m2!1d-120.99!2d37.64!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Modesto",
+    "street": "3456 McHenry Avenue, Suite 105",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95350",
+    "phone": "(209) 555-0267",
+    "formattedPhone": "+12095550267",
+    "formattedAddress": "3456 McHenry Avenue, Suite 105, Modesto, CA 95350",
+    "coordinates": {
+      "latitude": 37.6398,
+      "longitude": -120.9934
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=37.6398,-120.9934"
+  },
+
+  "productLinks": {
+    "headline": "Quick Cash Solutions in Modesto",
+    "intro": "Stanislaus County residents in Modesto have convenient access to emergency cash:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Quick cash loans up to $300 with flexible terms",
+        "anchorText": "Get a payday loan"
+      },
+      {
+        "name": "Cash Advance Loans",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Fast approval with minimal documentation",
+        "anchorText": "Apply for cash advance"
+      },
+      {
+        "name": "Emergency Loans",
+        "slug": "emergency-loans",
+        "url": "/services/emergency-loans",
+        "description": "For unexpected expenses",
+        "anchorText": "Get emergency cash"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply online from home",
+        "anchorText": "Apply online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Laws for Modesto Residents",
+    "content": "Modesto residents in Stanislaus County are protected by California's Deferred Deposit Transaction Law, enforced by the California Department of Financial Protection and Innovation (DFPI). These regulations provide comprehensive consumer protections.",
+    "keyPoints": [
+      "Maximum loan: $300 including all fees (typical $255 cash with $45 fee)",
+      "Fee cap: 15% of check amount, maximum $45",
+      "APR: Approximately 460% for 14-day loans",
+      "Term limit: Cannot exceed 31 days",
+      "One loan only: Can't have multiple payday loans at once",
+      "No rollovers: Cannot extend loans for additional fees",
+      "Criminal prohibition: Cannot threaten or prosecute for non-payment",
+      "NSF limited: Only one $15 fee per bounced check",
+      "Transparent fees: All costs disclosed in dollars and APR"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for general educational purposes only. Payday loan laws may change. For current information, contact the DFPI at 1-866-275-2677 or dfpi.ca.gov. For specific legal questions, consult a California attorney. Individual lender terms vary within state law limits."
+  },
+
+  "localReviews": {
+    "headline": "Modesto Customer Reviews",
+    "locationId": "modesto-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Steven M.",
+        "rating": 5,
+        "text": "Great service in downtown Modesto. Quick approval and friendly staff. Easy to find near McHenry Mansion. Got approved in 30 minutes.",
+        "date": "2024-11-17"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "text": "Excellent experience. Professional staff explained all terms clearly. Convenient location with easy parking. Highly recommended!",
+        "date": "2024-10-23"
+      },
+      {
+        "name": "Robert H.",
+        "rating": 4,
+        "text": "Good service in Modesto. Fast process and helpful staff. Easy access from I-5. Would definitely return.",
+        "date": "2024-09-16"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Stanislaus County",
+    "intro": "We also serve these neighboring Stanislaus County communities:",
+    "cities": [
+      {"name": "Turlock", "slug": "turlock", "url": "/locations/california/turlock", "distanceMiles": 25},
+      {"name": "Riverbank", "slug": "riverbank", "url": "/locations/california/riverbank", "distanceMiles": 20},
+      {"name": "Oakdale", "slug": "oakdale", "url": "/locations/california/oakdale", "distanceMiles": 28},
+      {"name": "Escalon", "slug": "escalon", "url": "/locations/california/escalon", "distanceMiles": 32}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Modesto location?",
+      "answer": "We're at 3456 McHenry Avenue, Suite 105, in downtown Modesto near the historic McHenry Mansion. Take I-5 Exit 199 toward McHenry Avenue. Easy parking and convenient access."
+    },
+    {
+      "question": "What do I need to bring?",
+      "answer": "Bring a valid government ID, recent pay stub or bank statements, and your active checking account. Most Modesto residents are approved in about 30 minutes."
+    },
+    {
+      "question": "What's the maximum loan amount?",
+      "answer": "California limits loans to $300 total including fees. You'll typically receive $255 cash with a $45 fee."
+    },
+    {
+      "question": "How quickly can I get approved?",
+      "answer": "Most applicants at our McHenry Avenue location are approved and receive cash within 30 minutes. Quick verification process."
+    },
+    {
+      "question": "Are all fees disclosed upfront?",
+      "answer": "Yes. California law requires complete disclosure in dollars and APR. No hidden charges."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Fast Cash in Modesto Today",
+    "subheadline": "Visit our McHenry Avenue location or apply online",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=modesto-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (209) 555-0267",
+      "url": "tel:+12095550267"
+    },
+    "address": "3456 McHenry Avenue, Suite 105, Modesto, CA 95350"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Modesto", "url": "/locations/california/modesto"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1516321318423-f06f70d504d0?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Modesto downtown location near McHenry Mansion",
+      "caption": "Our professional Modesto branch on McHenry Avenue"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0"
+  }
+}

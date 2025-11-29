@@ -1,0 +1,220 @@
+{
+  "id": "delray-beach-fl",
+  "city": "Delray Beach",
+  "slug": "delray-beach",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "countyName": "Palm Beach County",
+  "serviceNiche": "Cash Advance Loans",
+  "businessName": "Lion Cash Advance",
+
+  "seo": {
+    "title": "Cash Advance Loans in Delray Beach, FL | Fast Cash Near Atlantic Ave | Lion Cash Advance",
+    "metaDescription": "Get quick cash in Delray Beach near Atlantic Avenue and the beach. Same-day approval for emergency loans. Call Lion Cash Advance at (561) 555-0167.",
+    "canonicalUrl": "/locations/florida/delray-beach",
+    "keywords": [
+      "cash advance delray beach",
+      "payday loans delray beach fl",
+      "quick cash delray beach",
+      "emergency loans delray beach",
+      "fast payday loans palm beach county"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Delray Beach, FL",
+    "subheadline": "Quick cash near Atlantic Avenue",
+    "ctaText": "Get Delray Beach Cash Now",
+    "ctaUrl": "/apply?location=delray-beach-fl",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=delray+beach+florida+cash+advance"
+    }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Delray Beach office on Atlantic Avenue",
+      "caption": "Professional cash advance services in Delray Beach"
+    }
+  },
+
+  "localProof": {
+    "headline": "Located on Historic Atlantic Avenue",
+    "directions": "We are conveniently located at 450 Atlantic Avenue, right in the heart of downtown Delray Beach and just a block from the beautiful Delray Beach. If you're coming from I-95, take the Atlantic Avenue exit toward the beach. We're near the Morikami Museum and Sunken Gardens, easily accessible from US-1 and FL-A1A.",
+    "landmarks": [
+      "Delray Beach",
+      "Atlantic Avenue",
+      "Morikami Museum",
+      "Sunken Gardens",
+      "Old School Square"
+    ],
+    "highways": [
+      "US-1",
+      "FL-A1A",
+      "I-95"
+    ],
+    "neighborhoodName": "Downtown Delray Beach",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Delray Beach",
+    "street": "450 Atlantic Avenue, Suite 180",
+    "city": "Delray Beach",
+    "state": "FL",
+    "zip": "33483",
+    "phone": "(561) 555-0167",
+    "formattedPhone": "+15615550167",
+    "formattedAddress": "450 Atlantic Avenue, Suite 180, Delray Beach, FL 33483"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Options in Delray Beach",
+    "intro": "At our Delray Beach location, we offer flexible cash advance solutions for Palm Beach County residents:",
+    "services": [
+      {
+        "name": "Single-Payment Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Get cash with straightforward repayment",
+        "anchorText": "Apply for payday loans"
+      },
+      {
+        "name": "Installment Payday Loans",
+        "slug": "installment-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Flexible payment schedule options",
+        "anchorText": "Explore installment loans"
+      },
+      {
+        "name": "Quick Processing Cash",
+        "slug": "quick-cash",
+        "url": "/services/cash-advance-loans",
+        "description": "Same-day funding available",
+        "anchorText": "Get approved quickly"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Cash Advance Laws in Florida",
+    "content": "Residents of Delray Beach are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance.\n\nFlorida law caps single-payment payday loans at $500 with a maximum fee of 10% of the loan amount, plus a $5 verification fee. For a $500 loan, you would pay no more than $55 in fees. For installment payday loans, the maximum is $1,000 with fees capped at 8% of the outstanding balance on a biweekly basis. All lenders must comply with federal Truth-in-Lending Act disclosure requirements.\n\nOne of Florida's most important protections is the 'one loan at a time' rule. You cannot have more than one payday loan outstanding anywhere in Florida, and you must wait 24 hours after paying off one loan before taking out another. This is enforced through a mandatory statewide database. Loan rollovers and extensions are strictly prohibited.",
+    "keyPoints": [
+      "All payday lenders in Florida must be licensed by the Florida Office of Financial Regulation",
+      "You can only have one cash advance loan at a time in Florida",
+      "Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee",
+      "Installment loans are capped at $1,000 with maximum 8% biweekly fee",
+      "You must wait 24 hours after paying off one loan before taking out another",
+      "Loan rollovers and extensions are prohibited by law",
+      "If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling",
+      "You cannot be criminally prosecuted for an unpaid payday loan",
+      "Prepayment penalties are prohibited"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR), Division of Consumer Finance",
+    "regulatoryUrl": "https://flofr.gov",
+    "contactPhone": "(850) 487-9687",
+    "disclaimer": "This information is provided for general educational purposes only. Laws and regulations are subject to change. For current information, contact the Florida Office of Financial Regulation or visit flofr.gov."
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving South Palm Beach County",
+    "intro": "Can't visit Delray Beach? We also serve:",
+    "cities": [
+      {
+        "name": "Boca Raton",
+        "slug": "boca-raton",
+        "url": "/locations/florida/boca-raton",
+        "distanceMiles": 8
+      },
+      {
+        "name": "Boynton Beach",
+        "slug": "boynton-beach",
+        "url": "/locations/florida/boynton-beach",
+        "distanceMiles": 10
+      },
+      {
+        "name": "Deerfield Beach",
+        "slug": "deerfield-beach",
+        "url": "/locations/florida/deerfield-beach",
+        "distanceMiles": 14
+      },
+      {
+        "name": "Pompano Beach",
+        "slug": "pompano-beach",
+        "url": "/locations/florida/pompano-beach",
+        "distanceMiles": 16
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Delray Beach office?",
+      "answer": "We're located at 450 Atlantic Avenue, Suite 180, in the heart of downtown Delray Beach, just a block from the beautiful beach. Easy access from I-95, US-1, and FL-A1A."
+    },
+    {
+      "question": "What are your operating hours?",
+      "answer": "Monday through Friday 9:00 AM - 6:00 PM, Saturday 10:00 AM - 4:00 PM. We're closed Sundays. Call (561) 555-0167 for holiday hours."
+    },
+    {
+      "question": "How quickly will I be approved?",
+      "answer": "Most customers receive approval and funding within 30 minutes. Apply online first for faster processing when you visit our Atlantic Avenue office."
+    },
+    {
+      "question": "What documents do I need to bring?",
+      "answer": "Bring a valid government ID, recent proof of income (pay stub or bank statement), and a blank check from your checking account. We'll explain all costs upfront."
+    },
+    {
+      "question": "Do you serve nearby areas?",
+      "answer": "Yes! We serve Palm Beach County including Boca Raton (8 miles), Boynton Beach (10 miles), Deerfield Beach (14 miles), and Pompano Beach (16 miles)."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Cash in Delray Beach",
+    "subheadline": "Visit our Atlantic Avenue office or apply online today",
+    "primaryCta": {
+      "text": "Apply for Delray Beach Cash",
+      "url": "/apply?location=delray-beach-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (561) 555-0167",
+      "url": "tel:+15615550167"
+    },
+    "address": "450 Atlantic Avenue, Suite 180, Delray Beach, FL 33483"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - Delray Beach",
+    "areaServed": "Delray Beach, FL",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "Delray Beach", "url": "/locations/florida/delray-beach"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:00:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batchNumber": 2,
+    "cityNumber": 19
+  }
+}

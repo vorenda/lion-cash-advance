@@ -1,0 +1,219 @@
+{
+  "id": "west-palm-beach-fl",
+  "city": "West Palm Beach",
+  "slug": "west-palm-beach",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "countyName": "Palm Beach County",
+  "serviceNiche": "Cash Advance Loans",
+  "businessName": "Lion Cash Advance",
+
+  "seo": {
+    "title": "Cash Advance Loans in West Palm Beach, FL | Quick Cash Downtown | Lion Cash Advance",
+    "metaDescription": "Get emergency cash in West Palm Beach near Clematis Street. Fast payday loans with same-day approval. Call (561) 555-0175 for quick assistance.",
+    "canonicalUrl": "/locations/florida/west-palm-beach",
+    "keywords": [
+      "cash advance west palm beach",
+      "payday loans west palm beach fl",
+      "quick cash west palm beach",
+      "emergency loans west palm beach",
+      "fast payday loans downtown west palm beach"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in West Palm Beach, FL",
+    "subheadline": "Emergency cash downtown West Palm Beach",
+    "ctaText": "Apply for West Palm Beach Cash",
+    "ctaUrl": "/apply?location=west-palm-beach-fl",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=west+palm+beach+florida+cash+advance"
+    }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1573548387169-ec6f5e8ad8a9?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance West Palm Beach downtown office",
+      "caption": "Professional cash advance services in West Palm Beach"
+    }
+  },
+
+  "localProof": {
+    "headline": "Located Downtown on Clematis Street",
+    "directions": "We are conveniently located at 620 Clematis Street, right in the heart of downtown West Palm Beach. If you're coming from I-95, take the Clematis Street exit. We're near Flagler Park and the Rhododendron Gardens, easily accessible from US-1 and FL-A1A.",
+    "landmarks": [
+      "Clematis Street",
+      "Downtown West Palm Beach",
+      "Flagler Park",
+      "Rhododendron Gardens"
+    ],
+    "highways": [
+      "I-95",
+      "US-1",
+      "FL-A1A"
+    ],
+    "neighborhoodName": "Downtown West Palm Beach",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - West Palm Beach",
+    "street": "620 Clematis Street, Suite 160",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "zip": "33401",
+    "phone": "(561) 555-0175",
+    "formattedPhone": "+15615550175",
+    "formattedAddress": "620 Clematis Street, Suite 160, West Palm Beach, FL 33401"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Loans in West Palm Beach",
+    "intro": "At our West Palm Beach location, we offer quick cash solutions for Palm Beach County residents:",
+    "services": [
+      {
+        "name": "Single-Payment Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Fast cash with one simple payment",
+        "anchorText": "Apply for payday loans"
+      },
+      {
+        "name": "Installment Payday Loans",
+        "slug": "installment-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Flexible payment options",
+        "anchorText": "Choose installment loans"
+      },
+      {
+        "name": "Express Cash Processing",
+        "slug": "express-cash",
+        "url": "/services/cash-advance-loans",
+        "description": "Get approved in 30 minutes",
+        "anchorText": "Get cash fast"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Cash Advance Laws in Florida",
+    "content": "Residents of West Palm Beach are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance.\n\nFlorida law caps single-payment payday loans at $500 with a maximum fee of 10% of the loan amount, plus a $5 verification fee. For a $500 loan, you would pay no more than $55 in fees. For installment payday loans, the maximum is $1,000 with fees capped at 8% of the outstanding balance on a biweekly basis. All lenders must comply with federal Truth-in-Lending Act disclosure requirements.\n\nOne of Florida's most important protections is the 'one loan at a time' rule. You cannot have more than one payday loan outstanding anywhere in Florida, and you must wait 24 hours after paying off one loan before taking out another. This is enforced through a mandatory statewide database. Loan rollovers and extensions are strictly prohibited.",
+    "keyPoints": [
+      "All payday lenders in Florida must be licensed by the Florida Office of Financial Regulation",
+      "You can only have one cash advance loan at a time in Florida",
+      "Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee",
+      "Installment loans are capped at $1,000 with maximum 8% biweekly fee",
+      "You must wait 24 hours after paying off one loan before taking out another",
+      "Loan rollovers and extensions are prohibited by law",
+      "If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling",
+      "You cannot be criminally prosecuted for an unpaid payday loan",
+      "Prepayment penalties are prohibited"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR), Division of Consumer Finance",
+    "regulatoryUrl": "https://flofr.gov",
+    "contactPhone": "(850) 487-9687",
+    "disclaimer": "This information is provided for general educational purposes only. Laws and regulations are subject to change. For current information, contact the Florida Office of Financial Regulation at (850) 487-9687."
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Palm Beach County",
+    "intro": "Can't visit West Palm Beach? We also serve:",
+    "cities": [
+      {
+        "name": "Palm Beach",
+        "slug": "palm-beach",
+        "url": "/locations/florida/palm-beach",
+        "distanceMiles": 3
+      },
+      {
+        "name": "Lake Worth",
+        "slug": "lake-worth",
+        "url": "/locations/florida/lake-worth",
+        "distanceMiles": 5
+      },
+      {
+        "name": "Boca Raton",
+        "slug": "boca-raton",
+        "url": "/locations/florida/boca-raton",
+        "distanceMiles": 16
+      },
+      {
+        "name": "Greenacres",
+        "slug": "greenacres",
+        "url": "/locations/florida/greenacres",
+        "distanceMiles": 8
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your West Palm Beach office?",
+      "answer": "We're at 620 Clematis Street, Suite 160, in downtown West Palm Beach. Easy access from I-95, near Flagler Park and the beautiful Rhododendron Gardens."
+    },
+    {
+      "question": "What are your hours?",
+      "answer": "Monday through Friday 9:00 AM - 6:00 PM, Saturday 10:00 AM - 4:00 PM. Closed Sundays. Call (561) 555-0175 for holiday hours."
+    },
+    {
+      "question": "How fast is the approval?",
+      "answer": "Most customers are approved and funded within 30 minutes. You can apply online first to speed up the process."
+    },
+    {
+      "question": "What documents do I need?",
+      "answer": "Bring a valid government ID, recent proof of income (pay stub or bank statement), and a blank check from your account. We'll explain all fees before proceeding."
+    },
+    {
+      "question": "Do you serve other Palm Beach County areas?",
+      "answer": "Yes! We serve Palm Beach (3 miles), Lake Worth (5 miles), Boca Raton (16 miles), and Greenacres (8 miles). Call for directions to any location."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Cash in West Palm Beach",
+    "subheadline": "Visit our Clematis Street office or apply online",
+    "primaryCta": {
+      "text": "Apply for West Palm Beach Cash",
+      "url": "/apply?location=west-palm-beach-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (561) 555-0175",
+      "url": "tel:+15615550175"
+    },
+    "address": "620 Clematis Street, Suite 160, West Palm Beach, FL 33401"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - West Palm Beach",
+    "areaServed": "West Palm Beach, FL",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "West Palm Beach", "url": "/locations/florida/west-palm-beach"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:00:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batchNumber": 2,
+    "cityNumber": 20
+  }
+}

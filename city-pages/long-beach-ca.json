@@ -1,0 +1,214 @@
+{
+  "id": "long-beach-ca",
+  "city": "Long Beach",
+  "slug": "long-beach",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Los Angeles County",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans Long Beach | Near Queen Mary | Lion Cash Advance",
+    "metaDescription": "Quick cash loans in Long Beach near Queen Mary Museum. DFPI licensed, $300 max, 15% fee. Same-day funding. (562) 555-0388",
+    "canonicalUrl": "/locations/california/long-beach",
+    "keywords": ["cash advance long beach", "payday loans long beach", "quick cash long beach ca", "emergency loans near queen mary"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Long Beach, California",
+    "subheadline": "Licensed lender serving Long Beach and Los Angeles County residents",
+    "ctaText": "Apply Now for Long Beach Cash",
+    "ctaUrl": "/apply?location=long-beach-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=long+beach+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Long Beach",
+    "directions": "We are conveniently located at 678 Pacific Avenue, right across from the Queen Mary Museum and just down the road from Aquarium of the Pacific. If you are taking I-405 or I-710, take Exit 45 toward Pacific Avenue. Our Long Beach waterfront location is easy to access with ample parking.",
+    "landmarks": ["Queen Mary Museum", "Aquarium of the Pacific"],
+    "highway": "I-405 / I-710",
+    "exit": "Exit 45",
+    "neighborhoodName": "Long Beach Waterfront",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 5:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3350.789012!2d-118.2437!3d33.7430"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Long Beach",
+    "street": "678 Pacific Avenue, Suite 210",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90802",
+    "phone": "(562) 555-0388",
+    "formattedPhone": "+15625550388",
+    "formattedAddress": "678 Pacific Avenue, Suite 210, Long Beach, CA 90802",
+    "coordinates": {
+      "latitude": 33.7430,
+      "longitude": -118.2437
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=33.7430,-118.2437"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Solutions for Long Beach",
+    "intro": "Long Beach residents and workers depend on us for quick, reliable financial solutions. Choose from our flexible options:",
+    "services": [
+      {
+        "name": "Fast Cash Advances",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Quick loans up to $300 with same-day funding",
+        "anchorText": "Learn about Fast Cash Advances"
+      },
+      {
+        "name": "Emergency Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans for unexpected expenses",
+        "anchorText": "Emergency Payday Loans"
+      },
+      {
+        "name": "Guaranteed Approval Loans",
+        "slug": "guaranteed-approval-loans",
+        "url": "/services/guaranteed-approval-loans",
+        "description": "We work with all credit types",
+        "anchorText": "Guaranteed Approval Options"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply online and complete in Long Beach",
+        "anchorText": "Apply Online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding California Cash Advance Laws in Long Beach",
+    "content": "Los Angeles County residents, including Long Beach, are protected by California's strict consumer lending regulations.",
+    "keyPoints": [
+      "Maximum loan amount is $300 including all fees",
+      "Maximum fee is 15% of check amount (460% APR typical)",
+      "Only one loan allowed at a time - no rollovers",
+      "Criminal prosecution threats are illegal",
+      "Lion Cash Advance is DFPI licensed and regulated",
+      "One $15 NSF fee maximum per bounced check",
+      "Maximum 31-day loan term",
+      "Disclosures required in your preferred language"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for educational purposes. California cash advance laws may change. For current information, call the DFPI at 1-866-275-2677 or visit dfpi.ca.gov. For legal questions, consult a California attorney."
+  },
+
+  "localReviews": {
+    "headline": "What Our Long Beach Customers Say",
+    "locationId": "long-beach-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Angela W.",
+        "rating": 5,
+        "text": "Excellent location near Queen Mary and the Aquarium. Fast approval and very professional service. Got cash same day.",
+        "date": "2024-12-26"
+      },
+      {
+        "name": "Victor M.",
+        "rating": 5,
+        "text": "Great waterfront location in Long Beach. Quick process and transparent fees. Licensed by DFPI.",
+        "date": "2024-12-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 4,
+        "text": "Good service at the Pacific Avenue location. Fair pricing and professional staff. Would return.",
+        "date": "2024-12-17"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Long Beach Area Communities",
+    "intro": "Need a location closer to you? We serve these nearby Long Beach communities:",
+    "cities": [
+      {"name": "Compton", "slug": "compton", "url": "/locations/california/compton", "distanceMiles": 11},
+      {"name": "Lakewood", "slug": "lakewood", "url": "/locations/california/lakewood", "distanceMiles": 9},
+      {"name": "Signal Hill", "slug": "signal-hill", "url": "/locations/california/signal-hill", "distanceMiles": 6},
+      {"name": "Los Angeles", "slug": "los-angeles", "url": "/locations/california/los-angeles", "distanceMiles": 24}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Long Beach location?",
+      "answer": "We're at 678 Pacific Avenue, Suite 210, right across from the Queen Mary Museum in Long Beach. Take I-405 or I-710 to Exit 45 toward Pacific Avenue. Easy waterfront parking available."
+    },
+    {
+      "question": "Can I get approved same-day in Long Beach?",
+      "answer": "Yes! Bring your valid ID, recent pay stubs or proof of income, and checking account information. Most customers are approved and funded same day."
+    },
+    {
+      "question": "What's the maximum I can borrow?",
+      "answer": "California law limits loans to $300 including all fees. With the standard 15% fee, you can typically borrow up to $255 in cash."
+    },
+    {
+      "question": "How much will your fees be?",
+      "answer": "California caps fees at 15% of the check amount. For a $200 loan, fees are $30. For $255, the maximum fee is $45."
+    },
+    {
+      "question": "Is Lion Cash Advance licensed in California?",
+      "answer": "Yes, we are fully licensed by the California Department of Financial Protection and Innovation. Verify our license at dfpi.ca.gov/regulated-industries/regulated-entities-list/"
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Need Cash Fast in Long Beach?",
+    "subheadline": "Visit our Pacific Avenue location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=long-beach-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (562) 555-0388",
+      "url": "tel:+15625550388"
+    },
+    "address": "678 Pacific Avenue, Suite 210, Long Beach, CA 90802"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - Long Beach",
+    "areaServed": "Long Beach, Los Angeles County, California",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Long Beach", "url": "/locations/california/long-beach"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliance": true,
+    "stateComplianceIncluded": true
+  }
+}

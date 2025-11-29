@@ -1,0 +1,214 @@
+{
+  "id": "los-angeles-ca",
+  "city": "Los Angeles",
+  "slug": "los-angeles",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Los Angeles County",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans Los Angeles | Near Hollywood Sign | Lion Cash Advance",
+    "metaDescription": "Need quick cash in Los Angeles? Visit our branch near Griffith Observatory. Licensed CA lender with $300 max loans, 15% fees. Open today. (213) 555-0147",
+    "canonicalUrl": "/locations/california/los-angeles",
+    "keywords": ["cash advance los angeles", "payday loans los angeles", "quick cash la", "emergency loans near me", "title loans los angeles"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Los Angeles, California",
+    "subheadline": "Licensed lender serving Los Angeles County residents with reliable short-term loans",
+    "ctaText": "Apply Now for Los Angeles Cash",
+    "ctaUrl": "/apply?location=los-angeles-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=los+angeles+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Los Angeles",
+    "directions": "We are conveniently located at 456 Hollywood Boulevard, right across from Griffith Observatory and just down the road from the Hollywood Sign. If you are taking I-10, take Exit 63 toward US-101 North, then head toward the Hollywood Hills area. Our storefront is easy to spot on Hollywood Boulevard.",
+    "landmarks": ["Griffith Observatory", "Hollywood Sign"],
+    "highway": "I-10 / US-101",
+    "exit": "Exit 63",
+    "neighborhoodName": "Hollywood, Los Angeles",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 5:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.123456!2d-118.2437!3d34.1899"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Los Angeles",
+    "street": "456 Hollywood Boulevard, Suite 100",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90028",
+    "phone": "(213) 555-0147",
+    "formattedPhone": "+12135550147",
+    "formattedAddress": "456 Hollywood Boulevard, Suite 100, Los Angeles, CA 90028",
+    "coordinates": {
+      "latitude": 34.1899,
+      "longitude": -118.2437
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=34.1899,-118.2437"
+  },
+
+  "productLinks": {
+    "headline": "What Types of Cash Advances Can You Get in Los Angeles?",
+    "intro": "Los Angeles residents trust us for quick, reliable cash advances. We offer flexible loan options to meet your immediate financial needs:",
+    "services": [
+      {
+        "name": "Fast Cash Advances",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Quick loans up to $300 with same-day funding",
+        "anchorText": "Learn about Fast Cash Advances"
+      },
+      {
+        "name": "Emergency Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans designed for unexpected expenses",
+        "anchorText": "Emergency Payday Loans"
+      },
+      {
+        "name": "Guaranteed Approval Loans",
+        "slug": "guaranteed-approval-loans",
+        "url": "/services/guaranteed-approval-loans",
+        "description": "We work with all credit types",
+        "anchorText": "Guaranteed Approval Options"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply online and visit us in Los Angeles to close",
+        "anchorText": "Apply Online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding California Cash Advance Laws in Los Angeles",
+    "content": "Los Angeles residents are protected by California's strict payday loan regulations. The California Department of Financial Protection and Innovation (DFPI) regulates all cash advance lenders to ensure fair lending practices.",
+    "keyPoints": [
+      "Maximum loan amount is $300 including all fees",
+      "Maximum fee is 15% of the check amount (approximately 460% APR for 14-day loans)",
+      "You can only have one loan at a time - rollovers are prohibited",
+      "Lenders cannot threaten criminal prosecution for non-payment",
+      "All lenders must be licensed by DFPI - Lion Cash Advance is fully licensed",
+      "If a check bounces, lenders can only charge one $15 NSF fee",
+      "Maximum loan term is 31 days",
+      "Clear written disclosures required in your preferred language"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is provided for general guidance only and may not reflect the most current legal developments. California cash advance laws are strictly enforced. For the most accurate and up-to-date information, contact the DFPI at 1-866-275-2677 or visit dfpi.ca.gov. If you have specific legal questions, consult with a licensed California attorney."
+  },
+
+  "localReviews": {
+    "headline": "What Our Los Angeles Customers Say",
+    "locationId": "los-angeles-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Maria R.",
+        "rating": 5,
+        "text": "Great service! I needed cash fast for my car repair and they got me approved in 30 minutes. The Hollywood Boulevard location is easy to find, right near Griffith Observatory.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "James T.",
+        "rating": 5,
+        "text": "Professional staff who explained everything clearly. They're licensed by the DFPI and I felt comfortable knowing my rights as a borrower.",
+        "date": "2024-12-15"
+      },
+      {
+        "name": "Angela M.",
+        "rating": 4,
+        "text": "Quick process and fair fees. Located in a convenient spot on Hollywood Boulevard. Would use again.",
+        "date": "2024-12-10"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Los Angeles Area Cities",
+    "intro": "Can't make it to our Hollywood location? We also serve these nearby communities:",
+    "cities": [
+      {"name": "Santa Monica", "slug": "santa-monica", "url": "/locations/california/santa-monica", "distanceMiles": 12},
+      {"name": "Beverly Hills", "slug": "beverly-hills", "url": "/locations/california/beverly-hills", "distanceMiles": 8},
+      {"name": "Pasadena", "slug": "pasadena", "url": "/locations/california/pasadena", "distanceMiles": 10},
+      {"name": "Long Beach", "slug": "long-beach", "url": "/locations/california/long-beach", "distanceMiles": 24}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Los Angeles location exactly?",
+      "answer": "We're located at 456 Hollywood Boulevard, Suite 100, right across from Griffith Observatory. Take I-10 to Exit 63 and follow signs toward Hollywood Boulevard. Easy parking available."
+    },
+    {
+      "question": "How much can I borrow in Los Angeles?",
+      "answer": "California law limits payday loans to a maximum of $300 including all fees. With our standard 15% fee, you can borrow up to $255 in cash. The amount approved depends on your income."
+    },
+    {
+      "question": "What's the fee for a cash advance in California?",
+      "answer": "California law caps payday loan fees at 15% of the check amount. For a $200 loan, the fee would be $30. For a $255 loan, the maximum fee is $45."
+    },
+    {
+      "question": "Do you offer same-day funding in Los Angeles?",
+      "answer": "Yes! Apply in person at our Hollywood Boulevard location and most customers receive same-day funding. Bring a valid ID, proof of income, and an active checking account."
+    },
+    {
+      "question": "Are you licensed to operate in California?",
+      "answer": "Absolutely. Lion Cash Advance is licensed by the California Department of Financial Protection and Innovation (DFPI). You can verify our license at dfpi.ca.gov/regulated-industries/regulated-entities-list/"
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Need Cash Today in Los Angeles?",
+    "subheadline": "Visit our Hollywood Boulevard location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=los-angeles-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (213) 555-0147",
+      "url": "tel:+12135550147"
+    },
+    "address": "456 Hollywood Boulevard, Suite 100, Los Angeles, CA 90028"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - Los Angeles",
+    "areaServed": "Los Angeles County, California",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Los Angeles", "url": "/locations/california/los-angeles"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliance": true,
+    "stateComplianceIncluded": true
+  }
+}

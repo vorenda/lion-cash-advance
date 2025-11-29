@@ -1,0 +1,219 @@
+{
+  "id": "lakeland-fl",
+  "city": "Lakeland",
+  "slug": "lakeland",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "countyName": "Polk County",
+  "serviceNiche": "Cash Advance Loans",
+  "businessName": "Lion Cash Advance",
+
+  "seo": {
+    "title": "Cash Advance Loans in Lakeland, FL | Fast Cash Near LEGOLAND | Lion Cash Advance",
+    "metaDescription": "Get quick cash in Lakeland near LEGOLAND Florida and Lake Hollingsworth. Same-day approval available. Call (863) 555-0201 now.",
+    "canonicalUrl": "/locations/florida/lakeland",
+    "keywords": [
+      "cash advance lakeland",
+      "payday loans lakeland fl",
+      "quick cash lakeland florida",
+      "emergency loans lakeland",
+      "fast payday loans polk county"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Lakeland, FL",
+    "subheadline": "Emergency cash for Lakeland residents",
+    "ctaText": "Get Lakeland Cash Today",
+    "ctaUrl": "/apply?location=lakeland-fl",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=lakeland+florida+cash+advance"
+    }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Lakeland office location",
+      "caption": "Professional cash advance services in Lakeland"
+    }
+  },
+
+  "localProof": {
+    "headline": "Located in Lakeland Central",
+    "directions": "We are conveniently located at 1445 East Memorial Boulevard, right near Lake Hollingsworth and the famous Chain of Parks. If you're taking I-4, take the East Memorial Boulevard exit. We're near LEGOLAND Florida, the Polk Museum of Art, and easy to find from US-98 and US-17.",
+    "landmarks": [
+      "Lake Hollingsworth",
+      "Chain of Parks",
+      "LEGOLAND Florida",
+      "Polk Museum of Art"
+    ],
+    "highways": [
+      "I-4",
+      "US-98",
+      "US-17"
+    ],
+    "neighborhoodName": "Central Lakeland",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Lakeland",
+    "street": "1445 East Memorial Boulevard, Suite 115",
+    "city": "Lakeland",
+    "state": "FL",
+    "zip": "33801",
+    "phone": "(863) 555-0201",
+    "formattedPhone": "+18635550201",
+    "formattedAddress": "1445 East Memorial Boulevard, Suite 115, Lakeland, FL 33801"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Services in Lakeland",
+    "intro": "At our Lakeland location, we offer flexible cash advance solutions for Polk County residents:",
+    "services": [
+      {
+        "name": "Single-Payment Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Get cash with one simple payment",
+        "anchorText": "Apply for payday loans in Lakeland"
+      },
+      {
+        "name": "Installment Payday Loans",
+        "slug": "installment-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Split payments over time",
+        "anchorText": "Choose installment loan options"
+      },
+      {
+        "name": "Emergency Cash Advance",
+        "slug": "emergency-cash",
+        "url": "/services/cash-advance-loans",
+        "description": "Quick funding for emergencies",
+        "anchorText": "Get emergency cash today"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Cash Advance Laws in Florida",
+    "content": "Residents of Lakeland are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance.\n\nFlorida law caps single-payment payday loans at $500 with a maximum fee of 10% of the loan amount, plus a $5 verification fee. For a $500 loan, you would pay no more than $55 in fees. For installment payday loans, the maximum is $1,000 with fees capped at 8% of the outstanding balance on a biweekly basis. All lenders must comply with federal Truth-in-Lending Act disclosure requirements.\n\nOne of Florida's most important protections is the 'one loan at a time' rule. You cannot have more than one payday loan outstanding anywhere in Florida, and you must wait 24 hours after paying off one loan before taking out another. This is enforced through a mandatory statewide database. Loan rollovers and extensions are strictly prohibited.",
+    "keyPoints": [
+      "All payday lenders in Florida must be licensed by the Florida Office of Financial Regulation",
+      "You can only have one cash advance loan at a time in Florida",
+      "Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee",
+      "Installment loans are capped at $1,000 with maximum 8% biweekly fee",
+      "You must wait 24 hours after paying off one loan before taking out another",
+      "Loan rollovers and extensions are prohibited by law",
+      "If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling",
+      "You cannot be criminally prosecuted for an unpaid payday loan",
+      "Prepayment penalties are prohibited"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR), Division of Consumer Finance",
+    "regulatoryUrl": "https://flofr.gov",
+    "contactPhone": "(850) 487-9687",
+    "disclaimer": "This information is provided for general educational purposes only. Laws and regulations are subject to change. For current information, contact the Florida Office of Financial Regulation at (850) 487-9687."
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Polk County",
+    "intro": "Can't visit Lakeland? We also serve:",
+    "cities": [
+      {
+        "name": "Winter Haven",
+        "slug": "winter-haven",
+        "url": "/locations/florida/winter-haven",
+        "distanceMiles": 20
+      },
+      {
+        "name": "Bartow",
+        "slug": "bartow",
+        "url": "/locations/florida/bartow",
+        "distanceMiles": 18
+      },
+      {
+        "name": "Plant City",
+        "slug": "plant-city",
+        "url": "/locations/florida/plant-city",
+        "distanceMiles": 25
+      },
+      {
+        "name": "Auburndale",
+        "slug": "auburndale",
+        "url": "/locations/florida/auburndale",
+        "distanceMiles": 16
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Lakeland office?",
+      "answer": "We're at 1445 East Memorial Boulevard, Suite 115, near Lake Hollingsworth and the Chain of Parks. Easy access from I-4, US-98, and US-17."
+    },
+    {
+      "question": "What are your hours in Lakeland?",
+      "answer": "Monday through Friday 9:00 AM - 6:00 PM, Saturday 10:00 AM - 4:00 PM. Closed Sundays. Call (863) 555-0201 for holiday hours."
+    },
+    {
+      "question": "How fast can I get approved?",
+      "answer": "Most customers receive approval and funding within 30 minutes. Apply online first to speed up the process."
+    },
+    {
+      "question": "What do I need to bring?",
+      "answer": "Bring a valid government ID, recent proof of income (pay stub or bank statement), and a blank check from your account. We explain all costs upfront."
+    },
+    {
+      "question": "Are there other locations in Polk County?",
+      "answer": "Yes! We serve Winter Haven (20 miles), Bartow (18 miles), Plant City (25 miles), and Auburndale (16 miles). Call for directions."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Cash in Lakeland",
+    "subheadline": "Visit our Memorial Boulevard office or apply online",
+    "primaryCta": {
+      "text": "Apply for Lakeland Cash",
+      "url": "/apply?location=lakeland-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (863) 555-0201",
+      "url": "tel:+18635550201"
+    },
+    "address": "1445 East Memorial Boulevard, Suite 115, Lakeland, FL 33801"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - Lakeland",
+    "areaServed": "Lakeland, FL",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "Lakeland", "url": "/locations/florida/lakeland"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:00:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batchNumber": 2,
+    "cityNumber": 23
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "id": "bakersfield-ca",
+  "city": "Bakersfield",
+  "slug": "bakersfield",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Kern County",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans in Bakersfield, CA | Quick Cash Near Downtown | Lion Cash Advance",
+    "metaDescription": "Need cash fast in Bakersfield? Visit our downtown location near the Bakersfield Museum of Art. Same-day approval available. Get $100-$300 cash advance today.",
+    "canonicalUrl": "/locations/california/bakersfield",
+    "keywords": ["cash advance bakersfield", "payday loans bakersfield ca", "quick cash bakersfield", "cash loan near me bakersfield"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Bakersfield, California",
+    "subheadline": "Same-day approval at our convenient downtown location",
+    "ctaText": "Apply Now for Quick Cash",
+    "ctaUrl": "/apply?location=bakersfield-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=bakersfield+ca+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Visit Lion Cash Advance in Downtown Bakersfield",
+    "directions": "We are conveniently located at 2145 East 21st Street, just south of the iconic Bakersfield Museum of Art and within walking distance of Hart Park. If you're taking CA-99 northbound, take Exit 115 toward Downtown Bakersfield. Our storefront is easy to spot on East 21st Street, a major commercial corridor in Kern County.",
+    "landmarks": ["Bakersfield Museum of Art", "Hart Park", "Underground Gardens"],
+    "highway": "CA-99",
+    "exit": "Exit 115",
+    "neighborhoodName": "Downtown Bakersfield",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3295.5!2d-119.2!3d35.37!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80b8!2m2!1d-119.2!2d35.37!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Bakersfield",
+    "street": "2145 East 21st Street, Suite 105",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93305",
+    "phone": "(661) 555-0147",
+    "formattedPhone": "+16615550147",
+    "formattedAddress": "2145 East 21st Street, Suite 105, Bakersfield, CA 93305",
+    "coordinates": {
+      "latitude": 35.3733,
+      "longitude": -119.0187
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=35.3733,-119.0187"
+  },
+
+  "productLinks": {
+    "headline": "Fast Cash Advance Options Available in Bakersfield",
+    "intro": "At Lion Cash Advance in Bakersfield, Kern County residents have access to quick cash solutions designed for emergency needs. Whether you need $100 or up to $300, we have flexible options:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Quick cash loans up to $300 with terms up to 31 days",
+        "anchorText": "Explore our payday loan options"
+      },
+      {
+        "name": "Cash Advance Loans",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Fast approval with minimal documentation",
+        "anchorText": "Apply for a cash advance"
+      },
+      {
+        "name": "Title-Free Personal Loans",
+        "slug": "personal-loans",
+        "url": "/services/personal-loans",
+        "description": "Quick personal loans without title collateral",
+        "anchorText": "View personal loan details"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply online from your phone or computer",
+        "anchorText": "Get started with online application"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Cash Advance Laws Protecting Bakersfield Residents",
+    "content": "Bakersfield residents are protected by California Deferred Deposit Transaction Law, administered by the California Department of Financial Protection and Innovation (DFPI). California has some of the strictest payday loan regulations in the nation, including loan amount limits, fee caps, and strong consumer protections that prevent predatory lending practices.",
+    "keyPoints": [
+      "Maximum loan amount: $300 including all fees (typical cash amount is $255 with $45 fee)",
+      "Maximum fee: 15% of the check amount, which equals approximately 460% APR for a 14-day loan",
+      "Loan term limit: Cannot exceed 31 days",
+      "One loan at a time: You can only have one payday loan outstanding with us at any given time",
+      "No rollovers: California law prohibits rolling over loans for additional fees",
+      "No criminal prosecution: Lenders cannot threaten or pursue criminal charges for non-payment",
+      "Limited NSF fees: Only one $15 NSF fee is allowed if your check bounces",
+      "Clear fee disclosure: All fees must be clearly stated in both dollars and APR",
+      "Licensed lenders only: Verify any payday lender's California DFPI license before borrowing"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for general educational purposes and does not constitute legal advice. Payday loan laws and regulations may change. For the most current information, contact the DFPI at 1-866-275-2677 or visit dfpi.ca.gov. If you have specific legal questions, consult with a licensed California attorney. Individual lender terms may vary within the limits allowed by California law."
+  },
+
+  "localReviews": {
+    "headline": "What Bakersfield Customers Say About Lion Cash Advance",
+    "locationId": "bakersfield-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "text": "Quick process at the East 21st Street location. They explained all the fees upfront and were very professional. Got my cash in about 30 minutes.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "James T.",
+        "rating": 5,
+        "text": "Convenient location near Hart Park. Easy to access from CA-99. Staff was friendly and answered all my questions about the loan terms.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Rosa M.",
+        "rating": 4,
+        "text": "Good service overall. Location is easy to find in downtown Bakersfield. Will definitely return if I need emergency cash again.",
+        "date": "2024-09-10"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Other Kern County Communities",
+    "intro": "Can't make it to our Bakersfield location? We also serve these nearby Kern County cities and towns:",
+    "cities": [
+      {"name": "Taft", "slug": "taft", "url": "/locations/california/taft", "distanceMiles": 35},
+      {"name": "Delano", "slug": "delano", "url": "/locations/california/delano", "distanceMiles": 42},
+      {"name": "Tehachapi", "slug": "tehachapi", "url": "/locations/california/tehachapi", "distanceMiles": 48},
+      {"name": "Oildale", "slug": "oildale", "url": "/locations/california/oildale", "distanceMiles": 12}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Bakersfield cash advance location?",
+      "answer": "We're located at 2145 East 21st Street, Suite 105, right near the Bakersfield Museum of Art and Hart Park in downtown Bakersfield. Take CA-99 Exit 115 and head toward downtown for easy access."
+    },
+    {
+      "question": "What do I need to bring to the Bakersfield branch?",
+      "answer": "Bring a valid government ID (driver's license or passport), proof of income (recent pay stub or bank statements), an active checking account, and we'll help you complete the rest. The entire process typically takes 30 minutes."
+    },
+    {
+      "question": "What's the maximum I can borrow in Bakersfield?",
+      "answer": "California law limits cash advances to a maximum of $300 total (including all fees). With our standard 15% fee, most borrowers receive up to $255 in cash. Your specific loan amount depends on your income and creditworthiness."
+    },
+    {
+      "question": "How quickly can I get approved in Bakersfield?",
+      "answer": "Most customers are approved and receive their cash within 30 minutes during business hours. Our downtown Bakersfield location has quick approval times with minimal waiting."
+    },
+    {
+      "question": "Are there any hidden fees or charges?",
+      "answer": "No. California law requires all payday lenders to disclose all fees upfront in both dollars and APR. We comply fully with California Deferred Deposit Transaction Law. No surprise charges or hidden fees."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Fast Cash in Bakersfield Today",
+    "subheadline": "Visit our East 21st Street location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=bakersfield-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (661) 555-0147",
+      "url": "tel:+16615550147"
+    },
+    "address": "2145 East 21st Street, Suite 105, Bakersfield, CA 93305"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Bakersfield", "url": "/locations/california/bakersfield"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1560707303-4e8d64df3ec6?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Bakersfield branch entrance",
+      "caption": "Our professional Bakersfield location on East 21st Street"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0"
+  }
+}

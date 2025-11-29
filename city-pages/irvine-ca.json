@@ -1,0 +1,218 @@
+{
+  "id": "irvine-ca",
+  "city": "Irvine",
+  "slug": "irvine",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Orange County",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans in Irvine, CA | Orange County Quick Cash | Lion Cash Advance",
+    "metaDescription": "Need cash in Irvine? Visit our Spectrum location for same-day approval. Quick cash loans up to $300. Serving Orange County residents.",
+    "canonicalUrl": "/locations/california/irvine",
+    "keywords": ["cash advance irvine", "payday loans irvine ca", "fast cash irvine", "emergency loans orange county"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Irvine, California",
+    "subheadline": "Quick approval at our Spectrum shopping center location",
+    "ctaText": "Apply Now for Irvine Cash",
+    "ctaUrl": "/apply?location=irvine-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=irvine+ca+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Visit Lion Cash Advance in Irvine",
+    "directions": "We are conveniently located at 2675 Irvine Center Drive, right in the heart of the Irvine Spectrum, one of Orange County's premier shopping and entertainment destinations. If you're taking I-405, take Exit 57 toward Irvine Center. Our location is easily accessible with convenient parking in this major commercial hub.",
+    "landmarks": ["Irvine Spectrum", "Pelican Hill", "Turtle Rock"],
+    "highway": "I-405",
+    "exit": "Exit 57",
+    "neighborhoodName": "Irvine Spectrum Center",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3334.8!2d-117.82!3d33.69!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dce!2m2!1d-117.82!2d33.69!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Irvine",
+    "street": "2675 Irvine Center Drive, Suite 220",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92614",
+    "phone": "(949) 555-0267",
+    "formattedPhone": "+19495550267",
+    "formattedAddress": "2675 Irvine Center Drive, Suite 220, Irvine, CA 92614",
+    "coordinates": {
+      "latitude": 33.6889,
+      "longitude": -117.8231
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=33.6889,-117.8231"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Options in Irvine",
+    "intro": "Irvine residents have convenient access to quick cash solutions at our Spectrum location:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Quick cash loans up to $300 with flexible terms",
+        "anchorText": "Get a payday loan"
+      },
+      {
+        "name": "Cash Advance Loans",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Same-day approval with minimal requirements",
+        "anchorText": "Apply for cash advance"
+      },
+      {
+        "name": "Personal Loans",
+        "slug": "personal-loans",
+        "url": "/services/personal-loans",
+        "description": "Unsecured personal loans for any need",
+        "anchorText": "Explore personal loans"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Start online, complete in person",
+        "anchorText": "Apply online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Cash Advance Laws for Irvine Residents",
+    "content": "Irvine residents in Orange County are protected by California's comprehensive Deferred Deposit Transaction Law. The California Department of Financial Protection and Innovation (DFPI) regulates payday lenders to ensure compliance with strict borrower protections and fee limits.",
+    "keyPoints": [
+      "Maximum loan: $300 total including all fees (typical $255 cash with $45 fee)",
+      "Maximum fee: 15% of check amount, maximum $45",
+      "APR range: Approximately 460% for standard 14-day loans",
+      "Term limit: Cannot exceed 31 days",
+      "One loan policy: Can only have one payday loan at a time",
+      "No rollovers: Cannot extend loans for additional fees",
+      "No criminal prosecution: Lenders cannot threaten or pursue criminal action",
+      "Single NSF charge: Only one $15 fee per bounced check",
+      "Full transparency: All fees disclosed in dollars and APR before signing"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for general educational purposes and does not constitute legal advice. Payday loan laws may change. For the most current information, contact the DFPI at 1-866-275-2677 or dfpi.ca.gov. For specific legal questions, consult a California attorney. Individual lender terms vary within state law limits."
+  },
+
+  "localReviews": {
+    "headline": "Irvine Customer Reviews",
+    "locationId": "irvine-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Jessica W.",
+        "rating": 5,
+        "text": "Excellent location at the Spectrum. Professional staff and very quick approval process. Got my cash in 30 minutes. Highly recommended!",
+        "date": "2024-11-19"
+      },
+      {
+        "name": "Kevin M.",
+        "rating": 5,
+        "text": "Great service at the Irvine location. Easy to find, easy parking, and friendly staff. Fast and efficient transaction.",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Maria S.",
+        "rating": 4,
+        "text": "Good experience at the Spectrum location. Clear explanations and quick processing. Convenient for shopping nearby.",
+        "date": "2024-09-14"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Orange County Communities",
+    "intro": "We also serve these nearby Orange County cities:",
+    "cities": [
+      {"name": "Laguna Beach", "slug": "laguna-beach", "url": "/locations/california/laguna-beach", "distanceMiles": 12},
+      {"name": "Newport Beach", "slug": "newport-beach", "url": "/locations/california/newport-beach", "distanceMiles": 8},
+      {"name": "Anaheim", "slug": "anaheim", "url": "/locations/california/anaheim", "distanceMiles": 15},
+      {"name": "Santa Ana", "slug": "santa-ana", "url": "/locations/california/santa-ana", "distanceMiles": 12}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Irvine location?",
+      "answer": "We're located at 2675 Irvine Center Drive, Suite 220, in the Irvine Spectrum shopping center. Take I-405 Exit 57 toward Irvine Center. Excellent parking available."
+    },
+    {
+      "question": "What do I need to bring to get a cash advance?",
+      "answer": "Bring a valid government ID, recent pay stub or bank statement for income verification, and your active checking account information. Approval typically takes 30 minutes."
+    },
+    {
+      "question": "What's the maximum loan amount in California?",
+      "answer": "California law limits payday loans to $300 total. This includes the cash you receive plus all fees. Most borrowers receive $255 cash with a $45 fee."
+    },
+    {
+      "question": "How quickly can I get approved in Irvine?",
+      "answer": "Most applicants at our Spectrum location receive approval and cash within 30 minutes. We have a quick verification process for your convenience."
+    },
+    {
+      "question": "What are all the fees upfront?",
+      "answer": "California requires full fee disclosure. The maximum fee is 15% of your check amount. All costs are stated clearly in dollars and APR before you sign."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Fast Cash in Irvine Today",
+    "subheadline": "Visit our Spectrum location or apply online",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=irvine-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (949) 555-0267",
+      "url": "tel:+19495550267"
+    },
+    "address": "2675 Irvine Center Drive, Suite 220, Irvine, CA 92614"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Irvine", "url": "/locations/california/irvine"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Irvine Spectrum location",
+      "caption": "Our professional location at the Irvine Spectrum"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0"
+  }
+}

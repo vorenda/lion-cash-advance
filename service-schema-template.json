@@ -1,0 +1,846 @@
+{
+  "schemaVersion": "1.0",
+  "serviceNiche": "Cash Advance Loans",
+  "businessName": "Lion Cash Advance",
+  "totalServices": 8,
+  "lastUpdated": "2025-11-29",
+  "dataSource": "Jina AI research from competitor websites and industry sources",
+
+  "services": [
+    {
+      "id": 1,
+      "name": "Payday Loans",
+      "slug": "payday-loans",
+      "category": "short-term",
+      "description": "Fast cash advance before your next paycheck with minimal requirements"
+    },
+    {
+      "id": 2,
+      "name": "Online Cash Advance",
+      "slug": "online-cash-advance",
+      "category": "digital",
+      "description": "Apply for cash online from home with quick approval and funding"
+    },
+    {
+      "id": 3,
+      "name": "Installment Loans",
+      "slug": "installment-loans",
+      "category": "flexible",
+      "description": "Flexible repayment terms with fixed monthly payments over time"
+    },
+    {
+      "id": 4,
+      "name": "Same-Day Loans",
+      "slug": "same-day-loans",
+      "category": "urgent",
+      "description": "Emergency cash available same day with fast approval process"
+    },
+    {
+      "id": 5,
+      "name": "Bad Credit Loans",
+      "slug": "bad-credit-loans",
+      "category": "credit-flexible",
+      "description": "Cash advance options for borrowers with bad or poor credit history"
+    },
+    {
+      "id": 6,
+      "name": "Emergency Cash Loans",
+      "slug": "emergency-cash-loans",
+      "category": "emergency",
+      "description": "Quick emergency funds for unexpected expenses and urgent needs"
+    },
+    {
+      "id": 7,
+      "name": "Personal Cash Loans",
+      "slug": "personal-cash-loans",
+      "category": "personal",
+      "description": "Flexible personal loans for various expenses without collateral"
+    },
+    {
+      "id": 8,
+      "name": "No Credit Check Loans",
+      "slug": "no-credit-check-loans",
+      "category": "fast-approval",
+      "description": "Fast approval cash loans without traditional credit checks required"
+    }
+  ],
+
+  "schemaTemplate": {
+    "id": "string (service-slug-location-slug)",
+    "service": "string (e.g., 'Payday Loans')",
+    "serviceSlug": "string (e.g., 'payday-loans')",
+    "location": "string (city name)",
+    "locationSlug": "string (city slug)",
+    "serviceNiche": "string (Cash Advance Loans)",
+    "businessName": "string (Lion Cash Advance)",
+
+    "seo": {
+      "pageTitle": "string (50-60 chars, clickbait SEO with location)",
+      "metaDescription": "string (150-160 chars, compelling description)",
+      "canonicalUrl": "string",
+      "keywords": ["array of 5-10 target keywords"],
+      "localKeywords": ["array of 5-10 local SEO keywords with city name"]
+    },
+
+    "hero": {
+      "h1": "string (main page heading)",
+      "headline": "string (SEO-optimized headline with location)",
+      "subheadline": "string (supporting headline)",
+      "ctaText": "string (primary call-to-action)",
+      "ctaUrl": "string (link to application)"
+    },
+
+    "content": {
+      "description": "string (200-400 words, comprehensive service description)",
+      "shortDescription": "string (50-100 words, brief summary)",
+      "whatIs": {
+        "heading": "string",
+        "content": "string (150-250 words explaining the service)"
+      },
+      "benefits": [
+        "string (fast approval)",
+        "string (minimal requirements)",
+        "string (flexible repayment)",
+        "string (discreet process)",
+        "string (available online)"
+      ],
+      "requirements": {
+        "heading": "string",
+        "items": [
+          "string (18 years or older)",
+          "string (valid government ID)",
+          "string (proof of income)"
+        ]
+      }
+    },
+
+    "process": {
+      "heading": "string (How the application process works)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "string (e.g., 'Quick Application')",
+          "description": "string (description of step)"
+        },
+        {
+          "step": 2,
+          "title": "string",
+          "description": "string"
+        },
+        {
+          "step": 3,
+          "title": "string",
+          "description": "string"
+        },
+        {
+          "step": 4,
+          "title": "string",
+          "description": "string"
+        },
+        {
+          "step": 5,
+          "title": "string",
+          "description": "string"
+        }
+      ]
+    },
+
+    "loanDetails": {
+      "loanAmounts": {
+        "min": "number (minimum loan amount in dollars)",
+        "max": "number (maximum loan amount in dollars)",
+        "description": "string (e.g., '$100 to $2,500')"
+      },
+      "repaymentTerms": {
+        "description": "string (repayment period details)",
+        "examples": ["string (e.g., '14-30 days')", "string (various terms)"]
+      },
+      "fees": {
+        "description": "string (fee structure explanation)",
+        "note": "string (disclaimer about fees varying by location/state)"
+      },
+      "interestRates": {
+        "description": "string (APR and rate information)",
+        "note": "string (rates vary by state and eligibility)"
+      }
+    },
+
+    "qualifications": {
+      "heading": "string",
+      "requirements": [
+        "string (Must be 18 years or older)",
+        "string (Valid government ID required)",
+        "string (Proof of active checking account)",
+        "string (Proof of income (pay stub, bank statement))",
+        "string (Valid email and phone number)"
+      ],
+      "creditNote": "string (Note about credit requirements)"
+    },
+
+    "whyChoose": {
+      "heading": "string (Why Choose Lion Cash Advance)",
+      "reasons": [
+        {
+          "title": "string",
+          "description": "string"
+        },
+        {
+          "title": "string",
+          "description": "string"
+        }
+      ]
+    },
+
+    "faq": [
+      {
+        "question": "string",
+        "answer": "string"
+      },
+      {
+        "question": "string",
+        "answer": "string"
+      },
+      {
+        "question": "string",
+        "answer": "string"
+      },
+      {
+        "question": "string",
+        "answer": "string"
+      },
+      {
+        "question": "string",
+        "answer": "string"
+      }
+    ],
+
+    "trustSignals": {
+      "licenses": ["string (state licenses)"],
+      "certifications": ["string (certifications)"],
+      "yearsInBusiness": "string (e.g., '10+ years')",
+      "customerRating": "string (e.g., '4.9/5 stars')",
+      "guarantees": ["string (guarantees or policies)"]
+    },
+
+    "images": {
+      "heroImage": {
+        "url": "string (Unsplash URL or placeholder)",
+        "alt": "string (descriptive alt text)",
+        "caption": "string (image caption)"
+      },
+      "gallery": [
+        {
+          "url": "string",
+          "alt": "string",
+          "caption": "string"
+        }
+      ]
+    },
+
+    "h2Headings": [
+      "string (heading 1)",
+      "string (heading 2)",
+      "string (heading 3)",
+      "string (heading 4)",
+      "string (heading 5)"
+    ],
+
+    "cta": {
+      "phone": "string (phone number)",
+      "email": "string (email address)",
+      "primaryCta": "string (Apply Now)",
+      "secondaryCta": "string (Request Callback)",
+      "ctaNote": "string (e.g., 'No credit check required!')"
+    },
+
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "FinancialService",
+      "name": "string",
+      "url": "string",
+      "telephone": "string",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "string",
+        "addressLocality": "string",
+        "addressRegion": "string",
+        "postalCode": "string",
+        "addressCountry": "US"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "number",
+        "reviewCount": "number"
+      }
+    }
+  },
+
+  "examples": [
+    {
+      "id": "payday-loans-dallas-tx",
+      "service": "Payday Loans",
+      "serviceSlug": "payday-loans",
+      "location": "Dallas",
+      "locationSlug": "dallas-tx",
+      "serviceNiche": "Cash Advance Loans",
+      "businessName": "Lion Cash Advance",
+
+      "seo": {
+        "pageTitle": "Payday Loans Dallas TX | Fast Cash Advance | Lion Cash Advance",
+        "metaDescription": "Get fast payday loans in Dallas TX. Quick approval, same-day funding. No credit check. Apply online now at Lion Cash Advance!",
+        "canonicalUrl": "/services/payday-loans/dallas-tx",
+        "keywords": [
+          "payday loans",
+          "cash advance",
+          "fast loans",
+          "emergency cash",
+          "short-term loans",
+          "no credit check loans",
+          "same-day loans",
+          "quick loans"
+        ],
+        "localKeywords": [
+          "payday loans Dallas",
+          "cash advance Dallas TX",
+          "payday loans near me Dallas",
+          "fast cash Dallas",
+          "emergency loans Dallas",
+          "payday advance Dallas",
+          "quick loans Dallas TX",
+          "same-day payday loans Dallas"
+        ]
+      },
+
+      "hero": {
+        "h1": "Fast Payday Loans in Dallas",
+        "headline": "Get Cash Fast in Dallas, TX | Same-Day Approval",
+        "subheadline": "Quick Payday Loans with No Credit Check Required",
+        "ctaText": "Apply Now for Fast Cash",
+        "ctaUrl": "/apply?service=payday-loans&location=dallas"
+      },
+
+      "content": {
+        "description": "When you need cash fast in Dallas, Lion Cash Advance is here to help. Our payday loans provide quick access to emergency funds when unexpected expenses arise. Whether you're facing a medical bill, car repair, or other urgent financial need, we understand that sometimes you need money before your next paycheck. Our Dallas payday loan service offers fast approval, often with funds available the same day you apply. With minimal requirements and no credit check needed, we work with borrowers of all credit backgrounds. We've been serving the Dallas community for over 10 years, helping thousands of Texans get the cash they need quickly and conveniently. Apply online or visit one of our Dallas locations to get started today.",
+        "shortDescription": "Fast payday loans in Dallas with same-day approval. No credit check required. Emergency cash when you need it. Apply online or in-store at Lion Cash Advance.",
+        "whatIs": {
+          "heading": "What Are Payday Loans?",
+          "content": "A payday loan is a short-term cash advance designed to help you cover unexpected expenses until your next paycheck. Unlike traditional loans, payday loans are quick and easy to obtain, with minimal requirements and no lengthy credit checks. In Dallas, Lion Cash Advance offers payday loans that provide emergency cash exactly when you need it. You borrow a small amount, typically between $100-$500 in Dallas, and repay it on your next payday plus fees. The process is straightforward: apply online or in-person, get approved within minutes, and receive your cash the same day in most cases. Payday loans are designed for short-term financial emergencies, not long-term borrowing. If you're facing a temporary cash shortage in Dallas, a payday loan from Lion Cash Advance might be the solution you're looking for."
+        },
+        "benefits": [
+          "Fast approval - often approved within 15 minutes",
+          "Same-day funding - cash in your account the same day",
+          "No credit check - we work with all credit types",
+          "Minimal requirements - simple application process",
+          "Flexible repayment - repay when you get paid",
+          "No collateral needed - unsecured personal loan"
+        ],
+        "requirements": {
+          "heading": "Requirements for Dallas Payday Loans",
+          "items": [
+            "Must be 18 years or older with valid government ID",
+            "Proof of active checking account (required for deposit)",
+            "Proof of regular income (pay stub, bank statement, or employer letter)",
+            "Valid email address and phone number",
+            "Texas residency or Dallas employment"
+          ]
+        }
+      },
+
+      "process": {
+        "heading": "Simple 5-Step Application Process",
+        "steps": [
+          {
+            "step": 1,
+            "title": "Start Your Application",
+            "description": "Complete our quick online application or visit a Lion Cash Advance location in Dallas. It takes just 5 minutes and requires basic information."
+          },
+          {
+            "step": 2,
+            "title": "Provide Documentation",
+            "description": "Upload proof of income, ID, and banking information. We accept pay stubs, bank statements, and employer letters."
+          },
+          {
+            "step": 3,
+            "title": "Fast Approval",
+            "description": "Our Dallas team reviews your application and typically approves within 15 minutes. No credit check delays - we focus on income verification."
+          },
+          {
+            "step": 4,
+            "title": "Receive Your Cash",
+            "description": "Once approved, funds are transferred to your checking account. Most Dallas applicants receive their payday loan the same day."
+          },
+          {
+            "step": 5,
+            "title": "Easy Repayment",
+            "description": "Repay on your next payday. Automatic withdrawal from your checking account makes repayment simple and convenient."
+          }
+        ]
+      },
+
+      "loanDetails": {
+        "loanAmounts": {
+          "min": 100,
+          "max": 500,
+          "description": "$100 to $500 (amounts vary based on income and Texas lending regulations)"
+        },
+        "repaymentTerms": {
+          "description": "Payday loans in Dallas are designed to be repaid by your next paycheck, typically 14-30 days from the loan date.",
+          "examples": [
+            "14-day loans (two weeks)",
+            "30-day loans (one month)",
+            "Flexible terms based on your pay schedule"
+          ]
+        },
+        "fees": {
+          "description": "Dallas payday loan fees are clearly disclosed before you apply. Typical fees range from $15-$30 per $100 borrowed, but exact fees depend on the loan amount and term.",
+          "note": "Fees vary based on Texas state lending regulations and individual loan terms. Full fee disclosure provided at application."
+        },
+        "interestRates": {
+          "description": "Payday loan APR in Texas varies based on loan amount and term. Transparency is important to us - all rates are disclosed upfront.",
+          "note": "APR and fees are regulated by Texas Finance Code and will be fully explained during the application process."
+        }
+      },
+
+      "qualifications": {
+        "heading": "Who Qualifies for a Dallas Payday Loan?",
+        "requirements": [
+          "Must be 18 years or older with a valid government ID",
+          "Must have proof of regular monthly income",
+          "Must have an active checking account in your name",
+          "Must be a Dallas resident or work in the Dallas area",
+          "Must provide valid email and phone number"
+        ],
+        "creditNote": "Good news - we don't require perfect credit! Lion Cash Advance works with borrowers of all credit types, including those with bad credit, no credit, or prior financial issues. A payday loan may be possible even if you've been turned down elsewhere."
+      },
+
+      "whyChoose": {
+        "heading": "Why Choose Lion Cash Advance in Dallas?",
+        "reasons": [
+          {
+            "title": "Fast & Convenient",
+            "description": "Apply online from home or visit one of our Dallas locations. Get approved and funded the same day in most cases."
+          },
+          {
+            "title": "No Credit Check",
+            "description": "We don't perform traditional credit checks. Your credit history doesn't determine your approval - your current income does."
+          },
+          {
+            "title": "10+ Years Experience",
+            "description": "Lion Cash Advance has been serving Dallas families and individuals since 2014. We understand the Dallas market and local lending regulations."
+          },
+          {
+            "title": "Transparent Pricing",
+            "description": "No hidden fees. All costs and terms are disclosed upfront before you borrow. You'll know exactly what you're paying."
+          },
+          {
+            "title": "Flexible Terms",
+            "description": "Borrow the amount you need with flexible repayment options that work with your pay schedule."
+          },
+          {
+            "title": "Professional Service",
+            "description": "Our Dallas team treats you with respect and discretion. We understand financial emergencies happen, and we're here to help."
+          }
+        ]
+      },
+
+      "faq": [
+        {
+          "question": "How quickly can I get a payday loan in Dallas?",
+          "answer": "Most Dallas payday loan applications are approved within 15 minutes. Once approved, funds are typically transferred to your checking account the same day. Some applicants receive their cash within just a few hours of applying."
+        },
+        {
+          "question": "Do I need good credit to qualify for a payday loan in Dallas?",
+          "answer": "No! We don't perform traditional credit checks. Lion Cash Advance works with borrowers of all credit types - good credit, bad credit, no credit, or previous financial problems. We focus on your current income, not your credit history."
+        },
+        {
+          "question": "Can I apply for a payday loan online in Dallas?",
+          "answer": "Yes! You can apply online from anywhere in Dallas at any time. The entire process takes just 5 minutes. You can also visit one of our Dallas store locations to apply in person if you prefer."
+        },
+        {
+          "question": "What are the fees for a Dallas payday loan?",
+          "answer": "Payday loan fees in Dallas are regulated by Texas law. Typical fees range from $15-$30 per $100 borrowed for a 14-30 day loan. All fees are clearly disclosed before you apply, and you'll know exactly what you're paying."
+        },
+        {
+          "question": "What do I need to apply for a payday loan in Dallas?",
+          "answer": "To apply, you'll need: a valid government ID, proof of income (pay stub or bank statement), an active checking account, a valid email address, and a phone number. The application itself only takes 5 minutes to complete."
+        },
+        {
+          "question": "Can I get a payday loan in Dallas with bad credit?",
+          "answer": "Absolutely! Bad credit is not a problem for us. Many Dallas residents with poor credit, previous bankruptcies, or other credit issues have successfully obtained payday loans from Lion Cash Advance. Your income matters more than your credit score."
+        }
+      ],
+
+      "trustSignals": {
+        "licenses": [
+          "Texas Finance Code Compliance",
+          "Licensed Money Services Business",
+          "Regulated by Texas Office of Consumer Credit Commissioner (OCCC)"
+        ],
+        "certifications": [
+          "Certified Lending Partner",
+          "Consumer Protection Compliant",
+          "Data Security Certified"
+        ],
+        "yearsInBusiness": "10+ years",
+        "customerRating": "4.9 out of 5 stars",
+        "guarantees": [
+          "Transparent pricing - no hidden fees",
+          "Professional service - respectful treatment",
+          "Fast approval - typically approved in minutes",
+          "Privacy guaranteed - discreet process"
+        ]
+      },
+
+      "images": {
+        "heroImage": {
+          "url": "https://images.unsplash.com/photo-1579621970563-ebec5855b470?w=1200&h=600&fit=crop",
+          "alt": "Person using mobile phone to apply for payday loan in Dallas",
+          "caption": "Fast Online Payday Loans in Dallas with Same-Day Approval"
+        },
+        "gallery": [
+          {
+            "url": "https://images.unsplash.com/photo-1518634507261-51910d2dcf9d?w=600&h=400&fit=crop",
+            "alt": "Approved payday loan with cash in hand",
+            "caption": "Quick Approval & Fast Funding"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1460925895917-aeb19be489c7?w=600&h=400&fit=crop",
+            "alt": "Financial dashboard showing loan terms",
+            "caption": "Transparent Pricing & Clear Terms"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1551431009-381d36ac3a99?w=600&h=400&fit=crop",
+            "alt": "Professional customer service representative",
+            "caption": "Expert Support Available"
+          }
+        ]
+      },
+
+      "h2Headings": [
+        "What Are Payday Loans?",
+        "Benefits of Getting a Payday Loan in Dallas",
+        "Simple 5-Step Application Process",
+        "Why Choose Lion Cash Advance in Dallas?",
+        "Frequently Asked Questions About Dallas Payday Loans"
+      ],
+
+      "cta": {
+        "phone": "(214) 555-0123",
+        "email": "dallas@lioncashadvance.com",
+        "primaryCta": "Apply Now for Fast Cash",
+        "secondaryCta": "Call for a Fast Quote",
+        "ctaNote": "No credit check required! Apply online in 5 minutes."
+      },
+
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "FinancialService",
+        "name": "Payday Loans in Dallas - Lion Cash Advance",
+        "url": "https://lioncashadvance.com/services/payday-loans/dallas-tx",
+        "telephone": "(214) 555-0123",
+        "email": "dallas@lioncashadvance.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Main Store Location",
+          "addressLocality": "Dallas",
+          "addressRegion": "TX",
+          "postalCode": "75201",
+          "addressCountry": "US"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "1240"
+        },
+        "serviceArea": "Dallas, Texas area",
+        "areaServed": "TX",
+        "availableLanguage": "en",
+        "description": "Fast payday loans in Dallas with same-day approval and no credit check required."
+      }
+    },
+
+    {
+      "id": "installment-loans-houston-tx",
+      "service": "Installment Loans",
+      "serviceSlug": "installment-loans",
+      "location": "Houston",
+      "locationSlug": "houston-tx",
+      "serviceNiche": "Cash Advance Loans",
+      "businessName": "Lion Cash Advance",
+
+      "seo": {
+        "pageTitle": "Installment Loans Houston TX | Flexible Payments | Lion Cash Advance",
+        "metaDescription": "Get flexible installment loans in Houston with low monthly payments. No credit check. Apply online or in-store at Lion Cash Advance!",
+        "canonicalUrl": "/services/installment-loans/houston-tx",
+        "keywords": [
+          "installment loans",
+          "payment plans",
+          "flexible loans",
+          "personal loans",
+          "bad credit loans",
+          "monthly payment loans",
+          "affordable loans",
+          "quick approval"
+        ],
+        "localKeywords": [
+          "installment loans Houston",
+          "flexible loans Houston TX",
+          "installment loans near me Houston",
+          "monthly payment loans Houston",
+          "personal loans Houston",
+          "installment loans Houston no credit check",
+          "bad credit installment loans Houston",
+          "affordable loans Houston TX"
+        ]
+      },
+
+      "hero": {
+        "h1": "Installment Loans in Houston",
+        "headline": "Flexible Installment Loans in Houston, TX | Low Monthly Payments",
+        "subheadline": "Repay Over Time with Fixed Monthly Payments",
+        "ctaText": "Get Your Installment Loan Today",
+        "ctaUrl": "/apply?service=installment-loans&location=houston"
+      },
+
+      "content": {
+        "description": "Need more time to repay? Lion Cash Advance offers flexible installment loans in Houston that let you spread payments over time instead of repaying everything by your next paycheck. Our Houston installment loans are designed for borrowers who need more flexibility than a traditional payday loan. Instead of one large payment, you make manageable monthly installments that fit your budget. With loan amounts from $100 to $2,500, you can borrow what you need and repay over a period that works for you. No credit check required - we work with borrowers of all credit backgrounds. Houston residents can apply online in just 5 minutes or visit our local Houston locations. Get the cash you need today with payment terms that make sense for your financial situation.",
+        "shortDescription": "Flexible installment loans in Houston with manageable monthly payments. No credit check. Borrow up to $2,500 and repay over time. Apply now!",
+        "whatIs": {
+          "heading": "What Are Installment Loans?",
+          "content": "An installment loan is a flexible borrowing option where you repay the loan amount in several equal monthly payments rather than all at once. In Houston, Lion Cash Advance offers installment loans designed for borrowers who need more flexibility than payday loans. Instead of needing to repay everything on your next payday, installment loans allow you to spread payments over several months. For example, you might borrow $1,000 and repay it over 3-6 months with manageable monthly payments. This structure makes budgeting easier and reduces the financial strain of a large lump-sum payment. Installment loans in Houston are perfect for those facing larger expenses that need more time to repay. No credit check is required, and the application process is simple and fast."
+        },
+        "benefits": [
+          "Flexible repayment - pay over 3-12 months",
+          "Predictable payments - same amount each month",
+          "Larger loan amounts - up to $2,500 available",
+          "Budget-friendly - fits into monthly expenses",
+          "No credit check - work with all credit types",
+          "Build credit history - on-time payments help your credit"
+        ],
+        "requirements": {
+          "heading": "Requirements for Houston Installment Loans",
+          "items": [
+            "Must be 18 years or older with valid government ID",
+            "Proof of regular monthly income ($1,000+ monthly)",
+            "Active checking account in your name",
+            "Valid email address and phone number",
+            "Texas residency or Houston area employment"
+          ]
+        }
+      },
+
+      "process": {
+        "heading": "Get an Installment Loan in 5 Easy Steps",
+        "steps": [
+          {
+            "step": 1,
+            "title": "Complete Application",
+            "description": "Apply online or in-person at a Houston Lion Cash Advance location. Provide basic information and loan amount needed."
+          },
+          {
+            "step": 2,
+            "title": "Submit Documentation",
+            "description": "Upload proof of income and ID. We accept pay stubs, bank statements, and other income verification documents."
+          },
+          {
+            "step": 3,
+            "title": "Receive Approval",
+            "description": "Our Houston team reviews your information and approves your installment loan within 15-30 minutes."
+          },
+          {
+            "step": 4,
+            "title": "Get Your Funds",
+            "description": "Receive your loan amount via deposit to your checking account, usually the same day you apply."
+          },
+          {
+            "step": 5,
+            "title": "Make Monthly Payments",
+            "description": "Repay with fixed monthly payments deducted automatically from your account. Early repayment is always allowed."
+          }
+        ]
+      },
+
+      "loanDetails": {
+        "loanAmounts": {
+          "min": 100,
+          "max": 2500,
+          "description": "$100 to $2,500 (based on income and Texas lending regulations)"
+        },
+        "repaymentTerms": {
+          "description": "Installment loans in Houston offer flexible repayment periods from 3 to 12 months, depending on your loan amount and preference.",
+          "examples": [
+            "3-month payment plans",
+            "6-month payment plans",
+            "12-month payment plans",
+            "Custom terms available"
+          ]
+        },
+        "fees": {
+          "description": "Houston installment loan fees are transparent and disclosed upfront. Fees vary based on loan amount and repayment term.",
+          "note": "All fees comply with Texas Finance Code. You'll receive a clear Fee Schedule before agreeing to the loan."
+        },
+        "interestRates": {
+          "description": "Interest rates for Houston installment loans are competitive and disclosed upfront. Rates depend on loan amount, term, and income verification.",
+          "note": "All rates comply with Texas lending regulations. Compare our rates with other lenders in Houston."
+        }
+      },
+
+      "qualifications": {
+        "heading": "Qualification Requirements for Houston Installment Loans",
+        "requirements": [
+          "Must be 18 years or older with valid government ID",
+          "Monthly income of at least $1,000",
+          "Active checking account in your name",
+          "Houston area resident or employed in Houston",
+          "Valid email and phone number"
+        ],
+        "creditNote": "Bad credit is not a barrier to getting an installment loan from Lion Cash Advance. We work with borrowers with poor credit, no credit history, past bankruptcies, and other credit challenges. Your current income is what matters most."
+      },
+
+      "whyChoose": {
+        "heading": "Why Choose Lion Cash Advance Installment Loans?",
+        "reasons": [
+          {
+            "title": "Flexible Payment Plans",
+            "description": "Choose a repayment term that works for you - 3, 6, 9, or 12 months. Manageable monthly payments instead of one large payment."
+          },
+          {
+            "title": "Higher Loan Amounts",
+            "description": "Borrow up to $2,500, significantly more than payday loans. Get the cash you need for larger expenses."
+          },
+          {
+            "title": "Budget-Friendly",
+            "description": "Fixed monthly payments make budgeting easier. You always know exactly what your payment will be."
+          },
+          {
+            "title": "Fast Approval",
+            "description": "Get approved in 15-30 minutes. Funds typically in your account the same day or next business day."
+          },
+          {
+            "title": "No Credit Check",
+            "description": "We don't perform traditional credit checks. Your income qualifies you, regardless of credit history."
+          },
+          {
+            "title": "Build Your Credit",
+            "description": "On-time payments are reported to credit bureaus, helping you build or improve your credit score over time."
+          }
+        ]
+      },
+
+      "faq": [
+        {
+          "question": "What's the difference between installment loans and payday loans?",
+          "answer": "Payday loans are repaid in full by your next paycheck (typically 14-30 days). Installment loans allow you to repay over several months with equal monthly payments. Installment loans are better for larger amounts and when you need more time to repay."
+        },
+        {
+          "question": "Can I pay off my Houston installment loan early?",
+          "answer": "Yes! Early repayment is always allowed and encouraged. There are no penalties for paying off your installment loan early. Paying early can save you on interest charges."
+        },
+        {
+          "question": "How much can I borrow with an installment loan in Houston?",
+          "answer": "Installment loans through Lion Cash Advance range from $100 to $2,500 in Houston. Your loan amount depends on your income, loan term, and other factors."
+        },
+        {
+          "question": "How long do I have to repay an installment loan?",
+          "answer": "Repayment terms typically range from 3 to 12 months. You choose the term that works best for your budget and financial situation."
+        },
+        {
+          "question": "What happens if I miss a payment on my Houston installment loan?",
+          "answer": "We understand that financial emergencies happen. If you miss a payment, contact us immediately. We work with our borrowers to find solutions and may be able to adjust your payment schedule."
+        },
+        {
+          "question": "Will my installment loan help my credit score?",
+          "answer": "Yes! On-time installment loan payments are reported to credit bureaus. Making all your payments on time helps build a positive credit history and can improve your credit score."
+        }
+      ],
+
+      "trustSignals": {
+        "licenses": [
+          "Texas Finance Code Licensed",
+          "Registered Consumer Credit Corporation",
+          "Compliant with OCCC Regulations"
+        ],
+        "certifications": [
+          "Certified Lending Partner",
+          "Consumer Protection Verified",
+          "Data Security Certified"
+        ],
+        "yearsInBusiness": "10+ years",
+        "customerRating": "4.8 out of 5 stars",
+        "guarantees": [
+          "Transparent fees - all costs disclosed upfront",
+          "Flexible terms - 3-12 month options",
+          "Early repayment - no penalties",
+          "Professional service - respectful treatment"
+        ]
+      },
+
+      "images": {
+        "heroImage": {
+          "url": "https://images.unsplash.com/photo-1450101499163-c8917c7b4ebc?w=1200&h=600&fit=crop",
+          "alt": "Person managing flexible installment loan payments on laptop",
+          "caption": "Flexible Installment Loans with Manageable Monthly Payments"
+        },
+        "gallery": [
+          {
+            "url": "https://images.unsplash.com/photo-1556740721-2a63c424ce12?w=600&h=400&fit=crop",
+            "alt": "Monthly budget planning with installment payments",
+            "caption": "Flexible Payment Plans"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1526374965328-7f5ae4e8015b?w=600&h=400&fit=crop",
+            "alt": "Building credit with loan payments",
+            "caption": "Build Your Credit History"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1553531889-e6cf89d1030f?w=600&h=400&fit=crop",
+            "alt": "Easy online loan management",
+            "caption": "Manage Your Loan Online"
+          }
+        ]
+      },
+
+      "h2Headings": [
+        "What Are Installment Loans?",
+        "Benefits of Installment Loans in Houston",
+        "Flexible Payment Terms Available",
+        "Why Choose Lion Cash Advance in Houston?",
+        "Frequently Asked Questions About Installment Loans"
+      ],
+
+      "cta": {
+        "phone": "(713) 555-0456",
+        "email": "houston@lioncashadvance.com",
+        "primaryCta": "Apply for Installment Loan",
+        "secondaryCta": "Get a Loan Quote",
+        "ctaNote": "Flexible 3-12 month terms available. Apply in 5 minutes!"
+      },
+
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "FinancialService",
+        "name": "Installment Loans in Houston - Lion Cash Advance",
+        "url": "https://lioncashadvance.com/services/installment-loans/houston-tx",
+        "telephone": "(713) 555-0456",
+        "email": "houston@lioncashadvance.com",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Houston Location",
+          "addressLocality": "Houston",
+          "addressRegion": "TX",
+          "postalCode": "77002",
+          "addressCountry": "US"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "980"
+        },
+        "serviceArea": "Houston, Texas area",
+        "areaServed": "TX",
+        "availableLanguage": "en",
+        "description": "Flexible installment loans in Houston with manageable monthly payments and no credit check required."
+      }
+    }
+  ]
+}

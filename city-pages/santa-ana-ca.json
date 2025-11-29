@@ -1,0 +1,218 @@
+{
+  "id": "santa-ana-ca",
+  "city": "Santa Ana",
+  "slug": "santa-ana",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Orange County",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans in Santa Ana, CA | Orange County Fast Cash | Lion Cash Advance",
+    "metaDescription": "Get fast cash in Santa Ana, Orange County. Same-day approval at our downtown location. Borrow $100-$300 today. Licensed & compliant with California regulations.",
+    "canonicalUrl": "/locations/california/santa-ana",
+    "keywords": ["cash advance santa ana", "payday loans santa ana ca", "fast cash santa ana", "emergency loans orange county"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Santa Ana, California",
+    "subheadline": "Quick approval in the heart of Orange County",
+    "ctaText": "Apply Now for Santa Ana Cash",
+    "ctaUrl": "/apply?location=santa-ana-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=santa+ana+ca+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Visit Lion Cash Advance in Downtown Santa Ana",
+    "directions": "We are conveniently located at 702 South Broadway, right in the heart of Downtown Santa Ana near the Santa Ana Zoo and the historic Bowers Museum. If you're taking I-5, take Exit 106A toward Santa Ana Boulevard. Our location is easily accessible from the major commercial hub of Broadway in Orange County's county seat.",
+    "landmarks": ["Santa Ana Zoo", "Bowers Museum", "Downtown Santa Ana"],
+    "highway": "I-5",
+    "exit": "Exit 106A",
+    "neighborhoodName": "Downtown Santa Ana",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3328.2!2d-117.87!3d33.74!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcc!2m2!1d-117.87!2d33.74!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Santa Ana",
+    "street": "702 South Broadway, Suite 200",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92701",
+    "phone": "(714) 555-0156",
+    "formattedPhone": "+17145550156",
+    "formattedAddress": "702 South Broadway, Suite 200, Santa Ana, CA 92701",
+    "coordinates": {
+      "latitude": 33.7382,
+      "longitude": -117.8693
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=33.7382,-117.8693"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Options in Santa Ana",
+    "intro": "Santa Ana residents have quick access to emergency cash through multiple options at our Broadway location:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Quick cash loans up to $300 with flexible payment terms",
+        "anchorText": "Get a payday loan"
+      },
+      {
+        "name": "Cash Advance Loans",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Instant approval with minimal paperwork",
+        "anchorText": "Apply for cash advance"
+      },
+      {
+        "name": "Personal Loans",
+        "slug": "personal-loans",
+        "url": "/services/personal-loans",
+        "description": "Unsecured personal loans for any purpose",
+        "anchorText": "Explore personal loans"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply from home and pick up cash in person",
+        "anchorText": "Apply online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Laws in Santa Ana",
+    "content": "Santa Ana residents in Orange County are protected by California's Deferred Deposit Transaction Law, one of the most comprehensive payday loan regulations in the United States. The California Department of Financial Protection and Innovation (DFPI) enforces strict limits on loan amounts, fees, and lending practices.",
+    "keyPoints": [
+      "Maximum loan: $300 total including fees (typical cash: $255 plus $45 fee)",
+      "Maximum fee: 15% of check amount or $45, whichever is less",
+      "APR: Approximately 460% for a standard 14-day loan",
+      "Loan term: Must be 31 days or less",
+      "One loan per person: Cannot have multiple payday loans at once",
+      "No loan rollovers: Cannot extend or refinance a payday loan for additional fees",
+      "Criminal prosecution prohibited: Lenders cannot sue you criminally for non-payment",
+      "Single NSF charge: Only one $15 fee per bounced check",
+      "Full disclosure: All fees clearly stated in dollars and APR before signing"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for general education only and does not constitute legal advice. Payday loan laws may change. For current information, contact DFPI at 1-866-275-2677 or dfpi.ca.gov. Consult a California attorney for legal questions about your situation. Lender terms vary within California law limits."
+  },
+
+  "localReviews": {
+    "headline": "Santa Ana Customer Reviews",
+    "locationId": "santa-ana-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Carmen D.",
+        "rating": 5,
+        "text": "Excellent service right downtown near the Zoo. The staff was professional and explained everything clearly. Got my cash same day. Very recommended!",
+        "date": "2024-11-18"
+      },
+      {
+        "name": "Juan M.",
+        "rating": 5,
+        "text": "Fast and efficient. Easy to find on Broadway. The whole process took about 30 minutes. Great place for emergency cash in Santa Ana.",
+        "date": "2024-10-12"
+      },
+      {
+        "name": "Patricia G.",
+        "rating": 4,
+        "text": "Good experience. Clear explanations of fees and terms. Located conveniently in downtown Santa Ana, easy parking nearby.",
+        "date": "2024-09-05"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Orange County Communities",
+    "intro": "If you're near Santa Ana, we also have locations in these Orange County cities:",
+    "cities": [
+      {"name": "Anaheim", "slug": "anaheim", "url": "/locations/california/anaheim", "distanceMiles": 8},
+      {"name": "Garden Grove", "slug": "garden-grove", "url": "/locations/california/garden-grove", "distanceMiles": 4},
+      {"name": "Tustin", "slug": "tustin", "url": "/locations/california/tustin", "distanceMiles": 10},
+      {"name": "Irvine", "slug": "irvine", "url": "/locations/california/irvine", "distanceMiles": 12}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Santa Ana location?",
+      "answer": "We're at 702 South Broadway, Suite 200, in downtown Santa Ana near the Santa Ana Zoo. Take I-5 Exit 106A toward Santa Ana Boulevard for easy directions. We have convenient parking and easy access."
+    },
+    {
+      "question": "What do I need to bring for a cash advance in Santa Ana?",
+      "answer": "Bring a valid government ID, recent pay stub or bank statement proving income, and your active checking account information. That's all you need in most cases."
+    },
+    {
+      "question": "What's the maximum loan amount in California?",
+      "answer": "California law limits payday loans to $300 total. This includes the cash you receive plus the fee. Typically, you'll get $255 in cash with a $45 fee. The exact amount depends on your income and creditworthiness."
+    },
+    {
+      "question": "How fast can I get approved in Santa Ana?",
+      "answer": "Most Santa Ana residents are approved and receive their cash in 30 minutes or less. We have a quick verification process and can process applications on the spot."
+    },
+    {
+      "question": "Are there any extra fees I should know about?",
+      "answer": "No hidden fees. California requires all payday lenders to disclose every fee upfront in both dollars and APR. We fully comply with California law - no surprises."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Fast Cash in Santa Ana Today",
+    "subheadline": "Visit our downtown location or apply online",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=santa-ana-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (714) 555-0156",
+      "url": "tel:+17145550156"
+    },
+    "address": "702 South Broadway, Suite 200, Santa Ana, CA 92701"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Santa Ana", "url": "/locations/california/santa-ana"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Santa Ana downtown location",
+      "caption": "Our professional Santa Ana branch near the Zoo"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0"
+  }
+}

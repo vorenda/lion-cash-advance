@@ -1,0 +1,47 @@
+{
+  "name": "lioncash-advance",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build --webpack",
+    "start": "next start",
+    "lint": "next lint",
+    "db:setup": "docker start lioncash_db || docker run --name lioncash_db -e POSTGRES_PASSWORD=lioncash123 -e POSTGRES_DB=lioncash -p 5434:5432 -d postgres:16-alpine",
+    "db:migrate": "npx prisma migrate dev",
+    "db:studio": "npx prisma studio",
+    "db:push": "npx prisma db push",
+    "db:generate": "npx prisma generate",
+    "payload:generate": "payload generate:types",
+    "payload:import": "npx tsx scripts/import-data.ts"
+  },
+  "dependencies": {
+    "@payloadcms/db-postgres": "^3.65.0",
+    "@payloadcms/next": "^3.65.0",
+    "@payloadcms/richtext-lexical": "^3.65.0",
+    "@prisma/adapter-pg": "^7.0.1",
+    "@prisma/client": "^7.0.1",
+    "dotenv": "^17.2.3",
+    "graphql": "^16.12.0",
+    "next": "^16.0.5",
+    "payload": "^3.65.0",
+    "prisma": "^7.0.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.22",
+    "eslint": "^8",
+    "eslint-config-next": "^14.2.18",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5"
+  }
+}

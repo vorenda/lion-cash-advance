@@ -1,0 +1,339 @@
+{
+  "state": "Florida",
+  "stateCode": "FL",
+  "serviceNiche": "Cash Advance Loans",
+  "lastUpdated": "2025-01-15",
+  "lastVerified": "2025-01-15",
+  "researchSources": [
+    "Florida Office of Financial Regulation (OFR)",
+    "Florida Statutes Chapter 560 - Money Services Businesses",
+    "Florida Administrative Code Rule 69V-560",
+    "Consumer Financial Protection Bureau (CFPB)"
+  ],
+  "legalStatus": {
+    "isLegal": true,
+    "loanTypeAllowed": "Deferred Presentment Transactions (Payday Loans)",
+    "restrictions": "Heavily regulated under Florida Statutes Chapter 560",
+    "notes": "Florida calls payday loans 'Deferred Presentment Transactions' and has some of the most comprehensive consumer protection laws in the nation for this product"
+  },
+  "regulations": {
+    "singlePaymentLoans": {
+      "maxLoanAmount": "$500 (excluding fees)",
+      "minLoanAmount": "No statutory minimum",
+      "maxFeeRate": "10% of loan amount",
+      "verificationFee": "$5 maximum",
+      "effectiveAPR": "Typically 260-456% APR (based on $15-$20 per $100 borrowed for 14-day term)",
+      "maxLoanTerm": "31 days",
+      "minLoanTerm": "7 days",
+      "allowsRollover": false,
+      "rolloverLimit": "Prohibited by law",
+      "coolingOffPeriod": "24 hours between loans",
+      "paymentPlanRequired": false,
+      "databaseRequired": true,
+      "databaseName": "Deferred Presentment Transaction System (fladpp.com)"
+    },
+    "installmentLoans": {
+      "maxLoanAmount": "$1,000 (excluding fees)",
+      "minLoanAmount": "No statutory minimum",
+      "maxFeeRate": "8% of outstanding balance on biweekly basis (simple interest)",
+      "verificationFee": "$5 maximum",
+      "effectiveAPR": "Approximately 208% APR annualized",
+      "maxLoanTerm": "90 days",
+      "minLoanTerm": "60 days",
+      "allowsRollover": false,
+      "paymentSchedule": "13 days to 1 month between payments",
+      "deferredPaymentAllowed": "One deferred payment per loan",
+      "fullyAmortizing": true
+    },
+    "oneLoanAtATime": true,
+    "statewideDatabaseTracking": true
+  },
+  "fees": {
+    "singlePayment": {
+      "maxOriginationFee": "10% of loan amount",
+      "exampleOn500Loan": "$50 transaction fee",
+      "verificationFee": "Up to $5 for identity/employment verification",
+      "totalFeesOn500Loan": "$50-$55",
+      "collectionTiming": "Fees collected when check is presented or redeemed, not upfront"
+    },
+    "installment": {
+      "maxOriginationFee": "8% of outstanding balance biweekly (simple interest)",
+      "verificationFee": "Up to $5 (collected at first payment)",
+      "exampleOn1000Loan": "$80-$85 per biweekly period on initial balance",
+      "extraDaysRate": "0.57142% per day for first installment period if longer"
+    },
+    "prohibitedFees": [
+      "Application fees",
+      "Setup fees",
+      "Debit card transaction fees",
+      "Debit card convenience fees",
+      "Prepayment penalties",
+      "NSF fees from lender (bank may charge)",
+      "Late payment fees",
+      "Any fees not specifically authorized by statute"
+    ]
+  },
+  "licensing": {
+    "required": true,
+    "licenseType": "Money Services Business License (Chapter 560, Part II or Part III)",
+    "additionalRegistration": "Declaration of Intent to Engage in Deferred Presentment Transactions (Form OFR-560-03)",
+    "registrationFee": "$1,000",
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR), Division of Consumer Finance",
+    "regulatoryUrl": "https://flofr.gov",
+    "verificationUrl": "https://flofr.gov/education/verify-a-license",
+    "contactPhone": "(850) 487-9687",
+    "quarterlyReporting": true,
+    "databaseParticipation": "Mandatory use of statewide Deferred Presentment Transaction System"
+  },
+  "consumerProtections": {
+    "oneLoanLimit": {
+      "description": "Borrowers may only have one outstanding payday loan at any time statewide",
+      "enforcement": "Tracked through mandatory statewide database",
+      "verificationRequired": "Lenders must check database before issuing loan",
+      "penalty": "Borrower must sign statement confirming no other outstanding loans"
+    },
+    "coolingOffPeriod": {
+      "duration": "24 hours",
+      "description": "Borrower must wait 24 hours after paying off one loan before taking out another",
+      "purpose": "Prevents loan rollovers and gives consumers time to consider alternatives"
+    },
+    "gracePeriod": {
+      "available": true,
+      "period": "60 days (for single-payment loans)",
+      "cost": "No additional charge",
+      "conditions": [
+        "Borrower must inform provider in person they cannot pay in full",
+        "Must make appointment with credit counseling agency within 7 days",
+        "Must complete credit counseling within the 60-day grace period"
+      ],
+      "notes": "Provider must give list of approved nonprofit credit counseling agencies"
+    },
+    "deferredPayment": {
+      "available": true,
+      "applicableTo": "Installment loans only",
+      "period": "One payment can be deferred until after last scheduled payment",
+      "cost": "No additional fee or charge",
+      "notice": "Must notify provider in writing or in person by noon the business day before scheduled payment",
+      "limit": "Only one deferred payment allowed per loan"
+    },
+    "rightToRescind": {
+      "available": false,
+      "period": "N/A",
+      "notes": "Florida does not have a state-mandated rescission period for payday loans, but borrowers can pay off early without penalty"
+    },
+    "requiredDisclosures": [
+      "Federal Truth-in-Lending Act (TILA) disclosures (12 C.F.R. Part 1026)",
+      "Total amount to be repaid",
+      "APR and finance charges",
+      "Payment schedule with due dates",
+      "Length of deferment period",
+      "Transaction number from state database",
+      "Notice that borrower cannot have more than one loan at a time",
+      "Notice that rollovers are prohibited",
+      "Notice about grace period availability",
+      "Notice that borrower cannot be criminally prosecuted",
+      "List of approved credit counseling agencies (if grace period invoked)"
+    ],
+    "prohibitedPractices": [
+      "Rollovers or extensions of existing loans",
+      "Consolidating loans from same or affiliated lenders",
+      "Issuing loan to borrower with outstanding loan elsewhere",
+      "Issuing loan within 24 hours of previous loan payoff",
+      "Requiring additional security or guarantors",
+      "Hold harmless clauses",
+      "Confession of judgment clauses",
+      "Wage assignments",
+      "Waivers of borrower rights",
+      "Requiring purchase of other products/services",
+      "Collecting fees before check is presented or redeemed",
+      "Prepayment penalties",
+      "Threatening criminal prosecution for non-payment"
+    ],
+    "prohibitedContractTerms": [
+      "Hold harmless clause",
+      "Confession of judgment clause",
+      "Assignment of wages",
+      "Agreements not to assert claims or defenses",
+      "Waivers of statutory protections"
+    ],
+    "collectionRules": {
+      "criminalProsecution": "Prohibited - borrower cannot be prosecuted in criminal court for unpaid payday loan check",
+      "civilRemedies": "All legally available civil means may be pursued",
+      "checkPresentation": "Provider may deposit check on due date or reasonable time thereafter",
+      "electronicWithdrawal": "Allowed if authorized by borrower",
+      "gracePeriodProtection": "Cannot deposit check during 60-day grace period if borrower complies with counseling requirements",
+      "harassment": "Subject to Fair Debt Collection Practices Act (FDCPA) prohibitions"
+    },
+    "creditCounseling": {
+      "required": "For grace period eligibility",
+      "agencies": "Nonprofit agencies affiliated with National Foundation for Credit Counseling",
+      "availability": "In person, by telephone, or through Internet",
+      "providerObligation": "Must provide updated list of approved agencies annually",
+      "costSharing": "If borrower completes payment plan, provider pays half the borrower's counseling fee to the agency"
+    }
+  },
+  "recentChanges": [
+    {
+      "date": "2025-05-21",
+      "change": "Updated Rule 69V-560.905 on deferred presentment transaction fees and verification fee collection timing for installment loans",
+      "source": "Florida Administrative Code Rule 69V-560.905"
+    },
+    {
+      "date": "2025-03-30",
+      "change": "CFPB payday loan protections took effect nationally (federal regulation)",
+      "source": "Consumer Financial Protection Bureau",
+      "impact": "Additional federal protections complement Florida state law"
+    },
+    {
+      "date": "2024-08-09",
+      "change": "CFO Patronis issued consumer alert about unregulated lending products (Earned Wage Access, Buy Now Pay Later) that circumvent Florida protections",
+      "source": "Florida CFO Consumer Alert",
+      "notes": "Warning about products not subject to Chapter 560 regulations"
+    },
+    {
+      "date": "2018-07-01",
+      "change": "Florida Statutes Chapter 560.404 amended to add provisions for deferred presentment installment transactions",
+      "source": "Chapter 2018-26, Florida Laws"
+    }
+  ],
+  "cityPageContent": {
+    "complianceSection": "Florida is recognized as having some of the strongest consumer protections for payday loans in the United States. Under Florida law, cash advance loans (officially called 'Deferred Presentment Transactions') are legal but heavily regulated by the Florida Office of Financial Regulation. Residents of {{city}} benefit from these comprehensive state protections.\n\nFlorida law caps single-payment payday loans at $500 with a maximum fee of 10% of the loan amount, plus a $5 verification fee. This means on a $500 loan, you would pay no more than $55 in fees. For installment payday loans, the maximum is $1,000 with fees capped at 8% of the outstanding balance on a biweekly basis. All lenders must comply with federal Truth-in-Lending Act disclosure requirements, ensuring you understand the total cost before you borrow.\n\nOne of Florida's most important protections is the 'one loan at a time' rule. You cannot have more than one payday loan outstanding anywhere in Florida, and you must wait 24 hours after paying off one loan before taking out another. This is enforced through a mandatory statewide database that all licensed lenders must check. Additionally, loan rollovers and extensions are strictly prohibited, preventing the debt trap cycles common in states with weaker regulations.",
+    "consumerProtectionText": "If you find yourself unable to repay your payday loan on time, Florida law provides a safety net. For single-payment loans, if you inform your lender in person that you cannot pay in full, you are entitled to a 60-day grace period at no additional cost. To qualify, you must make an appointment with a nonprofit credit counseling agency within 7 days and complete the counseling within 60 days. Your lender is required to provide you with a list of approved agencies. For installment loans, you can defer one payment to the end of your loan term without any additional fees by notifying your lender by noon the business day before the payment is due.\n\nFlorida law also protects you from criminal prosecution for an unpaid payday loan check, though lenders may pursue civil collection remedies. Lenders are prohibited from requiring additional security, wage assignments, or forcing you to waive your legal rights. They cannot collect fees upfront and cannot charge prepayment penalties if you want to pay off your loan early. All payday lenders operating in {{city}} must be licensed by the Florida Office of Financial Regulation, and you can verify their license status online or by calling (850) 487-9687.",
+    "disclaimers": [
+      "This information is provided for general educational purposes only and should not be construed as legal or financial advice.",
+      "Payday loan laws and regulations are subject to change. This information was last verified on January 15, 2025, and may not reflect the most current legal developments.",
+      "For the most accurate and up-to-date information about Florida payday loan regulations, please contact the Florida Office of Financial Regulation at (850) 487-9687 or visit flofr.gov.",
+      "If you are considering a payday loan, we strongly recommend exploring alternatives such as payment plans with creditors, credit counseling, community assistance programs, or small loans from credit unions.",
+      "Consult with a licensed financial advisor or attorney regarding your specific situation before making borrowing decisions.",
+      "While payday loans can provide quick access to cash in emergencies, they come with high costs and should only be used when all other options have been exhausted."
+    ],
+    "keyPoints": [
+      "All payday lenders in Florida must be licensed by the Florida Office of Financial Regulation",
+      "You can only have one payday loan at a time in Florida, enforced by statewide database",
+      "Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee",
+      "Installment loans are capped at $1,000 with maximum 8% biweekly fee on outstanding balance",
+      "You must wait 24 hours after paying off one loan before taking out another",
+      "Loan rollovers and extensions are prohibited by law",
+      "If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling",
+      "You cannot be criminally prosecuted for an unpaid payday loan",
+      "Prepayment penalties are prohibited - you can pay off early without extra cost",
+      "All lenders must provide Truth-in-Lending Act disclosures showing total cost and APR"
+    ],
+    "headline": "Understanding Cash Advance Laws in Florida",
+    "intro": "Residents of {{city}} are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance.",
+    "regulatoryContact": {
+      "agency": "Florida Office of Financial Regulation",
+      "division": "Division of Consumer Finance",
+      "phone": "(850) 487-9687",
+      "website": "https://flofr.gov",
+      "verifyLicense": "https://flofr.gov/education/verify-a-license",
+      "fileComplaint": "https://flofr.gov/enforcement/submit-a-complaint-or-tip"
+    },
+    "creditCounselingResources": {
+      "description": "Florida requires lenders to provide access to nonprofit credit counseling agencies",
+      "affiliatedWith": "National Foundation for Credit Counseling",
+      "availability": "In person, by telephone, or online",
+      "listProvider": "Florida Office of Financial Regulation maintains updated list",
+      "costNote": "If you complete an approved payment plan through counseling, your lender must pay half your counseling fee to the agency"
+    },
+    "alternatives": [
+      "Free credit counseling from nonprofit agencies",
+      "Small loans from local credit unions (typically lower rates)",
+      "Payment plans with creditors",
+      "Community assistance programs",
+      "Emergency assistance from local charities and churches",
+      "Paycheck advances from your employer",
+      "Local United Way or Salvation Army programs"
+    ],
+    "warningAboutUnregulatedProducts": "Be aware that some financial products marketed as alternatives to payday loans, such as 'Earned Wage Access' apps and 'Buy Now Pay Later' services, are NOT regulated under Florida's consumer protection laws. These unregulated products may not have the same caps on fees, interest rates, or protections against multiple loans. The Florida CFO has issued consumer alerts warning that these products can lead to dangerous debt cycles without the safeguards that protect Florida payday loan borrowers."
+  },
+  "technicalDetails": {
+    "statutoryAuthority": "Florida Statutes Chapter 560, Part IV (Sections 560.401-560.406)",
+    "administrativeRules": "Florida Administrative Code Rule 69V-560",
+    "federalCompliance": "12 C.F.R. Part 1026 (Truth-in-Lending Act, Regulation Z)",
+    "databaseSystem": {
+      "name": "Deferred Presentment Transaction System",
+      "website": "http://www.fladpp.com",
+      "purpose": "Real-time verification of outstanding loans statewide",
+      "access": "Internet connection required for all lenders",
+      "dataRequired": [
+        "Borrower name",
+        "Social Security Number or Employment Authorization Alien Number",
+        "Address",
+        "Driver license number",
+        "Transaction amount",
+        "Transaction date",
+        "Transaction close date"
+      ],
+      "databaseFee": "$1 per transaction for single-payment loans; $1 per full or partial 30-day period for installment loans"
+    },
+    "APRCalculationExample": {
+      "loanAmount": 500,
+      "fee": 50,
+      "totalRepayment": 550,
+      "term": "14 days",
+      "calculation": "(50 ÷ 500) × (365 ÷ 14) × 100 = 260.7% APR",
+      "note": "APR is high even with Florida's fee caps due to short loan term"
+    },
+    "installmentAPRExample": {
+      "loanAmount": 1000,
+      "feeRate": "8% biweekly on outstanding balance",
+      "annualizedAPR": "Approximately 208% APR",
+      "calculation": "8% × 26 biweekly periods per year = 208% APR",
+      "note": "Actual APR may be lower due to declining balance and simple interest calculation"
+    }
+  },
+  "comparisonToOtherStates": {
+    "strictnessLevel": "Moderate to Strict",
+    "notableStrengths": [
+      "Mandatory statewide database prevents multiple concurrent loans",
+      "24-hour cooling-off period between loans",
+      "Prohibition on rollovers and extensions",
+      "60-day grace period with free credit counseling",
+      "Clear fee caps (10% for single-payment, 8% biweekly for installment)",
+      "Prohibition on criminal prosecution",
+      "Comprehensive required disclosures",
+      "Strong prohibited practices list"
+    ],
+    "comparedToTexas": "Much stricter - Texas has no APR caps and allows CAB model with unlimited fees; Florida caps fees at 10% for single-payment loans",
+    "comparedToCalifornia": "Similar - both cap rates around 30-36% APR and prohibit rollovers",
+    "comparedToColorado": "Less strict - Colorado caps at 36% APR; Florida's fees result in 260-456% APR",
+    "ranking": "Florida ranks in the middle tier nationally - stronger than states with no caps (TX, NV, UT) but less restrictive than states with 36% APR caps (CO, IL, NY)"
+  },
+  "consumerAdvice": {
+    "beforeBorrowing": [
+      "Verify the lender is licensed at flofr.gov/education/verify-a-license",
+      "Understand the total cost including all fees",
+      "Calculate the APR and compare to alternatives",
+      "Ensure you can afford to repay in full on the due date",
+      "Consider alternatives like credit union loans, payment plans, or community assistance",
+      "Read all disclosures carefully before signing",
+      "Keep copies of all loan documents"
+    ],
+    "ifYouCantRepay": [
+      "Inform your lender IN PERSON before the due date to trigger grace period eligibility",
+      "Request the list of approved credit counseling agencies",
+      "Make your counseling appointment within 7 days",
+      "Complete the counseling within 60 days to maintain grace period protection",
+      "Do not take out additional loans during this period",
+      "Work with the counseling agency on a repayment plan"
+    ],
+    "redFlags": [
+      "Lender cannot provide license number or verification",
+      "Lender offers to roll over or extend your loan",
+      "Lender tries to issue second loan before 24-hour cooling-off period",
+      "Lender charges fees not authorized by Florida law",
+      "Lender requires upfront fees before check is presented",
+      "Lender threatens criminal prosecution for non-payment",
+      "Lender is based online outside Florida and claims state law doesn't apply",
+      "Lender requires wage assignment or additional security"
+    ],
+    "howToComplain": {
+      "agency": "Florida Office of Financial Regulation",
+      "phone": "(850) 487-9687",
+      "website": "https://flofr.gov/enforcement/submit-a-complaint-or-tip",
+      "process": "File complaint online or by phone; OFR will investigate licensed lenders",
+      "documentation": "Keep all loan agreements, payment records, and correspondence"
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "id": "stockton-ca",
+  "city": "Stockton",
+  "slug": "stockton",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "San Joaquin",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans in Stockton, CA | Near Bob Hope Theater | Lion Cash Advance",
+    "metaDescription": "Get fast cash in Stockton, San Joaquin County. Our downtown location is near the Bob Hope Theater. Same-day approval and pickup available.",
+    "canonicalUrl": "/locations/california/stockton",
+    "keywords": ["cash advance stockton", "payday loans stockton ca", "fast cash stockton", "emergency loans san joaquin"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Stockton, California",
+    "subheadline": "Quick approval in San Joaquin County's largest city",
+    "ctaText": "Apply Now for Stockton Cash",
+    "ctaUrl": "/apply?location=stockton-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=stockton+ca+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Visit Lion Cash Advance in Stockton",
+    "directions": "We are conveniently located at 445 West Main Street, just blocks from the Bob Hope Theater and near the beautiful Stockton Delta Waterways, iconic landmarks in downtown Stockton. If you're taking I-5, take Exit 469 toward downtown Stockton. Our location is easily accessible on West Main Street, the commercial heart of San Joaquin County.",
+    "landmarks": ["Bob Hope Theater", "Stockton Delta Waterways", "Haggin Museum"],
+    "highway": "I-5",
+    "exit": "Exit 469",
+    "neighborhoodName": "Downtown Stockton",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3319.2!2d-121.29!3d37.95!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8090!2m2!1d-121.29!2d37.95!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Stockton",
+    "street": "445 West Main Street, Suite 110",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95202",
+    "phone": "(209) 555-0312",
+    "formattedPhone": "+12095550312",
+    "formattedAddress": "445 West Main Street, Suite 110, Stockton, CA 95202",
+    "coordinates": {
+      "latitude": 37.9577,
+      "longitude": -121.2945
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=37.9577,-121.2945"
+  },
+
+  "productLinks": {
+    "headline": "Quick Cash Solutions in Stockton",
+    "intro": "San Joaquin County residents have reliable access to emergency cash at our downtown Stockton location:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Quick cash loans up to $300 with flexible terms",
+        "anchorText": "Get a payday loan"
+      },
+      {
+        "name": "Cash Advance Loans",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Fast approval with minimal paperwork",
+        "anchorText": "Apply for cash advance"
+      },
+      {
+        "name": "Emergency Cash Loans",
+        "slug": "emergency-loans",
+        "url": "/services/emergency-loans",
+        "description": "Fast cash for unexpected expenses",
+        "anchorText": "Get emergency cash"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply online anytime",
+        "anchorText": "Apply online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Regulations in Stockton",
+    "content": "Stockton residents are protected by California's Deferred Deposit Transaction Law, one of the nation's strictest payday loan regulations. The California Department of Financial Protection and Innovation (DFPI) ensures lenders comply with borrower protections and fee limits.",
+    "keyPoints": [
+      "Maximum loan: $300 including all fees (typical $255 cash with $45 fee)",
+      "Fee limit: 15% of check face amount, maximum $45",
+      "APR: Approximately 460% for 14-day loans",
+      "Term limit: Maximum 31 days",
+      "Single loan only: Cannot have multiple payday loans at once",
+      "No rollovers: Cannot refinance or extend loans for additional fees",
+      "Criminal prosecution prohibited: Cannot sue or threaten criminal action",
+      "One NSF fee: Only $15 per bounced check",
+      "Transparent fees: All costs disclosed in dollars and APR"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for general educational purposes only. Payday loan laws may change. For current information, contact the DFPI at 1-866-275-2677 or dfpi.ca.gov. Consult a California attorney for specific legal guidance. Individual lender terms vary within state law limits."
+  },
+
+  "localReviews": {
+    "headline": "Stockton Customer Reviews",
+    "locationId": "stockton-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Michael J.",
+        "rating": 5,
+        "text": "Great experience at the Main Street location. Very quick process, friendly staff, and easy to find near downtown. Got approved and had cash in 30 minutes.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Lisa H.",
+        "rating": 5,
+        "text": "Professional service in Stockton. Clear explanation of all terms and fees. Close to the Bob Hope Theater area, convenient parking available.",
+        "date": "2024-10-14"
+      },
+      {
+        "name": "Tony M.",
+        "rating": 4,
+        "text": "Good service and quick approval in Stockton. Helpful staff who answered all my questions. Would recommend to others.",
+        "date": "2024-09-09"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving San Joaquin County",
+    "intro": "We also serve these neighboring San Joaquin County communities:",
+    "cities": [
+      {"name": "Lodi", "slug": "lodi", "url": "/locations/california/lodi", "distanceMiles": 30},
+      {"name": "Tracy", "slug": "tracy", "url": "/locations/california/tracy", "distanceMiles": 32},
+      {"name": "Escalon", "slug": "escalon", "url": "/locations/california/escalon", "distanceMiles": 35},
+      {"name": "Acampo", "slug": "acampo", "url": "/locations/california/acampo", "distanceMiles": 28}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Stockton location?",
+      "answer": "We're at 445 West Main Street, Suite 110, in downtown Stockton near the Bob Hope Theater. Take I-5 Exit 469 toward downtown. Easy parking and convenient access."
+    },
+    {
+      "question": "What documents do I need in Stockton?",
+      "answer": "Bring a valid government ID, recent pay stub or bank statements for income verification, and your active checking account. That's typically all we need."
+    },
+    {
+      "question": "What's the maximum loan amount?",
+      "answer": "California limits payday loans to $300 total including fees. You'll typically receive $255 cash with a $45 fee under our standard 15% fee cap."
+    },
+    {
+      "question": "How fast is the approval process?",
+      "answer": "Most Stockton residents are approved and receive cash within 30 minutes at our downtown location. We have a quick verification process."
+    },
+    {
+      "question": "Are your fees clear and upfront?",
+      "answer": "Yes. California law requires full disclosure. All fees are stated in dollars and APR before you sign. No hidden charges."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Fast Cash in Stockton Today",
+    "subheadline": "Visit our downtown location or apply online",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=stockton-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (209) 555-0312",
+      "url": "tel:+12095550312"
+    },
+    "address": "445 West Main Street, Suite 110, Stockton, CA 95202"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Stockton", "url": "/locations/california/stockton"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1516321318423-f06f70d504d0?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Stockton downtown location near Bob Hope Theater",
+      "caption": "Our convenient Stockton branch"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0"
+  }
+}

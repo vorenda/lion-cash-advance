@@ -1,0 +1,252 @@
+{
+  "id": "pensacola-fl",
+  "city": "Pensacola",
+  "slug": "pensacola",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "county": "Escambia",
+  "serviceNiche": "Cash Advance Loans",
+  "population": 51468,
+
+  "seo": {
+    "title": "Cash Advance Loans Pensacola | Beach & Naval Museum | Lion Cash Advance",
+    "metaDescription": "Fast cash advances in Pensacola near the beach and Naval Aviation Museum. Same-day approval with no credit check. Licensed cash loans in Escambia County.",
+    "canonicalUrl": "/locations/florida/pensacola",
+    "keywords": [
+      "cash advance pensacola",
+      "pensacola cash loans",
+      "payday loans pensacola florida",
+      "cash advance near me pensacola",
+      "fast cash escambia county"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Pensacola, Florida",
+    "subheadline": "Get emergency cash near Pensacola Beach. Quick approval, no credit check.",
+    "ctaText": "Get Cash Advance Now",
+    "ctaUrl": "/apply?location=pensacola-fl",
+    "secondaryCta": {
+      "text": "Call (850) 555-0811",
+      "url": "tel:+18505550811"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Pensacola",
+    "directions": "We are conveniently located at 2891 North Davis Highway, right across from beautiful Pensacola Beach and just minutes from the Naval Aviation Museum and historic Seville Square. If you are taking US-90, we're easy to access. We're also near Palafox Street, the heart of downtown Pensacola.",
+    "landmarks": [
+      "Pensacola Beach",
+      "Naval Aviation Museum",
+      "Seville Square"
+    ],
+    "highway": "US-90",
+    "exit": "North Davis Highway",
+    "neighborhoodName": "Pensacola Beach Area",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 3:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance Pensacola",
+    "street": "2891 North Davis Highway, Suite 170",
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32503",
+    "phone": "(850) 555-0811",
+    "formattedPhone": "+18505550811",
+    "formattedAddress": "2891 North Davis Highway, Suite 170, Pensacola, FL 32503",
+    "coordinates": {
+      "latitude": 30.4317,
+      "longitude": -87.2244
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=30.4317,-87.2244"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Services Available in Escambia County",
+    "intro": "Our Pensacola location serves Escambia County residents with convenient cash advance options:",
+    "services": [
+      {
+        "name": "Single Payment Cash Advances",
+        "slug": "single-payment-cash-advances",
+        "url": "/services/single-payment-cash-advances",
+        "description": "Get up to $500 with fast approval",
+        "anchorText": "Learn about Single Payment Cash Advances"
+      },
+      {
+        "name": "Installment Cash Loans",
+        "slug": "installment-cash-loans",
+        "url": "/services/installment-cash-loans",
+        "description": "Borrow up to $1,000 with flexible payments",
+        "anchorText": "Explore Installment Cash Loan Options"
+      },
+      {
+        "name": "Emergency Cash Advances",
+        "slug": "emergency-cash-advances",
+        "url": "/services/emergency-cash-advances",
+        "description": "Get approved same-day for emergency expenses",
+        "anchorText": "Apply for Emergency Cash Today"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Cash Advance Laws in Pensacola, Florida",
+    "content": "Residents of Pensacola are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance. Pensacola is a military town with many active duty and retired military residents, all of whom benefit from Florida's strong consumer protections.",
+    "keyPoints": [
+      "All payday lenders in Pensacola must be licensed by the Florida Office of Financial Regulation",
+      "You can only have one payday loan at a time in Florida, enforced by statewide database",
+      "Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee",
+      "Installment loans are capped at $1,000 with maximum 8% biweekly fee on outstanding balance",
+      "You must wait 24 hours after paying off one loan before taking out another",
+      "Loan rollovers and extensions are prohibited by law",
+      "If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling",
+      "You cannot be criminally prosecuted for an unpaid payday loan",
+      "Prepayment penalties are prohibited - you can pay off early without extra cost"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR)",
+    "regulatoryUrl": "https://flofr.gov",
+    "regulatoryPhone": "(850) 487-9687",
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal or financial advice. Payday loan laws and regulations are subject to change. For the most accurate and up-to-date information about Florida payday loan regulations, please contact the Florida Office of Financial Regulation at (850) 487-9687 or visit flofr.gov. Consult with a licensed financial advisor or attorney regarding your specific situation before making borrowing decisions."
+  },
+
+  "localReviews": {
+    "headline": "What Pensacola Customers Say About Lion Cash Advance",
+    "locationId": "pensacola-fl",
+    "reviews": [
+      {
+        "name": "Captain Scott M.",
+        "rating": 5,
+        "text": "Great service for military personnel. Fast approval and they understood military pay structures. Highly recommend to anyone stationed in Pensacola.",
+        "date": "2025-01-16"
+      },
+      {
+        "name": "Nicole T.",
+        "rating": 5,
+        "text": "Close to the beach and very convenient. Got my emergency cash same-day with no issues. Professional and friendly service.",
+        "date": "2025-01-13"
+      },
+      {
+        "name": "Thomas K.",
+        "rating": 4,
+        "text": "Good location near Davis Highway. Quick process and clear explanation of Florida's protections. Very satisfied.",
+        "date": "2025-01-08"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Escambia County Communities",
+    "intro": "Can't make it to our Pensacola location? We also serve these nearby communities:",
+    "cities": [
+      {
+        "name": "Gulf Breeze",
+        "slug": "gulf-breeze",
+        "url": "/locations/florida/gulf-breeze",
+        "distanceMiles": 8
+      },
+      {
+        "name": "Brent",
+        "slug": "brent",
+        "url": "/locations/florida/brent",
+        "distanceMiles": 12
+      },
+      {
+        "name": "Ensley",
+        "slug": "ensley",
+        "url": "/locations/florida/ensley",
+        "distanceMiles": 10
+      },
+      {
+        "name": "Ferry Pass",
+        "slug": "ferry-pass",
+        "url": "/locations/florida/ferry-pass",
+        "distanceMiles": 6
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Pensacola cash advance location?",
+      "answer": "Our Pensacola branch is located at 2891 North Davis Highway, Suite 170, near beautiful Pensacola Beach and the Naval Aviation Museum. We're easy to access from US-90."
+    },
+    {
+      "question": "What are your hours at the Pensacola location?",
+      "answer": "We're open Monday through Friday from 9:00 AM to 6:00 PM, and Saturday 10:00 AM to 3:00 PM. We're closed on Sundays. Walk-ins welcome!"
+    },
+    {
+      "question": "Do you serve active duty military?",
+      "answer": "Yes! We serve many active duty military personnel stationed at Naval Air Station Pensacola. We understand military pay structures and are familiar with military IDs and military bank accounts."
+    },
+    {
+      "question": "Can I get a cash advance if I'm on military leave?",
+      "answer": "As long as you have a valid military ID and can verify your income, you can qualify. We're happy to serve military personnel who need emergency cash."
+    },
+    {
+      "question": "What's the easiest way to apply?",
+      "answer": "You can apply online before visiting our location or just walk in. Either way, we'll have you approved and out with cash in 15-30 minutes."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Need Emergency Cash in Pensacola Today?",
+    "subheadline": "Visit our Davis Highway location or apply online for fast approval",
+    "primaryCta": {
+      "text": "Apply for Cash Advance Now",
+      "url": "/apply?location=pensacola-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (850) 555-0811",
+      "url": "tel:+18505550811"
+    },
+    "address": "2891 North Davis Highway, Suite 170, Pensacola, FL 32503"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance Pensacola",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2891 North Davis Highway, Suite 170",
+      "addressLocality": "Pensacola",
+      "addressRegion": "FL",
+      "postalCode": "32503",
+      "addressCountry": "US"
+    },
+    "telephone": "+18505550811",
+    "areaServed": "Escambia County, Florida",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "Pensacola", "url": "/locations/florida/pensacola"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-01-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliance": {
+      "hasLocalFacts": true,
+      "hasStateCompliance": true,
+      "hasLocalAreaCode": true,
+      "hasSpecificHighway": true,
+      "hasSpecificExit": true,
+      "hasInternalLinks": true
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "id": "san-diego-ca",
+  "city": "San Diego",
+  "slug": "san-diego",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "San Diego County",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans San Diego | Near USS Midway | Lion Cash Advance",
+    "metaDescription": "Quick cash loans in San Diego near USS Midway Museum. DFPI licensed, $300 max, 15% fees. Same-day funding. (619) 555-0182",
+    "canonicalUrl": "/locations/california/san-diego",
+    "keywords": ["cash advance san diego", "payday loans san diego", "quick loans downtown san diego", "emergency cash san diego"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in San Diego, California",
+    "subheadline": "Licensed lender serving San Diego County with reliable short-term loans",
+    "ctaText": "Apply Now for San Diego Cash",
+    "ctaUrl": "/apply?location=san-diego-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=san+diego+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in San Diego",
+    "directions": "We are conveniently located at 789 Harbor Drive, right across from the USS Midway Museum and just down the road from Balboa Park. If you are taking I-5, take Exit 16 toward Harbor Drive. Our downtown San Diego location is highly visible with plenty of nearby parking.",
+    "landmarks": ["USS Midway Museum", "Balboa Park"],
+    "highway": "I-5",
+    "exit": "Exit 16",
+    "neighborhoodName": "Downtown San Diego",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 5:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3381.234567!2d-117.1611!3d32.7157"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - San Diego",
+    "street": "789 Harbor Drive, Suite 200",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "phone": "(619) 555-0182",
+    "formattedPhone": "+16195550182",
+    "formattedAddress": "789 Harbor Drive, Suite 200, San Diego, CA 92101",
+    "coordinates": {
+      "latitude": 32.7157,
+      "longitude": -117.1611
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=32.7157,-117.1611"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Services Available in San Diego",
+    "intro": "San Diego residents trust us for dependable financial solutions. Choose the cash advance option that works best for you:",
+    "services": [
+      {
+        "name": "Fast Cash Advances",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Quick loans up to $300 with same-day funding",
+        "anchorText": "Learn about Fast Cash Advances"
+      },
+      {
+        "name": "Emergency Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans for unexpected expenses",
+        "anchorText": "Emergency Payday Loans"
+      },
+      {
+        "name": "Guaranteed Approval Loans",
+        "slug": "guaranteed-approval-loans",
+        "url": "/services/guaranteed-approval-loans",
+        "description": "We work with all credit types",
+        "anchorText": "Guaranteed Approval Options"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Start online, finish in San Diego",
+        "anchorText": "Apply Online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding California Cash Advance Laws in San Diego",
+    "content": "San Diego residents benefit from California's robust consumer protections. The DFPI strictly regulates cash advance lenders to prevent predatory lending.",
+    "keyPoints": [
+      "Maximum loan amount is $300 including all fees",
+      "Maximum fee is 15% of check amount (approximately 460% APR)",
+      "Only one loan allowed at a time - no rollovers",
+      "Criminal prosecution threats are illegal",
+      "Lion Cash Advance is DFPI licensed and compliant",
+      "Maximum one $15 NSF fee per bounced check",
+      "31-day maximum loan term",
+      "All disclosures must be in writing in your language"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for general guidance only. California payday loan regulations are subject to change. For current information, contact the DFPI at 1-866-275-2677 or visit dfpi.ca.gov. Consult a California attorney for specific legal questions."
+  },
+
+  "localReviews": {
+    "headline": "What Our San Diego Customers Say",
+    "locationId": "san-diego-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "David L.",
+        "rating": 5,
+        "text": "Excellent service at the Harbor Drive location. Fast approval and fair fees. They clearly explained all the California regulations.",
+        "date": "2024-12-22"
+      },
+      {
+        "name": "Patricia G.",
+        "rating": 5,
+        "text": "Very professional staff. The location is right near USS Midway, super convenient. Got approved same day.",
+        "date": "2024-12-18"
+      },
+      {
+        "name": "Michael C.",
+        "rating": 4,
+        "text": "Quick process. I appreciated that they are licensed by DFPI. Good service in San Diego.",
+        "date": "2024-12-12"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby San Diego County Cities",
+    "intro": "Need a location closer to you? We serve these nearby San Diego communities:",
+    "cities": [
+      {"name": "La Jolla", "slug": "la-jolla", "url": "/locations/california/la-jolla", "distanceMiles": 18},
+      {"name": "Pacific Beach", "slug": "pacific-beach", "url": "/locations/california/pacific-beach", "distanceMiles": 12},
+      {"name": "Ocean Beach", "slug": "ocean-beach", "url": "/locations/california/ocean-beach", "distanceMiles": 15},
+      {"name": "Chula Vista", "slug": "chula-vista", "url": "/locations/california/chula-vista", "distanceMiles": 28}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your San Diego location located?",
+      "answer": "We're at 789 Harbor Drive, Suite 200, right across from USS Midway Museum in downtown San Diego. Take I-5 to Exit 16 and follow Harbor Drive. Easy parking nearby."
+    },
+    {
+      "question": "Can I get approved same-day in San Diego?",
+      "answer": "Yes! Visit our Harbor Drive location with a valid ID, proof of income, and checking account information. Most San Diego customers receive same-day approval and funding."
+    },
+    {
+      "question": "What fees do you charge for cash advances in California?",
+      "answer": "California limits fees to 15% of the loan amount. For a $200 loan, the fee is $30. For $255, the maximum fee is $45."
+    },
+    {
+      "question": "What documents do I need at the San Diego branch?",
+      "answer": "Bring a valid government-issued ID, recent pay stubs or proof of income, and banking information. The process takes about 30 minutes."
+    },
+    {
+      "question": "Is Lion Cash Advance properly licensed in California?",
+      "answer": "Yes, we are fully licensed by the California Department of Financial Protection and Innovation. Verify our license at dfpi.ca.gov/regulated-industries/regulated-entities-list/"
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Ready for Fast Cash in San Diego?",
+    "subheadline": "Visit our Harbor Drive location or start your application online",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=san-diego-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (619) 555-0182",
+      "url": "tel:+16195550182"
+    },
+    "address": "789 Harbor Drive, Suite 200, San Diego, CA 92101"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - San Diego",
+    "areaServed": "San Diego County, California",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "San Diego", "url": "/locations/california/san-diego"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliance": true,
+    "stateComplianceIncluded": true
+  }
+}

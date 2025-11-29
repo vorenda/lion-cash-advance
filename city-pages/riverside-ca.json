@@ -1,0 +1,218 @@
+{
+  "id": "riverside-ca",
+  "city": "Riverside",
+  "slug": "riverside",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Riverside County",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans in Riverside, CA | Fast Cash Near Mission Inn | Lion Cash Advance",
+    "metaDescription": "Need quick cash in Riverside? Visit our location near the historic Mission Inn. Same-day approval available. Get $100-$300 fast with Lion Cash Advance.",
+    "canonicalUrl": "/locations/california/riverside",
+    "keywords": ["cash advance riverside", "payday loans riverside ca", "fast cash riverside", "cash loans riverside county"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Riverside, California",
+    "subheadline": "Quick approval near the historic Mission Inn",
+    "ctaText": "Apply Now for Riverside Cash",
+    "ctaUrl": "/apply?location=riverside-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=riverside+ca+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Visit Lion Cash Advance in Downtown Riverside",
+    "directions": "We are conveniently located at 3567 Main Street, right near the historic Mission Inn Museum and Castle Rock Park in downtown Riverside. If you're taking I-10, take Exit 70 toward Main Street. Our storefront is in the vibrant downtown corridor of Riverside County's largest city, with easy parking and quick access.",
+    "landmarks": ["Mission Inn Museum", "Castle Rock Park", "Riverside Museum of Art"],
+    "highway": "I-10",
+    "exit": "Exit 70",
+    "neighborhoodName": "Downtown Riverside",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3318.7!2d-117.29!3d34.10!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcb!2m2!1d-117.29!2d34.10!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Riverside",
+    "street": "3567 Main Street, Suite 150",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92501",
+    "phone": "(951) 555-0234",
+    "formattedPhone": "+19515550234",
+    "formattedAddress": "3567 Main Street, Suite 150, Riverside, CA 92501",
+    "coordinates": {
+      "latitude": 34.1056,
+      "longitude": -117.2957
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=34.1056,-117.2957"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Solutions for Riverside County",
+    "intro": "Whether you live in Riverside or nearby communities in Riverside County, we offer quick cash solutions:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Quick cash loans up to $300 with terms up to 31 days",
+        "anchorText": "Get a payday loan"
+      },
+      {
+        "name": "Cash Advance Loans",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Fast approval with straightforward terms",
+        "anchorText": "Apply for cash advance"
+      },
+      {
+        "name": "Emergency Loans",
+        "slug": "emergency-loans",
+        "url": "/services/emergency-loans",
+        "description": "When you need cash right away",
+        "anchorText": "Get emergency cash"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Start your application online",
+        "anchorText": "Apply online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Cash Advance Laws for Riverside Residents",
+    "content": "Riverside County residents are protected by California's comprehensive Deferred Deposit Transaction Law, enforced by the California Department of Financial Protection and Innovation (DFPI). These regulations protect you from predatory lending and high costs.",
+    "keyPoints": [
+      "Maximum loan: $300 including all fees (typical cash $255 with $45 fee)",
+      "Maximum fee: 15% of the check amount",
+      "Estimated APR: 460% for standard 14-day loans",
+      "Loan term: Cannot exceed 31 days",
+      "One loan limit: Can only have one active payday loan at a time",
+      "No rollovers: Cannot extend loans with additional fees",
+      "Criminal protection: Lenders cannot prosecute for non-payment",
+      "NSF fee: Only one $15 fee per bounced check allowed",
+      "Full transparency: All fees stated in dollars and APR before you sign"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for general educational purposes and does not constitute legal advice. Cash advance laws change over time. For the most current information, contact the DFPI at 1-866-275-2677 or dfpi.ca.gov. For specific legal questions, consult a California attorney. Lender terms vary within state law limits."
+  },
+
+  "localReviews": {
+    "headline": "What Riverside Customers Say",
+    "locationId": "riverside-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Robert C.",
+        "rating": 5,
+        "text": "Excellent service near the Mission Inn. Very professional staff. Got my cash in about 30 minutes. Highly recommended for Riverside residents.",
+        "date": "2024-11-22"
+      },
+      {
+        "name": "Angela T.",
+        "rating": 5,
+        "text": "Great location on Main Street with convenient parking. Staff explained everything clearly. Smooth process from start to finish.",
+        "date": "2024-10-18"
+      },
+      {
+        "name": "Daniel P.",
+        "rating": 4,
+        "text": "Quick and reliable service. Downtown Riverside location is easy to find. Would use again if needed.",
+        "date": "2024-09-11"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Riverside County Cities",
+    "intro": "Can't visit our downtown Riverside location? We also serve nearby Riverside County communities:",
+    "cities": [
+      {"name": "Rialto", "slug": "rialto", "url": "/locations/california/rialto", "distanceMiles": 25},
+      {"name": "Moreno Valley", "slug": "moreno-valley", "url": "/locations/california/moreno-valley", "distanceMiles": 18},
+      {"name": "San Bernardino", "slug": "san-bernardino", "url": "/locations/california/san-bernardino", "distanceMiles": 30},
+      {"name": "Corona", "slug": "corona", "url": "/locations/california/corona", "distanceMiles": 20}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Riverside location?",
+      "answer": "We're located at 3567 Main Street, Suite 150, in downtown Riverside near the historic Mission Inn. Take I-10 Exit 70 toward Main Street. Easy parking available right near our storefront."
+    },
+    {
+      "question": "What do I need to apply for a cash advance in Riverside?",
+      "answer": "Bring a valid government ID, recent pay stub or bank statements showing income, and your active checking account information. Most Riverside residents are approved in under 30 minutes."
+    },
+    {
+      "question": "What's the maximum I can borrow in California?",
+      "answer": "California law sets the limit at $300 total including all fees. You'll typically receive $255 in cash with a $45 fee. The exact amount depends on your income and creditworthiness."
+    },
+    {
+      "question": "How quickly can I get my cash in Riverside?",
+      "answer": "Most applicants receive approval and cash within 30 minutes at our Main Street location. We have a quick verification process designed for your convenience."
+    },
+    {
+      "question": "What fees will I pay?",
+      "answer": "California law caps fees at 15% of the check amount. For a $300 loan, the maximum fee is $45. All fees are disclosed clearly in dollars and APR before you sign anything."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Fast Cash in Riverside Today",
+    "subheadline": "Visit our Main Street location or apply online",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=riverside-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (951) 555-0234",
+      "url": "tel:+19515550234"
+    },
+    "address": "3567 Main Street, Suite 150, Riverside, CA 92501"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Riverside", "url": "/locations/california/riverside"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1560707303-4e8d64df3ec6?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Riverside downtown location near Mission Inn",
+      "caption": "Our Riverside branch in historic downtown"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0"
+  }
+}

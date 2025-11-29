@@ -1,0 +1,1339 @@
+
+{
+  "states": [
+    {
+      "state": "Florida",
+      "stateCode": "FL",
+      "cities": [
+        {
+          "city": "Miami",
+          "county": "Miami-Dade",
+          "population": 442241,
+          "areaCode": "305",
+          "landmarks": [
+            "Wynwood Walls",
+            "Bayside Marketplace",
+            "Freedom Tower",
+            "Art Museum",
+            "Vizcaya Museum"
+          ],
+          "highways": [
+            "I-95",
+            "I-395",
+            "US-1"
+          ],
+          "neighboringTowns": [
+            "Miami Beach",
+            "Coral Gables",
+            "Hialeah",
+            "North Miami"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Tampa",
+          "county": "Hillsborough",
+          "population": 399700,
+          "areaCode": "813",
+          "landmarks": [
+            "Busch Gardens",
+            "Ybor City",
+            "Florida Aquarium",
+            "Curtis Hixon Park",
+            "Tampa Theater"
+          ],
+          "highways": [
+            "I-75",
+            "I-275",
+            "US-92"
+          ],
+          "neighboringTowns": [
+            "St. Petersburg",
+            "Clearwater",
+            "Brandon",
+            "Temple Terrace"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Orlando",
+          "county": "Orange",
+          "population": 307573,
+          "areaCode": "407",
+          "landmarks": [
+            "Magic Kingdom",
+            "EPCOT",
+            "Walt Disney World",
+            "Universal Studios",
+            "SeaWorld"
+          ],
+          "highways": [
+            "I-4",
+            "US-17",
+            "US-92"
+          ],
+          "neighboringTowns": [
+            "Kissimmee",
+            "Winter Park",
+            "Altamonte Springs",
+            "Daytona Beach"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Jacksonville",
+          "county": "Duval",
+          "population": 868031,
+          "areaCode": "904",
+          "landmarks": [
+            "Cummer Museum",
+            "Riverside Avondale",
+            "Atlantic Beach",
+            "Jacksonville Zoo",
+            "San Marco"
+          ],
+          "highways": [
+            "I-95",
+            "I-10",
+            "US-1"
+          ],
+          "neighboringTowns": [
+            "Atlantic Beach",
+            "Neptune Beach",
+            "Orange Park",
+            "Fernandina"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Saint Petersburg",
+          "county": "Pinellas",
+          "population": 265351,
+          "areaCode": "727",
+          "landmarks": [
+            "Florida Holocaust Museum",
+            "Pier Park",
+            "Great Explorations",
+            "Sunken Gardens",
+            "Mahaffey Theater"
+          ],
+          "highways": [
+            "I-275",
+            "US-19",
+            "FL-9A"
+          ],
+          "neighboringTowns": [
+            "Tampa",
+            "Clearwater",
+            "Largo",
+            "Pinellas Park"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Hialeah",
+          "county": "Miami-Dade",
+          "population": 224669,
+          "areaCode": "305",
+          "landmarks": [
+            "Hialeah Park",
+            "Roberto Clemente Park",
+            "Amelia Earhart Park",
+            "Westland Garden"
+          ],
+          "highways": [
+            "I-75",
+            "FL-826",
+            "FL-953"
+          ],
+          "neighboringTowns": [
+            "Miami",
+            "Miami Lakes",
+            "Palmetto",
+            "Doral"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Coral Springs",
+          "county": "Broward",
+          "population": 134594,
+          "areaCode": "954",
+          "landmarks": [
+            "Coral Springs Charter School",
+            "Cypress Lake",
+            "Community Park",
+            "Heron Bay"
+          ],
+          "highways": [
+            "FL-441",
+            "I-75",
+            "FL-869"
+          ],
+          "neighboringTowns": [
+            "Pompano Beach",
+            "Margate",
+            "Deerfield Beach",
+            "Parkland"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Tallahassee",
+          "county": "Leon",
+          "population": 196280,
+          "areaCode": "850",
+          "landmarks": [
+            "Capitol Building",
+            "Museum of Florida History",
+            "Lake Jackson",
+            "Challenger Learning Center",
+            "Alfred B. Maclay State Park"
+          ],
+          "highways": [
+            "I-10",
+            "US-27",
+            "US-90"
+          ],
+          "neighboringTowns": [
+            "Monticello",
+            "Quincy",
+            "Perry",
+            "Crawfordville"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Fort Lauderdale",
+          "county": "Broward",
+          "population": 182437,
+          "areaCode": "954",
+          "landmarks": [
+            "Stranahan House",
+            "Beach Boulevard",
+            "Las Olas Boulevard",
+            "Museum of Art",
+            "Bonnet House"
+          ],
+          "highways": [
+            "I-95",
+            "US-1",
+            "FL-A1A"
+          ],
+          "neighboringTowns": [
+            "Hollywood",
+            "Pompano Beach",
+            "Deerfield Beach",
+            "Wilton Manors"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Pensacola",
+          "county": "Escambia",
+          "population": 51468,
+          "areaCode": "850",
+          "landmarks": [
+            "Pensacola Beach",
+            "Naval Aviation Museum",
+            "Seville Square",
+            "Palafox Street",
+            "Fort Pickens"
+          ],
+          "highways": [
+            "US-90",
+            "US-231",
+            "FL-291"
+          ],
+          "neighboringTowns": [
+            "Gulf Breeze",
+            "Brent",
+            "Ensley",
+            "Ferry Pass"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Clearwater",
+          "county": "Pinellas",
+          "population": 115056,
+          "areaCode": "727",
+          "landmarks": [
+            "Clearwater Beach",
+            "Pier 60",
+            "Marine Aquarium",
+            "Cleveland Street District",
+            "Clearwater Aquarium"
+          ],
+          "highways": [
+            "US-19",
+            "FL-580",
+            "I-275"
+          ],
+          "neighboringTowns": [
+            "St. Petersburg",
+            "Tampa",
+            "Largo",
+            "Pinellas Park"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Largo",
+          "county": "Pinellas",
+          "population": 82276,
+          "areaCode": "727",
+          "landmarks": [
+            "Largo Central Park",
+            "Pinewood Cultural Park",
+            "Heritage Village",
+            "High School Stadium"
+          ],
+          "highways": [
+            "US-19",
+            "FL-594",
+            "I-275"
+          ],
+          "neighboringTowns": [
+            "Clearwater",
+            "St. Petersburg",
+            "Pinellas Park",
+            "Seminole"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Sarasota",
+          "county": "Sarasota",
+          "population": 52715,
+          "areaCode": "941",
+          "landmarks": [
+            "Ringling Museum",
+            "Sarasota Bay",
+            "Van Wezel Hall",
+            "Longboat Key",
+            "Mote Aquarium"
+          ],
+          "highways": [
+            "US-41",
+            "FL-72",
+            "I-75"
+          ],
+          "neighboringTowns": [
+            "Bradenton",
+            "Venice",
+            "Lakewood Ranch",
+            "North Port"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Fort Myers",
+          "county": "Lee",
+          "population": 77050,
+          "areaCode": "239",
+          "landmarks": [
+            "Sanibel Island",
+            "J.N. Ding Darling Refuge",
+            "River District",
+            "Thomas Edison Home",
+            "Fort Myers Beach"
+          ],
+          "highways": [
+            "I-75",
+            "US-41",
+            "FL-867"
+          ],
+          "neighboringTowns": [
+            "Cape Coral",
+            "Lehigh Acres",
+            "Estero",
+            "North Fort Myers"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Gainesville",
+          "county": "Alachua",
+          "population": 141080,
+          "areaCode": "352",
+          "landmarks": [
+            "University of Florida",
+            "Paynes Prairie",
+            "Florida Museum of Natural History",
+            "Devil's Den State Park"
+          ],
+          "highways": [
+            "I-75",
+            "US-441",
+            "US-27"
+          ],
+          "neighboringTowns": [
+            "Newberry",
+            "High Springs",
+            "Alachua",
+            "Waldo"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Deerfield Beach",
+          "county": "Broward",
+          "population": 75018,
+          "areaCode": "954",
+          "landmarks": [
+            "Deerfield Pier",
+            "Deerfield Beach",
+            "Beach Boulevard",
+            "Quiet Waters Park"
+          ],
+          "highways": [
+            "I-95",
+            "US-1",
+            "FL-A1A"
+          ],
+          "neighboringTowns": [
+            "Pompano Beach",
+            "Coral Springs",
+            "Margate",
+            "Lighthouse Point"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Hollywood",
+          "county": "Broward",
+          "population": 140384,
+          "areaCode": "954",
+          "landmarks": [
+            "Hollywood Beach",
+            "Boardwalk",
+            "Streisand Theater",
+            "Anne Kolb Nature Center"
+          ],
+          "highways": [
+            "I-95",
+            "US-1",
+            "FL-A1A"
+          ],
+          "neighboringTowns": [
+            "Fort Lauderdale",
+            "Dania Beach",
+            "Pembroke Pines",
+            "Miramar"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Pompano Beach",
+          "county": "Broward",
+          "population": 104435,
+          "areaCode": "954",
+          "landmarks": [
+            "Pompano Beach Pier",
+            "Coral Ridge",
+            "Hillsboro Inlet",
+            "Atlantic Ridge Country Club"
+          ],
+          "highways": [
+            "I-95",
+            "US-1",
+            "FL-A1A"
+          ],
+          "neighboringTowns": [
+            "Deerfield Beach",
+            "Fort Lauderdale",
+            "Coral Springs",
+            "Margate"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Delray Beach",
+          "county": "Palm Beach",
+          "population": 68000,
+          "areaCode": "561",
+          "landmarks": [
+            "Delray Beach",
+            "Atlantic Ave",
+            "Morikami Museum",
+            "Sunken Gardens",
+            "Old School Square"
+          ],
+          "highways": [
+            "US-1",
+            "FL-A1A",
+            "I-95"
+          ],
+          "neighboringTowns": [
+            "Boca Raton",
+            "Boynton Beach",
+            "Deerfield Beach",
+            "Pompano Beach"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "West Palm Beach",
+          "county": "Palm Beach",
+          "population": 115066,
+          "areaCode": "561",
+          "landmarks": [
+            "Clematis Street",
+            "Downtown",
+            "Flagler Park",
+            "Rhododendron Gardens"
+          ],
+          "highways": [
+            "I-95",
+            "US-1",
+            "FL-A1A"
+          ],
+          "neighboringTowns": [
+            "Palm Beach",
+            "Lake Worth",
+            "Boca Raton",
+            "Greenacres"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Boca Raton",
+          "county": "Palm Beach",
+          "population": 100927,
+          "areaCode": "561",
+          "landmarks": [
+            "Boca Raton Beach",
+            "Palmetto Park",
+            "Mizner Park",
+            "Town Center"
+          ],
+          "highways": [
+            "I-95",
+            "US-1",
+            "FL-A1A"
+          ],
+          "neighboringTowns": [
+            "Delray Beach",
+            "Deerfield Beach",
+            "Pompano Beach",
+            "West Palm Beach"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Ocala",
+          "county": "Marion",
+          "population": 62238,
+          "areaCode": "352",
+          "landmarks": [
+            "Silver Springs",
+            "Ocala National Forest",
+            "Don Garlits Drag Racing Museum",
+            "Heritage Village"
+          ],
+          "highways": [
+            "I-75",
+            "US-27",
+            "US-441"
+          ],
+          "neighboringTowns": [
+            "Belleview",
+            "Williston",
+            "Dunnellon",
+            "Reddick"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Lakeland",
+          "county": "Polk",
+          "population": 110969,
+          "areaCode": "863",
+          "landmarks": [
+            "Polk Museum of Art",
+            "Lake Hollingsworth",
+            "Chain of Parks",
+            "Legoland Florida"
+          ],
+          "highways": [
+            "I-4",
+            "US-98",
+            "US-17"
+          ],
+          "neighboringTowns": [
+            "Winter Haven",
+            "Bartow",
+            "Plant City",
+            "Auburndale"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Kissimmee",
+          "county": "Osceola",
+          "population": 81441,
+          "areaCode": "407",
+          "landmarks": [
+            "Shingle Creek",
+            "Lakefront Park",
+            "Broadway Street",
+            "Osceola County Courthouse"
+          ],
+          "highways": [
+            "US-17",
+            "US-92",
+            "FL-17"
+          ],
+          "neighboringTowns": [
+            "St. Cloud",
+            "Poinciana",
+            "Intercession City",
+            "Orlando"
+          ],
+          "lat": 0,
+          "lng": 0
+        }
+      ]
+    },
+    {
+      "state": "California",
+      "stateCode": "CA",
+      "cities": [
+        {
+          "city": "Los Angeles",
+          "county": "Los Angeles",
+          "population": 3844829,
+          "areaCode": "213",
+          "landmarks": [
+            "Hollywood Sign",
+            "Griffith Observatory",
+            "Getty Museum",
+            "Sunset Boulevard",
+            "Venice Beach"
+          ],
+          "highways": [
+            "I-10",
+            "I-110",
+            "I-405",
+            "US-101"
+          ],
+          "neighboringTowns": [
+            "Santa Monica",
+            "Beverly Hills",
+            "Pasadena",
+            "Long Beach"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "San Diego",
+          "county": "San Diego",
+          "population": 1386932,
+          "areaCode": "619",
+          "landmarks": [
+            "San Diego Zoo",
+            "Balboa Park",
+            "USS Midway",
+            "Coronado Island",
+            "Sunset Cliffs"
+          ],
+          "highways": [
+            "I-5",
+            "I-8",
+            "I-15",
+            "US-101"
+          ],
+          "neighboringTowns": [
+            "La Jolla",
+            "Pacific Beach",
+            "Ocean Beach",
+            "Chula Vista"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "San Jose",
+          "county": "Santa Clara",
+          "population": 1033548,
+          "areaCode": "408",
+          "landmarks": [
+            "Tech Museum",
+            "San Jose Museum of Art",
+            "Rosicrucian Museum",
+            "Hakone Gardens",
+            "Los Gatos Park"
+          ],
+          "highways": [
+            "I-280",
+            "I-880",
+            "US-101",
+            "CA-87"
+          ],
+          "neighboringTowns": [
+            "Santa Clara",
+            "Sunnyvale",
+            "Mountain View",
+            "Fremont"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "San Francisco",
+          "county": "San Francisco",
+          "population": 873965,
+          "areaCode": "415",
+          "landmarks": [
+            "Golden Gate Bridge",
+            "Cable Cars",
+            "Alcatraz",
+            "Painted Ladies",
+            "Chinatown"
+          ],
+          "highways": [
+            "I-80",
+            "US-101",
+            "CA-1",
+            "US-280"
+          ],
+          "neighboringTowns": [
+            "Oakland",
+            "Berkeley",
+            "Daly City",
+            "South San Francisco"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Fresno",
+          "county": "Fresno",
+          "population": 545856,
+          "areaCode": "559",
+          "landmarks": [
+            "Fresno Chaffee Zoo",
+            "Tower District",
+            "Forestiere Underground Gardens",
+            "Kearney Park"
+          ],
+          "highways": [
+            "I-99",
+            "CA-99",
+            "CA-41",
+            "CA-180"
+          ],
+          "neighboringTowns": [
+            "Clovis",
+            "Selma",
+            "Fowler",
+            "Coalinga"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Sacramento",
+          "county": "Sacramento",
+          "population": 525207,
+          "areaCode": "916",
+          "landmarks": [
+            "California State Capitol",
+            "American River Parkway",
+            "Old Town",
+            "Discovery Museum",
+            "Folsom Lake"
+          ],
+          "highways": [
+            "I-80",
+            "I-50",
+            "US-99",
+            "US-50"
+          ],
+          "neighboringTowns": [
+            "Citrus Heights",
+            "Elk Grove",
+            "Folsom",
+            "West Sacramento"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Long Beach",
+          "county": "Los Angeles",
+          "population": 474140,
+          "areaCode": "562",
+          "landmarks": [
+            "Queen Mary",
+            "Aquarium of the Pacific",
+            "Long Beach Pier",
+            "Naples Island"
+          ],
+          "highways": [
+            "I-405",
+            "I-710",
+            "CA-22",
+            "CA-47"
+          ],
+          "neighboringTowns": [
+            "Compton",
+            "Lakewood",
+            "Signal Hill",
+            "Los Angeles"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Oakland",
+          "county": "Alameda",
+          "population": 433031,
+          "areaCode": "510",
+          "landmarks": [
+            "Lake Merritt",
+            "Oakland Museum",
+            "Jack London Square",
+            "Oakland Hills",
+            "Paramount Theater"
+          ],
+          "highways": [
+            "I-80",
+            "I-880",
+            "I-580",
+            "US-101"
+          ],
+          "neighboringTowns": [
+            "Berkeley",
+            "Emeryville",
+            "Piedmont",
+            "San Francisco"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Bakersfield",
+          "county": "Kern",
+          "population": 403455,
+          "areaCode": "661",
+          "landmarks": [
+            "Bakersfield Museum of Art",
+            "Underground Gardens",
+            "Hart Park",
+            "Kern County Museum"
+          ],
+          "highways": [
+            "I-5",
+            "CA-99",
+            "CA-58",
+            "US-395"
+          ],
+          "neighboringTowns": [
+            "Taft",
+            "Delano",
+            "Tehachapi",
+            "Oildale"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Anaheim",
+          "county": "Orange",
+          "population": 346411,
+          "areaCode": "714",
+          "landmarks": [
+            "Disneyland",
+            "Disneyland Park",
+            "Disney California Adventure",
+            "Anaheim Convention Center"
+          ],
+          "highways": [
+            "I-5",
+            "CA-57",
+            "CA-22",
+            "I-91"
+          ],
+          "neighboringTowns": [
+            "Santa Ana",
+            "Garden Grove",
+            "Cypress",
+            "Stanton"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Santa Ana",
+          "county": "Orange",
+          "population": 310127,
+          "areaCode": "714",
+          "landmarks": [
+            "Santa Ana Zoo",
+            "Bowers Museum",
+            "Downtown Santa Ana",
+            "Artists Village"
+          ],
+          "highways": [
+            "I-5",
+            "CA-55",
+            "CA-73",
+            "CA-57"
+          ],
+          "neighboringTowns": [
+            "Anaheim",
+            "Tustin",
+            "Irvine",
+            "Garden Grove"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Riverside",
+          "county": "Riverside",
+          "population": 255166,
+          "areaCode": "951",
+          "landmarks": [
+            "Mission Inn Museum",
+            "Castle Rock Park",
+            "Riverside Museum of Art",
+            "Big Bear Lake"
+          ],
+          "highways": [
+            "I-10",
+            "I-215",
+            "CA-91",
+            "US-60"
+          ],
+          "neighboringTowns": [
+            "Rialto",
+            "Moreno Valley",
+            "San Bernardino",
+            "Corona"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Stockton",
+          "county": "San Joaquin",
+          "population": 320545,
+          "areaCode": "209",
+          "landmarks": [
+            "Stockton Delta Waterways",
+            "Bob Hope Theater",
+            "Haggin Museum",
+            "Victory Park"
+          ],
+          "highways": [
+            "I-5",
+            "I-880",
+            "CA-99",
+            "CA-4"
+          ],
+          "neighboringTowns": [
+            "Lodi",
+            "Tracy",
+            "Escalon",
+            "Acampo"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Irvine",
+          "county": "Orange",
+          "population": 307670,
+          "areaCode": "949",
+          "landmarks": [
+            "Irvine Spectrum",
+            "Pelican Hill",
+            "Lower Peters Canyon",
+            "Turtle Rock"
+          ],
+          "highways": [
+            "I-405",
+            "CA-73",
+            "CA-133",
+            "CA-261"
+          ],
+          "neighboringTowns": [
+            "Laguna Beach",
+            "Newport Beach",
+            "Anaheim",
+            "Santa Ana"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Chula Vista",
+          "county": "San Diego",
+          "population": 279989,
+          "areaCode": "619",
+          "landmarks": [
+            "South Bay Nature Preserve",
+            "Bayfront Park",
+            "Living Coast Zoo",
+            "Chula Vista Civic Center"
+          ],
+          "highways": [
+            "I-5",
+            "CA-54",
+            "US-191",
+            "CA-75"
+          ],
+          "neighboringTowns": [
+            "San Diego",
+            "Imperial Beach",
+            "Coronado",
+            "National City"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Fontana",
+          "county": "San Bernardino",
+          "population": 222060,
+          "areaCode": "909",
+          "landmarks": [
+            "Fontana Park",
+            "Slover Mountain",
+            "Regional Park",
+            "Sierra Avenue"
+          ],
+          "highways": [
+            "I-10",
+            "I-15",
+            "CA-210",
+            "CA-66"
+          ],
+          "neighboringTowns": [
+            "Rialto",
+            "San Bernardino",
+            "Rancho Cucamonga",
+            "Ontario"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Moreno Valley",
+          "county": "Riverside",
+          "population": 213485,
+          "areaCode": "951",
+          "landmarks": [
+            "March Air Reserve Base",
+            "Sycamore Creek Park",
+            "Moreno Valley College",
+            "Ironwood Country Club"
+          ],
+          "highways": [
+            "I-215",
+            "CA-60",
+            "I-10",
+            "US-395"
+          ],
+          "neighboringTowns": [
+            "Riverside",
+            "Hemet",
+            "Perris",
+            "San Jacinto"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Oxnard",
+          "county": "Ventura",
+          "population": 222522,
+          "areaCode": "805",
+          "landmarks": [
+            "Oxnard Beach",
+            "Oxnard Shores",
+            "Audie Murphy Ranch",
+            "Heritage Valley"
+          ],
+          "highways": [
+            "US-101",
+            "CA-1",
+            "CA-34",
+            "CA-119"
+          ],
+          "neighboringTowns": [
+            "Ventura",
+            "Port Hueneme",
+            "Camarillo",
+            "Thousand Oaks"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Modesto",
+          "county": "Stanislaus",
+          "population": 218464,
+          "areaCode": "209",
+          "landmarks": [
+            "Modesto Junior College",
+            "Stanislaus County Museum",
+            "McHenry Mansion",
+            "Agricultural Heritage Park"
+          ],
+          "highways": [
+            "I-5",
+            "I-99",
+            "CA-132",
+            "US-50"
+          ],
+          "neighboringTowns": [
+            "Turlock",
+            "Riverbank",
+            "Oakdale",
+            "Escalon"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Santa Clarita",
+          "county": "Los Angeles",
+          "population": 228673,
+          "areaCode": "661",
+          "landmarks": [
+            "Six Flags Magic Mountain",
+            "Vasquez Castle",
+            "Placerita Canyon",
+            "Newhall Ranch"
+          ],
+          "highways": [
+            "I-5",
+            "CA-14",
+            "CA-126",
+            "CA-91"
+          ],
+          "neighboringTowns": [
+            "Canyon Country",
+            "Valencia",
+            "Castaic",
+            "Palmdale"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Glendale",
+          "county": "Los Angeles",
+          "population": 191719,
+          "areaCode": "818",
+          "landmarks": [
+            "Brand Central",
+            "Verdugo Mountains",
+            "Americana at Brand",
+            "Deukmejian Wilderness Park"
+          ],
+          "highways": [
+            "I-5",
+            "CA-134",
+            "US-101",
+            "CA-2"
+          ],
+          "neighboringTowns": [
+            "Burbank",
+            "Los Angeles",
+            "La Cañada Flintridge",
+            "Pasadena"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Huntington Beach",
+          "county": "Orange",
+          "population": 189992,
+          "areaCode": "714",
+          "landmarks": [
+            "Huntington Beach Pier",
+            "Huntington State Beach",
+            "Bolsa Chica Wetlands",
+            "Main Street"
+          ],
+          "highways": [
+            "CA-1",
+            "CA-39",
+            "I-405",
+            "CA-22"
+          ],
+          "neighboringTowns": [
+            "Fountain Valley",
+            "Newport Beach",
+            "Garden Grove",
+            "Seal Beach"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Ontario",
+          "county": "San Bernardino",
+          "population": 171067,
+          "areaCode": "909",
+          "landmarks": [
+            "Ontario Airport",
+            "Ontario Center",
+            "Grovesite Park",
+            "Cucamonga-Guachama"
+          ],
+          "highways": [
+            "I-10",
+            "I-15",
+            "CA-60",
+            "CA-83"
+          ],
+          "neighboringTowns": [
+            "Fontana",
+            "Rancho Cucamonga",
+            "Upland",
+            "Chino"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "San Bernardino",
+          "county": "San Bernardino",
+          "population": 222101,
+          "areaCode": "909",
+          "landmarks": [
+            "San Bernardino Mountains",
+            "County Museum",
+            "Anza-Borrego Desert",
+            "San Manuel Indian Bingo"
+          ],
+          "highways": [
+            "I-10",
+            "I-15",
+            "CA-30",
+            "US-395"
+          ],
+          "neighboringTowns": [
+            "Fontana",
+            "Colton",
+            "Rialto",
+            "Victorville"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Torrance",
+          "county": "Los Angeles",
+          "population": 147144,
+          "areaCode": "310",
+          "landmarks": [
+            "South Torrance Beach",
+            "Torrance County Beach",
+            "Madrona Marsh Preserve",
+            "Del Amo Fashion Center"
+          ],
+          "highways": [
+            "I-405",
+            "CA-1",
+            "CA-90",
+            "I-110"
+          ],
+          "neighboringTowns": [
+            "Redondo Beach",
+            "Manhattan Beach",
+            "Hermosa Beach",
+            "Long Beach"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Vallejo",
+          "county": "Solano",
+          "population": 132090,
+          "areaCode": "707",
+          "landmarks": [
+            "Six Flags Discovery Kingdom",
+            "Mare Island",
+            "Vallejo Naval Museum",
+            "Loma Prieta Park"
+          ],
+          "highways": [
+            "I-80",
+            "CA-29",
+            "CA-37",
+            "US-101"
+          ],
+          "neighboringTowns": [
+            "Fairfield",
+            "Benicia",
+            "Concord",
+            "Napa"
+          ],
+          "lat": 0,
+          "lng": 0
+        },
+        {
+          "city": "Garden Grove",
+          "county": "Orange",
+          "population": 143050,
+          "areaCode": "714",
+          "landmarks": [
+            "Crystal Cathedral",
+            "Garden Grove Community Church",
+            "Main Street",
+            "Wilkinson Park"
+          ],
+          "highways": [
+            "I-405",
+            "CA-22",
+            "CA-39",
+            "CA-55"
+          ],
+          "neighboringTowns": [
+            "Santa Ana",
+            "Anaheim",
+            "Huntington Beach",
+            "Westminster"
+          ],
+          "lat": 0,
+          "lng": 0
+        }
+      ]
+    }
+  ],
+  "totalCities": 51,
+  "generatedAt": "2025-11-29"
+}

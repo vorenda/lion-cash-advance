@@ -1,0 +1,218 @@
+{
+  "id": "chula-vista-ca",
+  "city": "Chula Vista",
+  "slug": "chula-vista",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "San Diego",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans in Chula Vista, CA | San Diego County Cash | Lion Cash Advance",
+    "metaDescription": "Need cash in Chula Vista? Our San Diego County location near South Bay Nature Preserve offers same-day approval. Get $100-$300 fast.",
+    "canonicalUrl": "/locations/california/chula-vista",
+    "keywords": ["cash advance chula vista", "payday loans chula vista ca", "fast cash chula vista", "emergency loans san diego county"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Chula Vista, California",
+    "subheadline": "Quick approval serving San Diego County residents",
+    "ctaText": "Apply Now for Chula Vista Cash",
+    "ctaUrl": "/apply?location=chula-vista-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=chula+vista+ca+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Visit Lion Cash Advance in Chula Vista",
+    "directions": "We are conveniently located at 1845 South Broadway, Suite 130, just minutes from the beautiful South Bay Nature Preserve and Bayfront Park, two of Chula Vista's major attractions. If you're taking I-5, take Exit 23 toward H Street/Broadway. Our storefront is easy to find in this commercial district of San Diego County.",
+    "landmarks": ["South Bay Nature Preserve", "Bayfront Park", "Chula Vista Civic Center"],
+    "highway": "I-5",
+    "exit": "Exit 23",
+    "neighborhoodName": "Downtown Chula Vista",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3357.4!2d-117.09!3d32.64!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d94!2m2!1d-117.09!2d32.64!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Chula Vista",
+    "street": "1845 South Broadway, Suite 130",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910",
+    "phone": "(619) 555-0298",
+    "formattedPhone": "+16195550298",
+    "formattedAddress": "1845 South Broadway, Suite 130, Chula Vista, CA 91910",
+    "coordinates": {
+      "latitude": 32.6401,
+      "longitude": -117.0892
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=32.6401,-117.0892"
+  },
+
+  "productLinks": {
+    "headline": "Fast Cash Solutions for Chula Vista Residents",
+    "intro": "San Diego County residents in Chula Vista have convenient access to quick cash:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Quick cash loans up to $300 with flexible terms",
+        "anchorText": "Get a payday loan"
+      },
+      {
+        "name": "Cash Advance Loans",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Fast approval with minimal paperwork",
+        "anchorText": "Apply for cash advance"
+      },
+      {
+        "name": "Emergency Cash Loans",
+        "slug": "emergency-loans",
+        "url": "/services/emergency-loans",
+        "description": "When you need cash fast",
+        "anchorText": "Get emergency cash"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply online anytime",
+        "anchorText": "Apply online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Cash Advance Laws for Chula Vista Residents",
+    "content": "Chula Vista residents are protected by California's strict Deferred Deposit Transaction Law, administered by the California Department of Financial Protection and Innovation (DFPI). These regulations prevent predatory lending and protect borrowers in San Diego County.",
+    "keyPoints": [
+      "Maximum loan: $300 including all fees (typical $255 cash with $45 fee)",
+      "Fee cap: 15% of check amount, maximum $45",
+      "APR: Approximately 460% for standard 14-day loans",
+      "Loan term: Cannot exceed 31 days",
+      "One loan per person: Can only have one active payday loan",
+      "No rollovers: Cannot refinance or extend loans for extra fees",
+      "Criminal protection: Cannot threaten or pursue criminal prosecution",
+      "NSF fees limited: Only one $15 fee per bounced check",
+      "Clear disclosures: All fees stated in dollars and APR"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for general educational purposes and does not constitute legal advice. Payday loan laws may change. For current information, contact the DFPI at 1-866-275-2677 or dfpi.ca.gov. Consult a California attorney for specific legal questions. Individual lender terms vary within state law limits."
+  },
+
+  "localReviews": {
+    "headline": "Chula Vista Customer Reviews",
+    "locationId": "chula-vista-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Carlos R.",
+        "rating": 5,
+        "text": "Excellent service near the Bayfront Park. Very quick process and professional staff. Got my cash in about 25 minutes. Highly satisfied!",
+        "date": "2024-11-21"
+      },
+      {
+        "name": "Sofia L.",
+        "rating": 5,
+        "text": "Great location on Broadway. Easy to access from I-5. Staff explained everything clearly. Fast and convenient service.",
+        "date": "2024-10-16"
+      },
+      {
+        "name": "Diego M.",
+        "rating": 4,
+        "text": "Good service in Chula Vista. Professional team, clear terms. Easy to find and good parking available.",
+        "date": "2024-09-08"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving San Diego County Cities",
+    "intro": "We also serve these nearby San Diego County communities:",
+    "cities": [
+      {"name": "San Diego", "slug": "san-diego", "url": "/locations/california/san-diego", "distanceMiles": 20},
+      {"name": "Imperial Beach", "slug": "imperial-beach", "url": "/locations/california/imperial-beach", "distanceMiles": 8},
+      {"name": "Coronado", "slug": "coronado", "url": "/locations/california/coronado", "distanceMiles": 15},
+      {"name": "National City", "slug": "national-city", "url": "/locations/california/national-city", "distanceMiles": 9}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Chula Vista location?",
+      "answer": "We're located at 1845 South Broadway, Suite 130, near South Bay Nature Preserve and Bayfront Park. Take I-5 Exit 23 toward H Street/Broadway. Convenient parking available."
+    },
+    {
+      "question": "What documents do I need?",
+      "answer": "Bring a valid government ID, recent pay stub or bank statements showing income, and your active checking account information. Most applicants are approved within 30 minutes."
+    },
+    {
+      "question": "What's the maximum I can borrow?",
+      "answer": "California law sets the maximum at $300 total including all fees. You'll typically receive $255 in cash with a $45 fee. The exact amount depends on your income."
+    },
+    {
+      "question": "How fast is approval in Chula Vista?",
+      "answer": "Most residents at our South Broadway location are approved and receive cash within 30 minutes. We have an efficient verification process."
+    },
+    {
+      "question": "Are there hidden fees?",
+      "answer": "No. California requires all fees to be disclosed clearly in dollars and APR. You'll know the exact cost before signing anything."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Fast Cash in Chula Vista Today",
+    "subheadline": "Visit our Broadway location or apply online",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=chula-vista-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (619) 555-0298",
+      "url": "tel:+16195550298"
+    },
+    "address": "1845 South Broadway, Suite 130, Chula Vista, CA 91910"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Chula Vista", "url": "/locations/california/chula-vista"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1560707303-4e8d64df3ec6?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Chula Vista location near South Bay Nature Preserve",
+      "caption": "Our convenient Chula Vista branch on South Broadway"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0"
+  }
+}

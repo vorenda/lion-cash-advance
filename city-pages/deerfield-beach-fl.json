@@ -1,0 +1,219 @@
+{
+  "id": "deerfield-beach-fl",
+  "city": "Deerfield Beach",
+  "slug": "deerfield-beach",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "countyName": "Broward County",
+  "serviceNiche": "Cash Advance Loans",
+  "businessName": "Lion Cash Advance",
+
+  "seo": {
+    "title": "Cash Advance Loans in Deerfield Beach, FL | Fast Cash Near the Pier | Lion Cash Advance",
+    "metaDescription": "Get quick cash in Deerfield Beach near the famous Deerfield Pier. Same-day approval and fast funding. Call Lion Cash Advance at (954) 555-0134 today.",
+    "canonicalUrl": "/locations/florida/deerfield-beach",
+    "keywords": [
+      "cash advance deerfield beach",
+      "payday loans deerfield beach fl",
+      "quick cash near me deerfield beach",
+      "emergency loans deerfield beach",
+      "fast payday loans broward county"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Deerfield Beach, FL",
+    "subheadline": "Quick emergency cash for beach communities",
+    "ctaText": "Apply Now for Deerfield Beach Cash",
+    "ctaUrl": "/apply?location=deerfield-beach-fl",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=deerfield+beach+florida+cash+advance"
+    }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1573548387169-ec6f5e8ad8a9?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Deerfield Beach office location",
+      "caption": "Professional cash advance services in Deerfield Beach"
+    }
+  },
+
+  "localProof": {
+    "headline": "Visit Us Near Deerfield Beach Pier",
+    "directions": "We are conveniently located at 1850 Federal Highway, just a short walk from the famous Deerfield Pier and Deerfield Beach. If you're coming from I-95, take the Atlantic Avenue exit toward the beach. We're near Quiet Waters Park and easy to find from US-1 (Federal Highway) and FL-A1A.",
+    "landmarks": [
+      "Deerfield Pier",
+      "Deerfield Beach",
+      "Quiet Waters Park",
+      "Beach Boulevard"
+    ],
+    "highways": [
+      "I-95",
+      "US-1",
+      "FL-A1A"
+    ],
+    "neighborhoodName": "Deerfield Beach Coastal Area",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Deerfield Beach",
+    "street": "1850 Federal Highway, Suite 105",
+    "city": "Deerfield Beach",
+    "state": "FL",
+    "zip": "33441",
+    "phone": "(954) 555-0134",
+    "formattedPhone": "+19545550134",
+    "formattedAddress": "1850 Federal Highway, Suite 105, Deerfield Beach, FL 33441"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Services in Deerfield Beach",
+    "intro": "At our Deerfield Beach location, we offer flexible cash advance solutions for Broward County residents:",
+    "services": [
+      {
+        "name": "Single-Payment Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Quick cash with straightforward repayment",
+        "anchorText": "Get a single-payment payday loan"
+      },
+      {
+        "name": "Installment Payday Loans",
+        "slug": "installment-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Flexible payments over time",
+        "anchorText": "Explore installment loan options"
+      },
+      {
+        "name": "Vacation Season Cash Advances",
+        "slug": "seasonal-cash",
+        "url": "/services/cash-advance-loans",
+        "description": "Perfect for beach season expenses",
+        "anchorText": "Get seasonal emergency cash"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Cash Advance Laws in Florida",
+    "content": "Residents of Deerfield Beach are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance.\n\nFlorida law caps single-payment payday loans at $500 with a maximum fee of 10% of the loan amount, plus a $5 verification fee. For a $500 loan, you would pay no more than $55 in fees. For installment payday loans, the maximum is $1,000 with fees capped at 8% of the outstanding balance on a biweekly basis. All lenders must comply with federal Truth-in-Lending Act disclosure requirements.\n\nOne of Florida's most important protections is the 'one loan at a time' rule. You cannot have more than one payday loan outstanding anywhere in Florida, and you must wait 24 hours after paying off one loan before taking out another. This is enforced through a mandatory statewide database. Loan rollovers and extensions are strictly prohibited.",
+    "keyPoints": [
+      "All payday lenders in Florida must be licensed by the Florida Office of Financial Regulation",
+      "You can only have one cash advance loan at a time in Florida",
+      "Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee",
+      "Installment loans are capped at $1,000 with maximum 8% biweekly fee",
+      "You must wait 24 hours after paying off one loan before taking out another",
+      "Loan rollovers and extensions are prohibited by law",
+      "If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling",
+      "You cannot be criminally prosecuted for an unpaid payday loan",
+      "Prepayment penalties are prohibited"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR), Division of Consumer Finance",
+    "regulatoryUrl": "https://flofr.gov",
+    "contactPhone": "(850) 487-9687",
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal or financial advice. Payday loan laws and regulations are subject to change. This information was last verified on January 15, 2025. For the most accurate information about Florida payday loan regulations, please contact the Florida Office of Financial Regulation."
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Broward County Coastal Communities",
+    "intro": "Can't visit our Deerfield Beach office? We also serve:",
+    "cities": [
+      {
+        "name": "Pompano Beach",
+        "slug": "pompano-beach",
+        "url": "/locations/florida/pompano-beach",
+        "distanceMiles": 6
+      },
+      {
+        "name": "Coral Springs",
+        "slug": "coral-springs",
+        "url": "/locations/florida/coral-springs",
+        "distanceMiles": 8
+      },
+      {
+        "name": "Margate",
+        "slug": "margate",
+        "url": "/locations/florida/margate",
+        "distanceMiles": 4
+      },
+      {
+        "name": "Lighthouse Point",
+        "slug": "lighthouse-point",
+        "url": "/locations/florida/lighthouse-point",
+        "distanceMiles": 5
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Deerfield Beach cash advance office?",
+      "answer": "We're located at 1850 Federal Highway, Suite 105, just a short walk from the famous Deerfield Pier and Deerfield Beach. We're easy to find from I-95, US-1, and FL-A1A. Free parking is available for our customers."
+    },
+    {
+      "question": "What are your operating hours in Deerfield Beach?",
+      "answer": "Monday through Friday 9:00 AM - 6:00 PM, Saturday 10:00 AM - 4:00 PM. We're closed on Sundays. For holiday hours, call (954) 555-0134."
+    },
+    {
+      "question": "How long does the approval process take in Deerfield Beach?",
+      "answer": "Most customers are approved and receive funding within 30 minutes. You can apply online and visit our office to speed up the process. We make getting emergency cash fast and easy."
+    },
+    {
+      "question": "What do I need to bring to get a cash advance?",
+      "answer": "Bring a valid government-issued ID (driver's license or passport), recent proof of income (pay stub or bank statement), and a blank check from your checking account. We'll explain all costs upfront before you sign anything."
+    },
+    {
+      "question": "Are there other cash advance locations near Deerfield Beach?",
+      "answer": "Yes! We serve Broward County including Pompano Beach (6 miles), Coral Springs (8 miles), Margate (4 miles), and Lighthouse Point (5 miles). Call us for directions to your nearest location."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Quick Cash in Deerfield Beach",
+    "subheadline": "Visit our Federal Highway office or apply online today",
+    "primaryCta": {
+      "text": "Apply Now for Deerfield Beach Cash",
+      "url": "/apply?location=deerfield-beach-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (954) 555-0134",
+      "url": "tel:+19545550134"
+    },
+    "address": "1850 Federal Highway, Suite 105, Deerfield Beach, FL 33441"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - Deerfield Beach",
+    "areaServed": "Deerfield Beach, FL",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "Deerfield Beach", "url": "/locations/florida/deerfield-beach"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:00:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batchNumber": 2,
+    "cityNumber": 16
+  }
+}

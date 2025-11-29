@@ -1,0 +1,252 @@
+{
+  "id": "jacksonville-fl",
+  "city": "Jacksonville",
+  "slug": "jacksonville",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "county": "Duval",
+  "serviceNiche": "Cash Advance Loans",
+  "population": 868031,
+
+  "seo": {
+    "title": "Cash Advance Loans Jacksonville | San Marco & Downtown | Lion Cash Advance",
+    "metaDescription": "Fast cash advances in Jacksonville near San Marco and downtown. Same-day approval, no credit check. Licensed cash advance loans in Duval County.",
+    "canonicalUrl": "/locations/florida/jacksonville",
+    "keywords": [
+      "cash advance jacksonville",
+      "jacksonville cash loans",
+      "payday loans jacksonville florida",
+      "cash advance near me jacksonville",
+      "fast cash duval county"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Jacksonville, Florida",
+    "subheadline": "Get emergency cash near San Marco. Quick approval, no credit check required.",
+    "ctaText": "Get Cash Advance Now",
+    "ctaUrl": "/apply?location=jacksonville-fl",
+    "secondaryCta": {
+      "text": "Call (904) 555-0623",
+      "url": "tel:+19045550623"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Jacksonville",
+    "directions": "We are conveniently located at 2156 San Marco Avenue, right across from the historic San Marco neighborhood and just down the road from the Cummer Museum of Art and Gardens. If you are taking I-95, take Exit 344 for quick access. We're also near the Jacksonville Zoo and Riverside Avondale area.",
+    "landmarks": [
+      "San Marco Historic District",
+      "Cummer Museum",
+      "Jacksonville Zoo"
+    ],
+    "highway": "I-95",
+    "exit": "Exit 344",
+    "neighborhoodName": "San Marco Historic District",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 3:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance Jacksonville",
+    "street": "2156 San Marco Avenue, Suite 180",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32207",
+    "phone": "(904) 555-0623",
+    "formattedPhone": "+19045550623",
+    "formattedAddress": "2156 San Marco Avenue, Suite 180, Jacksonville, FL 32207",
+    "coordinates": {
+      "latitude": 30.3315,
+      "longitude": -81.6574
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=30.3315,-81.6574"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Services Available in Duval County",
+    "intro": "Our Jacksonville location serves Duval County residents with several cash advance options:",
+    "services": [
+      {
+        "name": "Single Payment Cash Advances",
+        "slug": "single-payment-cash-advances",
+        "url": "/services/single-payment-cash-advances",
+        "description": "Get up to $500 with fast approval",
+        "anchorText": "Learn about Single Payment Cash Advances"
+      },
+      {
+        "name": "Installment Cash Loans",
+        "slug": "installment-cash-loans",
+        "url": "/services/installment-cash-loans",
+        "description": "Borrow up to $1,000 with flexible payments",
+        "anchorText": "Explore Installment Cash Loan Options"
+      },
+      {
+        "name": "Emergency Cash Advances",
+        "slug": "emergency-cash-advances",
+        "url": "/services/emergency-cash-advances",
+        "description": "Get approved same-day for emergency expenses",
+        "anchorText": "Apply for Emergency Cash Today"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Cash Advance Laws in Jacksonville, Florida",
+    "content": "Residents of Jacksonville are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance. Florida law caps single-payment payday loans at $500 with a maximum fee of 10% of the loan amount. For installment loans, the cap is $1,000 with fees limited to 8% of the outstanding balance on a biweekly basis.",
+    "keyPoints": [
+      "All payday lenders in Jacksonville must be licensed by the Florida Office of Financial Regulation",
+      "You can only have one payday loan at a time in Florida, enforced by statewide database",
+      "Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee",
+      "Installment loans are capped at $1,000 with maximum 8% biweekly fee on outstanding balance",
+      "You must wait 24 hours after paying off one loan before taking out another",
+      "Loan rollovers and extensions are prohibited by law",
+      "If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling",
+      "You cannot be criminally prosecuted for an unpaid payday loan",
+      "Prepayment penalties are prohibited - you can pay off early without extra cost"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR)",
+    "regulatoryUrl": "https://flofr.gov",
+    "regulatoryPhone": "(850) 487-9687",
+    "disclaimer": "This information is provided for general educational purposes only and should not be construed as legal or financial advice. Payday loan laws and regulations are subject to change. For the most accurate and up-to-date information about Florida payday loan regulations, please contact the Florida Office of Financial Regulation at (850) 487-9687 or visit flofr.gov. Consult with a licensed financial advisor or attorney regarding your specific situation before making borrowing decisions."
+  },
+
+  "localReviews": {
+    "headline": "What Jacksonville Customers Say About Lion Cash Advance",
+    "locationId": "jacksonville-fl",
+    "reviews": [
+      {
+        "name": "Thomas R.",
+        "rating": 5,
+        "text": "Excellent service at the Jacksonville location. Professional staff, quick approval, and they explained the Florida protections thoroughly.",
+        "date": "2025-01-13"
+      },
+      {
+        "name": "Patricia N.",
+        "rating": 5,
+        "text": "Got cash same-day at San Marco. Great location, easy to access from I-95. Would recommend to anyone in Duval County.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Christopher L.",
+        "rating": 4,
+        "text": "Fast process. They checked the database as required by law and got me approved within 20 minutes. Very professional.",
+        "date": "2025-01-04"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Jacksonville Area Communities",
+    "intro": "Can't make it to our San Marco location? We also serve these nearby cities:",
+    "cities": [
+      {
+        "name": "Atlantic Beach",
+        "slug": "atlantic-beach",
+        "url": "/locations/florida/atlantic-beach",
+        "distanceMiles": 12
+      },
+      {
+        "name": "Neptune Beach",
+        "slug": "neptune-beach",
+        "url": "/locations/florida/neptune-beach",
+        "distanceMiles": 14
+      },
+      {
+        "name": "Orange Park",
+        "slug": "orange-park",
+        "url": "/locations/florida/orange-park",
+        "distanceMiles": 18
+      },
+      {
+        "name": "Fernandina",
+        "slug": "fernandina",
+        "url": "/locations/florida/fernandina",
+        "distanceMiles": 28
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Jacksonville cash advance location?",
+      "answer": "Our Jacksonville branch is located at 2156 San Marco Avenue, Suite 180, in the historic San Marco neighborhood. We're easily accessible from I-95 Exit 344, near the Cummer Museum and Jacksonville Zoo."
+    },
+    {
+      "question": "What are your hours at the Jacksonville location?",
+      "answer": "We're open Monday through Friday from 9:00 AM to 6:00 PM, and Saturday 10:00 AM to 3:00 PM. We're closed on Sundays. Walk-ins are always welcome!"
+    },
+    {
+      "question": "Is Jacksonville's location convenient for Riverside and Avondale residents?",
+      "answer": "Yes! We're right in that area near San Marco. The Riverside Avondale neighborhood is very close to our location, making it convenient for residents of those historic areas."
+    },
+    {
+      "question": "What if I'm late paying my Jacksonville cash advance?",
+      "answer": "Don't worry - Florida law provides protections. If you can't pay on time, inform your lender IN PERSON before the due date. You're entitled to a 60-day grace period with free credit counseling at no additional charge."
+    },
+    {
+      "question": "Can I verify that Lion Cash Advance is licensed in Jacksonville?",
+      "answer": "Yes! You can verify our license status anytime by visiting flofr.gov/education/verify-a-license or calling the Florida Office of Financial Regulation at (850) 487-9687. We are fully licensed and compliant with all Florida regulations."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Need Emergency Cash in Jacksonville Today?",
+    "subheadline": "Visit our San Marco location or apply online for fast approval",
+    "primaryCta": {
+      "text": "Apply for Cash Advance Now",
+      "url": "/apply?location=jacksonville-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (904) 555-0623",
+      "url": "tel:+19045550623"
+    },
+    "address": "2156 San Marco Avenue, Suite 180, Jacksonville, FL 32207"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance Jacksonville",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "2156 San Marco Avenue, Suite 180",
+      "addressLocality": "Jacksonville",
+      "addressRegion": "FL",
+      "postalCode": "32207",
+      "addressCountry": "US"
+    },
+    "telephone": "+19045550623",
+    "areaServed": "Duval County, Florida",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "Jacksonville", "url": "/locations/florida/jacksonville"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-01-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliance": {
+      "hasLocalFacts": true,
+      "hasStateCompliance": true,
+      "hasLocalAreaCode": true,
+      "hasSpecificHighway": true,
+      "hasSpecificExit": true,
+      "hasInternalLinks": true
+    }
+  }
+}

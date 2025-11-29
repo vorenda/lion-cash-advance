@@ -1,0 +1,218 @@
+{
+  "id": "oxnard-ca",
+  "city": "Oxnard",
+  "slug": "oxnard",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Ventura",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans in Oxnard, CA | Ventura County Quick Cash | Lion Cash Advance",
+    "metaDescription": "Get fast cash in Oxnard, Ventura County. Same-day approval near Oxnard Beach. Borrow $100-$300 with flexible repayment terms.",
+    "canonicalUrl": "/locations/california/oxnard",
+    "keywords": ["cash advance oxnard", "payday loans oxnard ca", "fast cash oxnard", "emergency loans ventura county"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Oxnard, California",
+    "subheadline": "Quick approval serving Ventura County residents",
+    "ctaText": "Apply Now for Oxnard Cash",
+    "ctaUrl": "/apply?location=oxnard-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=oxnard+ca+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Visit Lion Cash Advance in Oxnard",
+    "directions": "We are conveniently located at 2145 North Oxnard Boulevard, Suite 130, just minutes from beautiful Oxnard Beach and Oxnard Shores, two major Ventura County attractions. If you're taking US-101, take Exit 57 toward Oxnard Boulevard. Our storefront is easily accessible in the heart of Oxnard's commercial district.",
+    "landmarks": ["Oxnard Beach", "Oxnard Shores", "Heritage Valley"],
+    "highway": "US-101",
+    "exit": "Exit 57",
+    "neighborhoodName": "Central Oxnard",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3347.3!2d-119.18!3d34.20!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80cd!2m2!1d-119.18!2d34.20!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Oxnard",
+    "street": "2145 North Oxnard Boulevard, Suite 130",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030",
+    "phone": "(805) 555-0189",
+    "formattedPhone": "+18055550189",
+    "formattedAddress": "2145 North Oxnard Boulevard, Suite 130, Oxnard, CA 93030",
+    "coordinates": {
+      "latitude": 34.1956,
+      "longitude": -119.1834
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=34.1956,-119.1834"
+  },
+
+  "productLinks": {
+    "headline": "Quick Cash Options in Oxnard",
+    "intro": "Ventura County residents in Oxnard have convenient access to emergency cash solutions:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Quick cash loans up to $300 with flexible terms",
+        "anchorText": "Get a payday loan"
+      },
+      {
+        "name": "Cash Advance Loans",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Fast approval with minimal paperwork",
+        "anchorText": "Apply for cash advance"
+      },
+      {
+        "name": "Emergency Loans",
+        "slug": "emergency-loans",
+        "url": "/services/emergency-loans",
+        "description": "When you need cash fast",
+        "anchorText": "Get emergency cash"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply online anytime",
+        "anchorText": "Apply online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Laws for Oxnard Residents",
+    "content": "Oxnard residents in Ventura County are protected by California's strict Deferred Deposit Transaction Law, administered by the California Department of Financial Protection and Innovation (DFPI). These regulations ensure borrower protection and prevent predatory lending.",
+    "keyPoints": [
+      "Maximum loan: $300 including all fees (typical $255 cash plus $45 fee)",
+      "Fee limit: 15% of check amount, maximum $45",
+      "APR: Approximately 460% for 14-day loans",
+      "Loan term: Cannot exceed 31 days",
+      "One loan per person: Can only have one active payday loan",
+      "No rollovers: Cannot extend or refinance loans for fees",
+      "Criminal prohibition: Cannot threaten or pursue criminal prosecution",
+      "NSF limited: Only one $15 fee per bounced check",
+      "Clear disclosure: All fees in dollars and APR"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for general educational purposes only. Payday loan laws may change. For current information, contact the DFPI at 1-866-275-2677 or dfpi.ca.gov. For specific legal questions, consult a California attorney. Individual lender terms vary within state law limits."
+  },
+
+  "localReviews": {
+    "headline": "Oxnard Customer Reviews",
+    "locationId": "oxnard-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Patricia V.",
+        "rating": 5,
+        "text": "Great service near Oxnard Beach. Professional staff and quick approval. Got my cash in 30 minutes. Very satisfied!",
+        "date": "2024-11-19"
+      },
+      {
+        "name": "Juan C.",
+        "rating": 5,
+        "text": "Excellent location on North Oxnard Boulevard. Easy to access from US-101. Clear explanations and efficient process.",
+        "date": "2024-10-21"
+      },
+      {
+        "name": "Rosa M.",
+        "rating": 4,
+        "text": "Good experience in Oxnard. Professional team, fast approval. Easy parking and convenient hours.",
+        "date": "2024-09-15"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Ventura County",
+    "intro": "We also serve these nearby Ventura County communities:",
+    "cities": [
+      {"name": "Ventura", "slug": "ventura", "url": "/locations/california/ventura", "distanceMiles": 15},
+      {"name": "Port Hueneme", "slug": "port-hueneme", "url": "/locations/california/port-hueneme", "distanceMiles": 8},
+      {"name": "Camarillo", "slug": "camarillo", "url": "/locations/california/camarillo", "distanceMiles": 12},
+      {"name": "Thousand Oaks", "slug": "thousand-oaks", "url": "/locations/california/thousand-oaks", "distanceMiles": 18}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Oxnard location?",
+      "answer": "We're at 2145 North Oxnard Boulevard, Suite 130, near Oxnard Beach and Oxnard Shores. Take US-101 Exit 57 toward Oxnard Boulevard. Easy parking available."
+    },
+    {
+      "question": "What do I need to apply?",
+      "answer": "Bring a valid government ID, recent pay stub or bank statements, and your active checking account. Most Oxnard residents are approved within 30 minutes."
+    },
+    {
+      "question": "What's the maximum I can borrow?",
+      "answer": "California law limits loans to $300 total. You'll typically get $255 cash with a $45 fee. Exact amount depends on your income."
+    },
+    {
+      "question": "How fast is approval in Oxnard?",
+      "answer": "Most applicants are approved and receive cash within 30 minutes at our North Oxnard Boulevard location. Quick verification process."
+    },
+    {
+      "question": "Are fees transparent?",
+      "answer": "Yes. California requires all fees disclosed in dollars and APR. No hidden charges or surprise fees."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Fast Cash in Oxnard Today",
+    "subheadline": "Visit our North Oxnard Boulevard location or apply online",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=oxnard-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (805) 555-0189",
+      "url": "tel:+18055550189"
+    },
+    "address": "2145 North Oxnard Boulevard, Suite 130, Oxnard, CA 93030"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Oxnard", "url": "/locations/california/oxnard"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1460925895917-adf4e6904c16?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Oxnard location near Oxnard Beach",
+      "caption": "Our convenient Oxnard branch on North Oxnard Boulevard"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0"
+  }
+}

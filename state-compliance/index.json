@@ -1,0 +1,26 @@
+{
+  "states": [
+    {
+      "state": "Florida",
+      "stateCode": "FL",
+      "file": "FL.json",
+      "legalStatus": "Legal with restrictions",
+      "maxLoanAmount": "$500 (single-payment), $1,000 (installment)",
+      "typicalAPR": "260-456%",
+      "regulatoryBody": "Florida Office of Financial Regulation (OFR)"
+    },
+    {
+      "state": "California",
+      "stateCode": "CA",
+      "file": "CA.json",
+      "legalStatus": "Legal with restrictions",
+      "maxLoanAmount": "$300 (including fees)",
+      "typicalAPR": "460%",
+      "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)"
+    }
+  ],
+  "totalStates": 2,
+  "serviceNiche": "Cash Advance Loans",
+  "generatedAt": "2025-01-29",
+  "notes": "Both Florida and California have strict consumer protection laws for payday lending. All city pages should include state-specific compliance information."
+}

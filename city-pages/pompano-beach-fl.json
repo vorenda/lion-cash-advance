@@ -1,0 +1,219 @@
+{
+  "id": "pompano-beach-fl",
+  "city": "Pompano Beach",
+  "slug": "pompano-beach",
+  "state": "Florida",
+  "stateCode": "FL",
+  "stateSlug": "florida",
+  "countyName": "Broward County",
+  "serviceNiche": "Cash Advance Loans",
+  "businessName": "Lion Cash Advance",
+
+  "seo": {
+    "title": "Cash Advance Loans in Pompano Beach, FL | Quick Cash Near the Pier | Lion Cash Advance",
+    "metaDescription": "Need cash in Pompano Beach? Get approved for cash advances near Pompano Beach Pier. Fast same-day funding available. Call (954) 555-0158 today.",
+    "canonicalUrl": "/locations/florida/pompano-beach",
+    "keywords": [
+      "cash advance pompano beach",
+      "payday loans pompano beach fl",
+      "quick cash pompano beach",
+      "emergency loans near me pompano beach",
+      "fast payday loans broward"
+    ]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Pompano Beach, FL",
+    "subheadline": "Emergency cash for Pompano Beach residents",
+    "ctaText": "Apply for Pompano Beach Cash Now",
+    "ctaUrl": "/apply?location=pompano-beach-fl",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=pompano+beach+florida+cash+advance"
+    }
+  },
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1573548387169-ec6f5e8ad8a9?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Pompano Beach office near the pier",
+      "caption": "Professional cash advance services in Pompano Beach"
+    }
+  },
+
+  "localProof": {
+    "headline": "Visit Us Near Pompano Beach Pier",
+    "directions": "We are conveniently located at 1750 Atlantic Street, right near the iconic Pompano Beach Pier and Coral Ridge area. If you're taking I-95, take the Atlantic Boulevard exit toward the beach. We're easily accessible from US-1 and FL-A1A, close to Hillsboro Inlet and Atlantic Ridge Country Club.",
+    "landmarks": [
+      "Pompano Beach Pier",
+      "Coral Ridge",
+      "Hillsboro Inlet",
+      "Atlantic Ridge Country Club"
+    ],
+    "highways": [
+      "I-95",
+      "US-1",
+      "FL-A1A"
+    ],
+    "neighborhoodName": "Pompano Beach Waterfront",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    }
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Pompano Beach",
+    "street": "1750 Atlantic Street, Suite 140",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "zip": "33060",
+    "phone": "(954) 555-0158",
+    "formattedPhone": "+19545550158",
+    "formattedAddress": "1750 Atlantic Street, Suite 140, Pompano Beach, FL 33060"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Loans Available in Pompano Beach",
+    "intro": "At our Pompano Beach location, we provide quick cash solutions for Broward County residents:",
+    "services": [
+      {
+        "name": "Single-Payment Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Quick cash with one payment",
+        "anchorText": "Get a payday loan in Pompano Beach"
+      },
+      {
+        "name": "Installment Payday Loans",
+        "slug": "installment-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Payments over multiple periods",
+        "anchorText": "Choose installment options"
+      },
+      {
+        "name": "Online Cash Advances",
+        "slug": "online-advances",
+        "url": "/services/cash-advance-loans",
+        "description": "Apply online, complete in-office",
+        "anchorText": "Apply online for faster processing"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding Cash Advance Laws in Florida",
+    "content": "Residents of Pompano Beach are protected by Florida's comprehensive payday lending regulations, administered by the Florida Office of Financial Regulation's Division of Consumer Finance.\n\nFlorida law caps single-payment payday loans at $500 with a maximum fee of 10% of the loan amount, plus a $5 verification fee. For a $500 loan, you would pay no more than $55 in fees. For installment payday loans, the maximum is $1,000 with fees capped at 8% of the outstanding balance on a biweekly basis. All lenders must comply with federal Truth-in-Lending Act disclosure requirements.\n\nOne of Florida's most important protections is the 'one loan at a time' rule. You cannot have more than one payday loan outstanding anywhere in Florida, and you must wait 24 hours after paying off one loan before taking out another. This is enforced through a mandatory statewide database. Loan rollovers and extensions are strictly prohibited.",
+    "keyPoints": [
+      "All payday lenders in Florida must be licensed by the Florida Office of Financial Regulation",
+      "You can only have one cash advance loan at a time in Florida",
+      "Single-payment loans are capped at $500 with maximum 10% fee plus $5 verification fee",
+      "Installment loans are capped at $1,000 with maximum 8% biweekly fee",
+      "You must wait 24 hours after paying off one loan before taking out another",
+      "Loan rollovers and extensions are prohibited by law",
+      "If you can't pay on time, you're entitled to a 60-day grace period with free credit counseling",
+      "You cannot be criminally prosecuted for an unpaid payday loan",
+      "Prepayment penalties are prohibited"
+    ],
+    "regulatoryBody": "Florida Office of Financial Regulation (OFR), Division of Consumer Finance",
+    "regulatoryUrl": "https://flofr.gov",
+    "contactPhone": "(850) 487-9687",
+    "disclaimer": "This information is provided for general educational purposes only. Laws and regulations are subject to change. For current information, contact the Florida Office of Financial Regulation at (850) 487-9687 or visit flofr.gov."
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Broward Coastal Areas",
+    "intro": "Can't visit Pompano Beach? We also serve:",
+    "cities": [
+      {
+        "name": "Deerfield Beach",
+        "slug": "deerfield-beach",
+        "url": "/locations/florida/deerfield-beach",
+        "distanceMiles": 6
+      },
+      {
+        "name": "Fort Lauderdale",
+        "slug": "fort-lauderdale",
+        "url": "/locations/florida/fort-lauderdale",
+        "distanceMiles": 9
+      },
+      {
+        "name": "Coral Springs",
+        "slug": "coral-springs",
+        "url": "/locations/florida/coral-springs",
+        "distanceMiles": 7
+      },
+      {
+        "name": "Margate",
+        "slug": "margate",
+        "url": "/locations/florida/margate",
+        "distanceMiles": 10
+      }
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Pompano Beach cash advance office?",
+      "answer": "We're at 1750 Atlantic Street, Suite 140, right near the iconic Pompano Beach Pier and Coral Ridge area. Easy access from I-95, US-1, and FL-A1A."
+    },
+    {
+      "question": "What are your hours?",
+      "answer": "Monday through Friday 9:00 AM - 6:00 PM, Saturday 10:00 AM - 4:00 PM. Closed Sundays. Call (954) 555-0158 for holiday hours."
+    },
+    {
+      "question": "How fast is the approval process?",
+      "answer": "Most customers are approved and funded within 30 minutes. You can apply online first to speed up the process when you visit our office."
+    },
+    {
+      "question": "What do I need to bring?",
+      "answer": "Bring a valid government ID, proof of income (pay stub or bank statement), and a blank check. We'll explain all fees before you proceed."
+    },
+    {
+      "question": "Are there other locations nearby?",
+      "answer": "Yes! We serve Deerfield Beach (6 miles), Fort Lauderdale (9 miles), Coral Springs (7 miles), and Margate (10 miles). Call for directions to any location."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Cash in Pompano Beach",
+    "subheadline": "Visit our Atlantic Street office or start your application online",
+    "primaryCta": {
+      "text": "Apply for Pompano Beach Cash",
+      "url": "/apply?location=pompano-beach-fl"
+    },
+    "secondaryCta": {
+      "text": "Call (954) 555-0158",
+      "url": "tel:+19545550158"
+    },
+    "address": "1750 Atlantic Street, Suite 140, Pompano Beach, FL 33060"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - Pompano Beach",
+    "areaServed": "Pompano Beach, FL",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "Florida", "url": "/locations/florida"},
+    {"label": "Pompano Beach", "url": "/locations/florida/pompano-beach"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:00:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "batchNumber": 2,
+    "cityNumber": 18
+  }
+}

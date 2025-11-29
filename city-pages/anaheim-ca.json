@@ -1,0 +1,218 @@
+{
+  "id": "anaheim-ca",
+  "city": "Anaheim",
+  "slug": "anaheim",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Orange County",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans in Anaheim, CA | Near Disneyland | Lion Cash Advance",
+    "metaDescription": "Need quick cash in Anaheim? Our Orange County location near Disneyland offers same-day approval. Borrow $100-$300 with flexible terms. Get approved in 30 minutes.",
+    "canonicalUrl": "/locations/california/anaheim",
+    "keywords": ["cash advance anaheim", "payday loans anaheim ca", "quick cash anaheim", "cash loans orange county"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Anaheim, California",
+    "subheadline": "Quick approval near Disneyland and Anaheim Convention Center",
+    "ctaText": "Apply Now for Anaheim Cash",
+    "ctaUrl": "/apply?location=anaheim-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=anaheim+ca+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Visit Lion Cash Advance in Anaheim",
+    "directions": "We are conveniently located at 1250 South Harbor Boulevard, just minutes from Disneyland Park and the Anaheim Convention Center, two of Orange County's major landmarks. If you're taking I-5, take Exit 110A toward Harbor Boulevard. Our storefront is highly visible and easy to access from the busy Harbor Boulevard commercial corridor.",
+    "landmarks": ["Disneyland", "Anaheim Convention Center", "Disneyland Park"],
+    "highway": "I-5",
+    "exit": "Exit 110A",
+    "neighborhoodName": "Central Anaheim",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3330.5!2d-117.9!3d33.81!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcc!2m2!1d-117.9!2d33.81!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Anaheim",
+    "street": "1250 South Harbor Boulevard, Suite 110",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92805",
+    "phone": "(714) 555-0189",
+    "formattedPhone": "+17145550189",
+    "formattedAddress": "1250 South Harbor Boulevard, Suite 110, Anaheim, CA 92805",
+    "coordinates": {
+      "latitude": 33.8126,
+      "longitude": -117.9189
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=33.8126,-117.9189"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Solutions for Orange County Residents",
+    "intro": "Whether you're a local Anaheim resident or visiting the area, Lion Cash Advance provides quick cash solutions in Orange County. From payday loans to personal cash advances, we help thousands of residents every month:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Quick cash loans up to $300 with terms up to 31 days",
+        "anchorText": "Learn about payday loans"
+      },
+      {
+        "name": "Cash Advance Loans",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Fast approval with minimal documentation",
+        "anchorText": "Apply for a cash advance"
+      },
+      {
+        "name": "Emergency Cash Loans",
+        "slug": "emergency-loans",
+        "url": "/services/emergency-loans",
+        "description": "When you need money fast for unexpected expenses",
+        "anchorText": "Get emergency cash"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply online from home or on-the-go",
+        "anchorText": "Apply online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Regulations Protecting Anaheim Residents",
+    "content": "Anaheim residents are protected by California's strict Deferred Deposit Transaction Law, regulated by the California Department of Financial Protection and Innovation (DFPI). California has implemented stronger borrower protections than most states, including loan amount limits, fee restrictions, and prohibitions on predatory lending practices.",
+    "keyPoints": [
+      "Maximum loan amount: $300 including all fees (typical cash is $255 with $45 maximum fee)",
+      "Fee cap: 15% maximum fee on the check amount (approximately 460% APR for 14-day loans)",
+      "Maximum loan term: 31 days",
+      "One active loan only: Can't take out a new loan while one is outstanding",
+      "No rollovers permitted: Lenders cannot refinance or roll over existing loans",
+      "No criminal threats: Lenders prohibited from threatening criminal prosecution",
+      "NSF fees limited: Only one $15 NSF fee per bounced check",
+      "Full disclosure required: All fees stated clearly in dollars and APR",
+      "License verification: All California payday lenders must be DFPI-licensed and verified"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for general educational purposes only and does not constitute legal advice. Payday loan laws may change. For current information, contact the DFPI at 1-866-275-2677 or visit dfpi.ca.gov. Consult a California attorney for specific legal questions. Individual lender terms vary within California law limits."
+  },
+
+  "localReviews": {
+    "headline": "What Anaheim and Orange County Customers Say",
+    "locationId": "anaheim-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "David L.",
+        "rating": 5,
+        "text": "Excellent service at the Harbor Boulevard location. Very close to Disneyland area, easy to find. Got approved and received my cash in less than 45 minutes. Great experience.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Linda R.",
+        "rating": 5,
+        "text": "Professional staff who explained everything clearly. They're right near the Convention Center which made it super convenient. Would definitely recommend to others in Anaheim.",
+        "date": "2024-10-15"
+      },
+      {
+        "name": "Miguel A.",
+        "rating": 4,
+        "text": "Quick and efficient process. The team was friendly and helped me through every step. Perfect for emergency cash needs in Orange County.",
+        "date": "2024-09-22"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Orange County Cities",
+    "intro": "Can't make it to Anaheim? We serve these neighboring Orange County communities:",
+    "cities": [
+      {"name": "Santa Ana", "slug": "santa-ana", "url": "/locations/california/santa-ana", "distanceMiles": 8},
+      {"name": "Garden Grove", "slug": "garden-grove", "url": "/locations/california/garden-grove", "distanceMiles": 6},
+      {"name": "Huntington Beach", "slug": "huntington-beach", "url": "/locations/california/huntington-beach", "distanceMiles": 12},
+      {"name": "Irvine", "slug": "irvine", "url": "/locations/california/irvine", "distanceMiles": 15}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where can I find your Anaheim cash advance location?",
+      "answer": "We're located at 1250 South Harbor Boulevard, Suite 110, right in the heart of Anaheim near Disneyland and the Convention Center. Take I-5 Exit 110A toward Harbor Boulevard for easy access. Plenty of parking available."
+    },
+    {
+      "question": "What documents do I need in Anaheim?",
+      "answer": "Bring a valid government ID (driver's license, passport, or ID card), recent proof of income (pay stub or bank statements), and an active checking account. That's all you need for approval in most cases."
+    },
+    {
+      "question": "How much can I borrow in Orange County?",
+      "answer": "California law limits loans to $300 maximum including fees. Typically, you'll receive $255 cash with a $45 fee under California's 15% fee cap. Your specific amount depends on your income and credit situation."
+    },
+    {
+      "question": "Can I apply online for Anaheim?",
+      "answer": "Yes! You can apply online and then visit our Harbor Boulevard location to complete the verification and receive your cash. We also welcome walk-ins with no appointment necessary."
+    },
+    {
+      "question": "What are your Anaheim location hours?",
+      "answer": "We're open Monday-Friday 9 AM to 6 PM, Saturday 10 AM to 4 PM, and closed Sundays. Visit during these times or apply online anytime for quick processing."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Fast Cash in Anaheim, Orange County",
+    "subheadline": "Visit our Harbor Boulevard location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=anaheim-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (714) 555-0189",
+      "url": "tel:+17145550189"
+    },
+    "address": "1250 South Harbor Boulevard, Suite 110, Anaheim, CA 92805"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Anaheim", "url": "/locations/california/anaheim"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1554224323-d4dcf81fc526?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Anaheim location near Disneyland",
+      "caption": "Our convenient Anaheim location on Harbor Boulevard"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0"
+  }
+}

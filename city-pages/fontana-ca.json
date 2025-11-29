@@ -1,0 +1,218 @@
+{
+  "id": "fontana-ca",
+  "city": "Fontana",
+  "slug": "fontana",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "San Bernardino",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans in Fontana, CA | San Bernardino County Cash | Lion Cash Advance",
+    "metaDescription": "Get fast cash in Fontana, San Bernardino County. Same-day approval near Fontana Park. Borrow $100-$300 with flexible terms.",
+    "canonicalUrl": "/locations/california/fontana",
+    "keywords": ["cash advance fontana", "payday loans fontana ca", "fast cash fontana", "emergency loans san bernardino county"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Fontana, California",
+    "subheadline": "Quick approval serving San Bernardino County residents",
+    "ctaText": "Apply Now for Fontana Cash",
+    "ctaUrl": "/apply?location=fontana-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=fontana+ca+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Visit Lion Cash Advance in Fontana",
+    "directions": "We are conveniently located at 9245 Sierra Avenue, Suite 115, right near Fontana Park and the Slover Mountain area, iconic locations in San Bernardino County. If you're taking I-15, take Exit 62 toward Sierra Avenue. Our storefront is prominently located on this major commercial corridor in the Inland Empire.",
+    "landmarks": ["Fontana Park", "Slover Mountain", "Regional Park"],
+    "highway": "I-15",
+    "exit": "Exit 62",
+    "neighborhoodName": "Central Fontana",
+    "hours": {
+      "monday": "9:00 AM - 6:00 PM",
+      "tuesday": "9:00 AM - 6:00 PM",
+      "wednesday": "9:00 AM - 6:00 PM",
+      "thursday": "9:00 AM - 6:00 PM",
+      "friday": "9:00 AM - 6:00 PM",
+      "saturday": "10:00 AM - 4:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3345.5!2d-117.43!3d34.17!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80cdb!2m2!1d-117.43!2d34.17!5e0!3m2!1sen!2sus!4v1234567890"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Fontana",
+    "street": "9245 Sierra Avenue, Suite 115",
+    "city": "Fontana",
+    "state": "CA",
+    "zip": "92337",
+    "phone": "(909) 555-0145",
+    "formattedPhone": "+19095550145",
+    "formattedAddress": "9245 Sierra Avenue, Suite 115, Fontana, CA 92337",
+    "coordinates": {
+      "latitude": 34.1722,
+      "longitude": -117.4367
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=34.1722,-117.4367"
+  },
+
+  "productLinks": {
+    "headline": "Quick Cash Options in Fontana",
+    "intro": "San Bernardino County residents in Fontana have convenient access to emergency cash:",
+    "services": [
+      {
+        "name": "Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Quick cash loans up to $300 with flexible terms",
+        "anchorText": "Get a payday loan"
+      },
+      {
+        "name": "Cash Advance Loans",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Fast approval with minimal paperwork",
+        "anchorText": "Apply for cash advance"
+      },
+      {
+        "name": "Emergency Loans",
+        "slug": "emergency-loans",
+        "url": "/services/emergency-loans",
+        "description": "For unexpected financial needs",
+        "anchorText": "Get emergency cash"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply from home or on the go",
+        "anchorText": "Apply online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "California Payday Loan Laws for Fontana Residents",
+    "content": "Fontana residents in San Bernardino County are protected by California's Deferred Deposit Transaction Law, enforced by the California Department of Financial Protection and Innovation (DFPI). These regulations ensure lender compliance with strict borrower protections.",
+    "keyPoints": [
+      "Maximum loan: $300 including all fees (typical $255 cash plus $45 fee)",
+      "Fee limit: 15% of check amount, maximum $45",
+      "APR: Approximately 460% for 14-day loans",
+      "Loan term: Cannot exceed 31 days",
+      "One loan only: Can't have multiple payday loans at once",
+      "No rollovers: Cannot extend or refinance loans for fees",
+      "Criminal prohibition: Cannot threaten criminal prosecution",
+      "Single NSF charge: Only one $15 fee per bounced check",
+      "Full disclosure: All fees in dollars and APR"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for general educational purposes only. Payday loan laws may change. For current information, contact the DFPI at 1-866-275-2677 or dfpi.ca.gov. For specific legal questions, consult a California attorney. Individual lender terms vary within state law limits."
+  },
+
+  "localReviews": {
+    "headline": "Fontana Customer Reviews",
+    "locationId": "fontana-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "Victor G.",
+        "rating": 5,
+        "text": "Excellent service in Fontana. Quick approval and friendly staff. Great location near Fontana Park. Got my cash fast!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Andrea R.",
+        "rating": 5,
+        "text": "Professional and efficient. Easy to find on Sierra Avenue. Clear explanations of all terms. Very happy with service.",
+        "date": "2024-10-19"
+      },
+      {
+        "name": "Marco L.",
+        "rating": 4,
+        "text": "Good experience in Fontana. Fast process, helpful staff. Easy access from I-15. Would recommend.",
+        "date": "2024-09-12"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving San Bernardino County",
+    "intro": "We also serve these nearby San Bernardino County communities:",
+    "cities": [
+      {"name": "Rialto", "slug": "rialto", "url": "/locations/california/rialto", "distanceMiles": 10},
+      {"name": "San Bernardino", "slug": "san-bernardino", "url": "/locations/california/san-bernardino", "distanceMiles": 15},
+      {"name": "Rancho Cucamonga", "slug": "rancho-cucamonga", "url": "/locations/california/rancho-cucamonga", "distanceMiles": 20},
+      {"name": "Ontario", "slug": "ontario", "url": "/locations/california/ontario", "distanceMiles": 18}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Fontana location?",
+      "answer": "We're at 9245 Sierra Avenue, Suite 115, near Fontana Park. Take I-15 Exit 62 toward Sierra Avenue. Easy parking and convenient access."
+    },
+    {
+      "question": "What do I need to bring?",
+      "answer": "Bring a valid government ID, recent pay stub or bank statements, and your active checking account information. Most residents are approved in about 30 minutes."
+    },
+    {
+      "question": "What's the maximum loan amount in California?",
+      "answer": "California limits loans to $300 total including fees. You'll typically receive $255 cash with a $45 fee under the 15% fee cap."
+    },
+    {
+      "question": "How quickly can I get approved?",
+      "answer": "Most Fontana residents are approved and receive cash within 30 minutes at our Sierra Avenue location. We have a quick verification process."
+    },
+    {
+      "question": "Are all fees disclosed upfront?",
+      "answer": "Yes. California law requires complete disclosure of all fees in both dollars and APR. No hidden charges or surprises."
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Get Fast Cash in Fontana Today",
+    "subheadline": "Visit our Sierra Avenue location or apply online",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=fontana-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (909) 555-0145",
+      "url": "tel:+19095550145"
+    },
+    "address": "9245 Sierra Avenue, Suite 115, Fontana, CA 92337"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Fontana", "url": "/locations/california/fontana"}
+  ],
+
+  "images": {
+    "hero": {
+      "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&h=600&fit=crop",
+      "alt": "Lion Cash Advance Fontana location near Fontana Park",
+      "caption": "Our professional Fontana branch on Sierra Avenue"
+    }
+  },
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0"
+  }
+}

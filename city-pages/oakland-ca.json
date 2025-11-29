@@ -1,0 +1,214 @@
+{
+  "id": "oakland-ca",
+  "city": "Oakland",
+  "slug": "oakland",
+  "state": "California",
+  "stateCode": "CA",
+  "stateSlug": "california",
+  "countyName": "Alameda County",
+  "serviceNiche": "Cash Advance Loans",
+
+  "seo": {
+    "title": "Cash Advance Loans Oakland | Near Lake Merritt | Lion Cash Advance",
+    "metaDescription": "Quick cash loans in Oakland near Lake Merritt. DFPI licensed, $300 max, 15% fee. Same-day funding. (510) 555-0425",
+    "canonicalUrl": "/locations/california/oakland",
+    "keywords": ["cash advance oakland", "payday loans oakland california", "quick cash lake merritt area", "emergency loans oakland"]
+  },
+
+  "hero": {
+    "h1": "Fast Cash Advance Loans in Oakland, California",
+    "subheadline": "Licensed lender serving Oakland and Alameda County residents",
+    "ctaText": "Apply Now for Oakland Cash",
+    "ctaUrl": "/apply?location=oakland-ca",
+    "secondaryCta": {
+      "text": "Get Directions",
+      "url": "https://maps.google.com/?q=oakland+cash+advance"
+    }
+  },
+
+  "localProof": {
+    "headline": "Where to Find Us in Oakland",
+    "directions": "We are conveniently located at 432 Broadway, right across from Lake Merritt and just down the road from the Oakland Museum. If you are taking I-80 or I-880, take Exit 41 toward downtown Oakland. Our downtown location is easily accessible with nearby parking.",
+    "landmarks": ["Lake Merritt", "Oakland Museum"],
+    "highway": "I-80 / I-880",
+    "exit": "Exit 41",
+    "neighborhoodName": "Downtown Oakland",
+    "hours": {
+      "monday": "9:00 AM - 7:00 PM",
+      "tuesday": "9:00 AM - 7:00 PM",
+      "wednesday": "9:00 AM - 7:00 PM",
+      "thursday": "9:00 AM - 7:00 PM",
+      "friday": "9:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 5:00 PM",
+      "sunday": "Closed"
+    },
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.890123!2d-122.2711!3d37.7749"
+  },
+
+  "nap": {
+    "name": "Lion Cash Advance - Oakland",
+    "street": "432 Broadway, Suite 220",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94607",
+    "phone": "(510) 555-0425",
+    "formattedPhone": "+15105550425",
+    "formattedAddress": "432 Broadway, Suite 220, Oakland, CA 94607",
+    "coordinates": {
+      "latitude": 37.7749,
+      "longitude": -122.2711
+    },
+    "googleMapsUrl": "https://www.google.com/maps?q=37.7749,-122.2711"
+  },
+
+  "productLinks": {
+    "headline": "Cash Advance Services in Oakland",
+    "intro": "Oakland residents and Bay Area workers trust us for dependable financial solutions. Explore our flexible loan options:",
+    "services": [
+      {
+        "name": "Fast Cash Advances",
+        "slug": "cash-advance-loans",
+        "url": "/services/cash-advance-loans",
+        "description": "Quick loans up to $300 with same-day funding",
+        "anchorText": "Learn about Fast Cash Advances"
+      },
+      {
+        "name": "Emergency Payday Loans",
+        "slug": "payday-loans",
+        "url": "/services/payday-loans",
+        "description": "Short-term loans for unexpected expenses",
+        "anchorText": "Emergency Payday Loans"
+      },
+      {
+        "name": "Guaranteed Approval Loans",
+        "slug": "guaranteed-approval-loans",
+        "url": "/services/guaranteed-approval-loans",
+        "description": "We work with all credit types",
+        "anchorText": "Guaranteed Approval Options"
+      },
+      {
+        "name": "Online Cash Loans",
+        "slug": "online-loans",
+        "url": "/services/online-loans",
+        "description": "Apply online and complete in Oakland",
+        "anchorText": "Apply Online"
+      }
+    ]
+  },
+
+  "stateCompliance": {
+    "headline": "Understanding California Cash Advance Laws in Oakland",
+    "content": "Alameda County residents, including Oakland, benefit from California's strict consumer protection regulations.",
+    "keyPoints": [
+      "Maximum loan amount is $300 including all fees",
+      "Maximum fee is 15% of check amount (460% APR typical)",
+      "Only one loan allowed at a time - rollovers prohibited",
+      "Criminal prosecution threats are illegal",
+      "Lion Cash Advance is DFPI licensed and regulated",
+      "One $15 NSF fee maximum per bounced check",
+      "Maximum 31-day loan term",
+      "All disclosures in your preferred language"
+    ],
+    "regulatoryBody": "California Department of Financial Protection and Innovation (DFPI)",
+    "regulatoryUrl": "https://dfpi.ca.gov",
+    "disclaimer": "This information is for educational purposes. California cash advance regulations may change. For current information, contact DFPI at 1-866-275-2677 or visit dfpi.ca.gov. Consult a California attorney for legal advice."
+  },
+
+  "localReviews": {
+    "headline": "What Our Oakland Customers Say",
+    "locationId": "oakland-ca",
+    "reviewSource": "Google Business Profile",
+    "showWidget": true,
+    "placeholder": [
+      {
+        "name": "David R.",
+        "rating": 5,
+        "text": "Great location near Lake Merritt in downtown Oakland. Quick approval process and professional staff. Got same-day funding.",
+        "date": "2024-12-27"
+      },
+      {
+        "name": "Sophia G.",
+        "rating": 5,
+        "text": "Efficient service and fair fees. Located right near Lake Merritt which makes it easy to find. Licensed by DFPI.",
+        "date": "2024-12-23"
+      },
+      {
+        "name": "Marcus T.",
+        "rating": 4,
+        "text": "Good experience at the Broadway location. Professional staff and transparent pricing. Recommend for Oakland residents.",
+        "date": "2024-12-18"
+      }
+    ]
+  },
+
+  "nearbyLocations": {
+    "headline": "Also Serving Nearby Bay Area Communities",
+    "intro": "Can't make it to our Oakland location? We serve these nearby Bay Area cities:",
+    "cities": [
+      {"name": "Berkeley", "slug": "berkeley", "url": "/locations/california/berkeley", "distanceMiles": 11},
+      {"name": "Emeryville", "slug": "emeryville", "url": "/locations/california/emeryville", "distanceMiles": 8},
+      {"name": "Piedmont", "slug": "piedmont", "url": "/locations/california/piedmont", "distanceMiles": 6},
+      {"name": "San Francisco", "slug": "san-francisco", "url": "/locations/california/san-francisco", "distanceMiles": 14}
+    ]
+  },
+
+  "faq": [
+    {
+      "question": "Where is your Oakland location?",
+      "answer": "We're at 432 Broadway, Suite 220, right across from Lake Merritt in downtown Oakland. Take I-80 or I-880 to Exit 41 toward downtown. Easy street and garage parking nearby."
+    },
+    {
+      "question": "How fast can I get approved in Oakland?",
+      "answer": "Most applications take 30-45 minutes. Bring a valid ID, recent pay stubs or proof of income, and checking account details for same-day approval."
+    },
+    {
+      "question": "What's the maximum loan amount?",
+      "answer": "California law limits loans to $300 including all fees. With the standard 15% fee, you can typically borrow up to $255."
+    },
+    {
+      "question": "What are your fees?",
+      "answer": "California caps fees at 15% of the check amount. For a $200 loan, fees are $30. For $255, the maximum fee is $45."
+    },
+    {
+      "question": "Is Lion Cash Advance properly licensed?",
+      "answer": "Yes, we are fully licensed by the California Department of Financial Protection and Innovation. Verify at dfpi.ca.gov/regulated-industries/regulated-entities-list/"
+    }
+  ],
+
+  "ctaSection": {
+    "headline": "Need Cash Fast in Oakland?",
+    "subheadline": "Visit our Broadway location or apply online now",
+    "primaryCta": {
+      "text": "Apply Now",
+      "url": "/apply?location=oakland-ca"
+    },
+    "secondaryCta": {
+      "text": "Call (510) 555-0425",
+      "url": "tel:+15105550425"
+    },
+    "address": "432 Broadway, Suite 220, Oakland, CA 94607"
+  },
+
+  "schema": {
+    "@type": "FinancialService",
+    "@context": "https://schema.org",
+    "name": "Lion Cash Advance - Oakland",
+    "areaServed": "Oakland, Alameda County, California",
+    "serviceType": "Cash Advance Loans"
+  },
+
+  "breadcrumbs": [
+    {"label": "Home", "url": "/"},
+    {"label": "Locations", "url": "/locations"},
+    {"label": "California", "url": "/locations/california"},
+    {"label": "Oakland", "url": "/locations/california/oakland"}
+  ],
+
+  "metadata": {
+    "generatedAt": "2025-11-29T10:30:00Z",
+    "generator": "city-page-generator",
+    "version": "2.0",
+    "antiDoorwayCompliance": true,
+    "stateComplianceIncluded": true
+  }
+}
