@@ -49,6 +49,7 @@ export default buildConfig({
     pool: {
       connectionString: process.env.DATABASE_URL || 'postgresql://postgres:lioncash123@localhost:5434/lioncash',
     },
+    push: true, // Auto-push schema changes in development
   }),
 
   typescript: {
